@@ -1,3 +1,5 @@
+#Table Dashboard
+
 # Import packages
 from dash import Dash, html, dash_table, dcc, callback, Output, Input
 import pandas as pd
@@ -13,8 +15,8 @@ app = Dash(__name__)
 app.layout = html.Div([
     html.Div(children='My First App with Data, Graph, and Controls'),
     html.Hr(),
-    dcc.RadioItems(options=['State', 'Crime'], value='lifeExp', id='controls-and-radio-item'),
-    dash_table.DataTable(data=df.to_dict('records'), page_size=6),
+    dcc.RadioItems(options=['Race', 'Crime', 'ST'], value='lifeExp', id='controls-and-radio-item'),
+    dash_table.DataTable(data=df.to_dict('records'), page_size=10),
     dcc.Graph(figure={}, id='controls-and-graph')
 ])
 
@@ -24,7 +26,7 @@ app.layout = html.Div([
     Input(component_id='controls-and-radio-item', component_property='value')
 )
 def update_graph(col_chosen):
-    fig = px.histogram(df, x='continent', y=col_chosen, histfunc='avg')
+    fig = px.histogram(df, x = col_chosen)
     return fig
 
 # Run the app
