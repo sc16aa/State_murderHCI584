@@ -1,0 +1,1029 @@
+#,Name,Age,Race,Crime,Sentence,Duration,Convicted,Exonerated,DNA,ST,County,Lat,Long
+0,Joseph Abbitt,31,Black,Child Sex Abuse,Life,14,1995,2009,True,NC,Forsyth,36.1306,-80.2563
+1,Warith Habib Abdal,43,Black,Sexual Assault,20 to Life,16,1983,1999,True,NY,Erie,42.764,-78.7323
+2,Christopher Abernathy,17,White,Murder,Life without parole,28,1987,2015,True,IL,Cook,41.8401,-87.8168
+3,Quentin Abney,32,Black,Robbery,20 to Life,6,2006,2012,False,NY,New York,40.7785,-73.9674
+4,Don Ray Adams,32,Black,Murder,Life,19,1992,2011,False,PA,Philadelphia,40.0077,-75.1339
+5,Reginald Adams,26,Black,Murder,Life without parole,31,1983,2014,False,LA,Orleans,30.0687,-89.9288
+6,Sean Adams,21,Black,Murder,Life,14,1999,2013,False,CT,New Haven,41.4106,-72.9321
+7,Joel Alcox,22,White,Murder,26 to life,29,1987,2016,False,CA,Santa Barbara,34.6729,-120.0169
+8,Robert Aldridge,24,White,Child Sex Abuse,Life,12,1985,1997,False,OH,Montgomery,39.7547,-84.2907
+9,John Randall Alexander,22,White,Murder,Life,21,1989,2010,False,MS,Panola,34.3639,-89.9506
+10,Malcolm Alexander,19,Black,Sexual Assault,Life without parole,38,1980,2018,True,LA,Jefferson,29.7872,-90.1274
+11,Dennis Allen,36,Black,Murder,Life,19,2000,2019,True,TX,Dallas,32.7666,-96.7778
+12,Donovan Allen,18,White,Murder,Life without parole,13,2002,2015,True,WA,Cowlitz,46.1932,-122.681
+13,James Allen,34,Black,Murder,Life without parole,34,1987,2021,False,IL,Cook,41.8401,-87.8168
+14,Joseph Allen,39,Black,Child Sex Abuse,Life,28,1994,2022,False,OH,Lorain,41.2957,-82.151
+15,Arthur Almendarez,19,Hispanic,Murder,Life without parole,32,1990,2022,False,IL,Cook,41.8401,-87.8168
+16,Roberto Almodovar,19,Hispanic,Murder,Life without parole,22,1995,2017,False,IL,Cook,41.8401,-87.8168
+17,Quintin Alonzo,21,Hispanic,Murder,Life,16,2003,2019,False,TX,Dallas,32.7666,-96.7778
+18,Ramon Alvarez,23,Hispanic,Murder,25 to life,10,2012,2022,False,CA,Orange,33.7031,-117.7609
+19,Peter Ambler,24,White,Murder,Life,2,1987,1989,False,WI,Rock,42.6712,-89.0716
+20,Michael Amick,32,White,Murder,Life,5,2011,2016,False,MO,Oregon,36.6866,-91.4033
+21,Marvin Anderson,18,Black,Sexual Assault,Life,20,1982,2002,True,VA,Hanover,37.7601,-77.491
+22,Eddie Andre,41,Black,Murder,25 to Life,6,1988,1994,False,NY,Queens,40.7023,-73.8203
+23,Isaiah Andrews,36,Black,Murder,Life,46,1975,2021,False,OH,Cuyahoga,41.4243,-81.6586
+24,James Andrews,21,Black,Murder,Life,23,1985,2008,False,IL,Cook,41.8401,-87.8168
+25,Alexandre Ansari,28,Black,Murder,Life without parole,6,2013,2019,False,MI,Wayne,42.2819,-83.2822
+26,Obie Anthony,19,Black,Murder,Life without parole,16,1995,2011,False,CA,Los Angeles,34.3209,-118.2247
+27,Wayne Antusas,17,White,Murder,Life without parole,23,1998,2021,False,IL,Cook,41.8401,-87.8168
+28,Ezequiel Apolo-Albino,55,Hispanic,Child Sex Abuse,6 3/4 to Life,7,2009,2016,False,WA,King,47.4902,-121.8052
+29,Victor Arciliares,21,Hispanic,Murder,Life,3,2013,2016,False,RI,Providence,41.8721,-71.58
+30,LaMonte Armstrong,38,Black,Murder,Life,18,1995,2013,True,NC,Guilford,36.0795,-79.7889
+31,Ralph Armstrong,27,White,Murder,Life,28,1981,2009,True,WI,Dane,43.0673,-89.4181
+32,Bladimil Arroyo,21,Hispanic,Murder,20 to Life,17,2002,2019,False,NY,Kings,40.6395,-73.9385
+33,Rogelio Arroyo,25,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook,41.8401,-87.8168
+34,Corey Atchison,19,Black,Murder,Life,30,1991,2021,False,OK,Tulsa,36.1211,-95.9415
+35,Dennis Atkins,21,Black,Murder,Life,16,2006,2022,False,MI,Wayne,42.2819,-83.2822
+36,Timothy Atkins,17,Black,Murder,32 to Life,20,1987,2007,False,CA,Los Angeles,34.3209,-118.2247
+37,Gerald Atlas,25,Black,Attempted Murder,28 to life,8,1990,1998,False,CA,Los Angeles,34.3209,-118.2247
+38,Darryl Austin,22,Black,Murder,18 to life,26,1988,2014,False,NY,Kings,40.6395,-73.9385
+39,Michael Austin,25,Black,Murder,Life,27,1975,2002,False,MD,Baltimore City,40.6395,-73.9385
+40,David Ayers,42,Black,Murder,Life without parole,11,2000,2011,True,OH,Cuyahoga,41.4243,-81.6586
+41,Devon Ayers,18,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx,40.8501,-73.866
+42,Devon Ayers,18,Black,Murder,25 to life,16,1997,2013,False,NY,Bronx,40.8501,-73.866
+43,Muhammad Aziz,26,Black,Murder,Life,55,1966,2021,False,NY,New York,40.7785,-73.9674
+44,Darryl Bailey,17,Black,Murder,Life,6,1994,2000,False,TN,Shelby,35.1842,-89.894
+45,James Bain,19,Black,Child Sex Abuse,Life,35,1974,2009,True,FL,Polk,27.9489,-81.6976
+46,Edward Baker,17,Black,Murder,Life,28,1974,2002,False,PA,Philadelphia,40.0077,-75.1339
+47,Jimmy Lee Baker,22,White,Assault,Life,1,2009,2010,False,OK,Bryan,33.9623,-96.2598
+48,Kevin Baker,23,Black,Murder,60 to life,24,1996,2020,False,NJ,Camden,39.8035,-74.9597
+49,Jarvis Ballard,18,Black,Sexual Assault,Life without parole,22,1999,2021,True,LA,St. Bernard,29.8692,-89.5552
+50,Antoine Bankhead,18,Black,Murder,Life,4,2002,2006,False,MO,St. Louis City,29.8692,-89.5552
+51,Bernard Baran,18,White,Child Sex Abuse,Life,24,1985,2009,False,MA,Berkshire,42.3707,-73.2063
+52,Joshua Bargery,20,White,Murder,Life without parole,7,2015,2022,False,TN,Lake,36.3352,-89.4935
+53,Lamar Barnes,20,Black,Murder,Life,19,2003,2022,False,VA,Portsmouth City,36.3352,-89.4935
+54,Steven Barnes,19,White,Murder,25 to Life,20,1989,2009,True,NY,Oneida,43.2418,-75.4358
+55,"Donald Barnes, Jr.",32,White,Child Sex Abuse,Life without parole,3,2011,2014,False,FL,Sarasota,27.1845,-82.3315
+56,Scotty Bartek,24,White,Child Sex Abuse,Life,23,1991,2014,False,FL,Marion,29.2102,-82.0567
+57,Kevin Baruxes,18,White,Sexual Assault,18 to Life,7,1996,2003,False,CA,San Diego,33.0343,-116.735
+58,Luis Batista,32,Hispanic,Robbery,25 to life,24,1994,2018,False,NY,Rensselaer,42.7111,-73.5097
+59,Floyd Batten,20,Black,Murder,20 to life,20,1984,2004,False,NY,Kings,40.6395,-73.9385
+60,Juan Bautista,19,Hispanic,Attempted Murder,40 to Life,10,2011,2021,False,CA,San Joaquin,37.9348,-121.2714
+61,Jacob Beard,34,White,Murder,Life without parole,7,1993,2000,False,WV,Pocahontas,38.3318,-80.0078
+62,Dale Beckett,33,Black,Murder,15 to Life,6,1997,2003,False,OH,Lucas,41.6197,-83.6588
+63,George Bell,19,Black,Murder,Life without parole,22,1999,2021,False,NY,Queens,40.7023,-73.8203
+64,Kareem Bellamy,26,Black,Murder,25 to Life,16,1995,2011,False,NY,Queens,40.7023,-73.8203
+65,Ricardo Benitez,54,Hispanic,Robbery,22 to life,5,2010,2015,False,NY,Queens,40.7023,-73.8203
+66,Gary Bennett,36,White,Murder,Life without parole,18,2002,2020,True,SC,Horry,33.9214,-78.9966
+67,Hassan Bennett,23,Black,Murder,Life without parole,11,2008,2019,False,PA,Philadelphia,40.0077,-75.1339
+68,Cheryl Beridon,23,Black,Drug Possession or Sale,Life,24,1979,2003,False,LA,Terrebonne,29.4148,-90.8663
+69,Fernando Bermudez,21,Hispanic,Murder,23 to Life,17,1992,2009,False,NY,New York,40.7785,-73.9674
+70,DeMarlo Berry,18,Black,Murder,Life,22,1995,2017,False,NV,Clark,36.2152,-115.0135
+71,Gregory Berry,20,White,Murder,Life without parole,16,2004,2020,False,MI,Wayne,42.2819,-83.2822
+72,Johnny Berry,16,Black,Murder,Life without parole,24,1995,2019,False,PA,Philadelphia,40.0077,-75.1339
+73,Thomas Bianco,19,White,Murder,25 to Life,7,1986,1993,False,NY,Cayuga,42.9175,-76.5545
+74,Gene Bibbins,29,Black,Child Sex Abuse,Life,16,1987,2003,True,LA,LA Parish,42.9175,-76.5545
+75,Dhoruba bin Wahad,26,Black,Attempted Murder,25 to Life,22,1973,1995,False,NY,New York,40.7785,-73.9674
+76,Phillip Bivens,28,Black,Murder,Life,30,1980,2010,True,MS,Forrest,31.1889,-89.2579
+77,James Blackmon,26,Black,Murder,Life,31,1988,2019,False,NC,Wake,35.7903,-78.6503
+78,Bryan Blake,22,White,Murder,25 to life,4,1985,1989,False,NY,New York,40.7785,-73.9674
+79,Jeffrey Blake,21,Black,Murder,36 to Life,7,1991,1998,False,NY,Kings,40.6395,-73.9385
+80,Floyd Bledsoe,23,White,Murder,Life,15,2000,2015,True,KS,Jefferson,39.2358,-95.3834
+81,Eddie Bolden,24,Black,Murder,Life without parole,20,1996,2016,False,IL,Cook,41.8401,-87.8168
+82,Rohan Bolt,35,Black,Murder,50 to Life,21,2000,2021,False,NY,Queens,40.7023,-73.8203
+83,Samuel Bonner,20,Black,Murder,Life without parole,36,1983,2019,False,CA,Los Angeles,34.3209,-118.2247
+84,Darrell Booth,28,Black,Murder,15 to Life,6,2011,2017,False,CA,Orange,33.7031,-117.7609
+85,Christopher Boots,19,White,Murder,20 to Life,8,1987,1995,True,OR,Lane,43.9386,-122.848
+86,James Bowman,18,Black,Murder,Life,15,1986,2001,False,MO,Jackson,39.0085,-94.3461
+87,Kevin Bowman,23,Black,Murder,Life,33,1990,2023,False,PA,Philadelphia,40.0077,-75.1339
+88,David Boyce,19,White,Murder,Life,22,1991,2013,True,VA,Newport News City,40.0077,-75.1339
+89,Darryl Boyd,16,Black,Murder,20 to Life,44,1977,2021,False,NY,Erie,42.764,-78.7323
+90,"Kenneth Wayne Boyd, Jr.",22,Black,Murder,Life,14,1999,2013,False,TX,Shelby,31.7924,-94.145
+91,Dewey Bozella,16,Black,Murder,20 to Life,26,1983,2009,False,NY,Dutchess,41.7652,-73.7429
+92,Rodney L. Bragg,31,Black,Drug Possession or Sale,Life,4,1996,2000,False,AR,Clark,34.051,-93.1764
+93,Adam Braseel,22,White,Murder,Life,14,2007,2021,False,TN,Grundy,35.3884,-85.7226
+94,Timothy Bridges,22,White,Sexual Assault,Life,25,1991,2016,True,NC,Mecklenburg,35.2467,-80.8328
+95,Gregory Bright,20,Black,Murder,Life,27,1976,2003,False,LA,Orleans,30.0687,-89.9288
+96,Jack Ray Broam,29,White,Child Sex Abuse,Life,8,1990,1998,False,NV,Churchill,39.5809,-118.3358
+97,Jerry Brock,35,Black,Child Sex Abuse,Life,19,1995,2014,False,WA,Thurston,46.9258,-122.8332
+98,Elvis Brooks,19,Black,Murder,Life without parole,45,1977,2022,False,LA,Orleans,30.0687,-89.9288
+99,Levon Brooks,26,Black,Murder,Life without parole,16,1992,2008,True,MS,Noxubee,33.1102,-88.5698
+100,Albert Brown,32,Black,Murder,Life without parole,35,1987,2022,False,MA,Suffolk,42.3333,-71.0719
+101,Arthur Brown,37,Black,Murder,Life without parole,27,1990,2017,False,IL,Cook,41.8401,-87.8168
+102,Danny Brown,24,Black,Murder,Life,19,1982,2001,True,OH,Lucas,41.6197,-83.6588
+103,Debra Brown,35,White,Murder,Life,18,1995,2013,False,UT,Cache,41.7224,-111.7436
+104,Dennis Brown,16,Black,Sexual Assault,Life,20,1985,2005,True,LA,St. Tammany,30.4102,-89.9583
+105,Jacquez Brown,15,Black,Murder,50 to Life,9,2013,2022,False,PA,York,39.92,-76.7265
+106,Joyce Ann Brown,33,Black,Murder,25 to Life,10,1980,1990,False,TX,Dallas,32.7666,-96.7778
+107,LeeVester Brown,33,Black,Murder,Life without parole,12,2006,2018,False,MS,Coahoma,34.23,-90.6018
+108,Patrick Brown,20,Black,Child Sex Abuse,Life without parole,29,1994,2023,False,LA,Orleans,30.0687,-89.9288
+109,Roy Brown,29,White,Murder,25 to Life,15,1992,2007,True,NY,Cayuga,42.9175,-76.5545
+110,Timothy Brown,14,Black,Murder,Life,10,1993,2003,False,FL,Broward,26.1523,-80.4871
+111,Tony Brown,33,Black,Murder,Life,8,2010,2018,False,FL,Miami-Dade,25.615,-80.5623
+112,"John Brown, Jr.",21,Black,Murder,Life,28,1992,2020,False,AR,Dallas,33.9699,-92.6544
+113,Samuel Brownridge,18,Black,Murder,25 to life,25,1995,2020,False,NY,Queens,40.7023,-73.8203
+114,Carl Bruner II,29,Black,Murder,Life without parole,6,2014,2020,False,MI,Wayne,42.2819,-83.2822
+115,Sheila Bryan,43,White,Murder,Life,2,1998,2000,False,GA,Colquitt,31.1884,-83.7688
+116,David Bryant,18,Black,Murder,25 to Life,43,1976,2019,False,NY,Bronx,40.8501,-73.866
+117,Malcolm Bryant,24,Black,Murder,Life,17,1999,2016,True,MD,Baltimore City,40.8501,-73.866
+118,Calvin Buari,20,Black,Murder,50 to life,23,1995,2018,False,NY,Bronx,40.8501,-73.866
+119,Richard Buchli II,50,White,Murder,Life without parole,10,2002,2012,False,MO,Jackson,39.0085,-94.3461
+120,Gyronne Buckley,44,Black,Drug Possession or Sale,Life,11,1999,2010,False,AR,Clark,34.051,-93.1764
+121,David Bueso,19,Hispanic,Murder,Life without parole,2,2019,2021,False,LA,East Baton Rouge,30.5383,-91.0956
+122,Michael Bumbury,23,Black,Sexual Assault,12 to Life,3,1999,2002,False,NY,Bronx,40.8501,-73.866
+123,John Bunn,14,Black,Murder,7 to life,26,1992,2018,False,NY,Kings,40.6395,-73.9385
+124,Gerald Burge,29,White,Murder,Life without parole,6,1986,1992,False,LA,St. Tammany,30.4102,-89.9583
+125,Sabein Burgess,24,Black,Murder,Life,19,1995,2014,False,MD,Baltimore City,30.4102,-89.9583
+126,Richard Burkhart,22,White,Murder,Life,15,2002,2017,False,MT,Cascade,47.308,-111.347
+127,Troy Burner ,17,Black,Murder,30 to life,26,1994,2020,False,DC,,47.308,-111.347
+128,Brandon Burnside,27,Black,Murder,Life,4,2011,2015,True,WI,Milwaukee,43.0072,-87.9669
+129,Lazaro Burt,20,Black,Murder,25 to Life,8,1994,2002,False,NY,Queens,40.7023,-73.8203
+130,Danny Burton,19,Black,Murder,Life without parole,32,1987,2019,False,MI,Wayne,42.2819,-83.2822
+131,Darryl Burton,22,Black,Murder,Life,23,1985,2008,False,MO,Cole,38.5054,-92.2816
+132,Huwe Burton,16,Black,Murder,15 to Life,28,1991,2019,False,NY,Bronx,40.8501,-73.866
+133,Keith Bush,17,Black,Murder,20 to Life,43,1976,2019,True,NY,Suffolk,40.8686,-72.8448
+134,Dennis Butler,19,Black,Murder,20 to life,49,1971,2020,False,DC,,40.8686,-72.8448
+135,Robert Butler,34,Black,Sexual Assault,Life,18,1977,1995,False,TN,Knox,35.9932,-83.9371
+136,"A.B. Butler, Jr.",28,Black,Sexual Assault,Life,17,1983,2000,True,TX,Smith,32.375,-95.2692
+137,Kevin Byrd,23,Black,Sexual Assault,Life,12,1985,1997,True,TX,Harris,29.8577,-95.3936
+138,Donovan Cadogan,29,White,Other Nonviolent Felony,Life without parole,4,2013,2017,False,WI,Lacrosse,29.8577,-95.3936
+139,Eric Caine,19,Black,Murder,Life,22,1989,2011,False,IL,Cook,41.8401,-87.8168
+140,Maurice Caldwell,23,Black,Murder,27 to Life,20,1991,2011,False,CA,San Francisco,37.7558,-122.4449
+141,Lawrence Callanan,19,White,Murder,Life without parole,24,1996,2020,False,MO,St. Louis,37.7558,-122.4449
+142,David Camm,36,White,Murder,Life,11,2002,2013,True,IN,Floyd,38.3188,-85.907
+143,Lamont Campbell,17,Black,Murder,Life,7,2016,2023,False,MO,St. Louis City,38.3188,-85.907
+144,Philip Scott Cannon,32,White,Murder,Life without parole,9,2000,2009,False,OR,Polk,44.9035,-123.4132
+145,Mark Canter,22,White,Accessory to Murder,Life,8,1988,1996,False,MI,Otsego,45.0214,-84.599
+146,Shamel Capers,15,Black,Murder,15 to Life,5,2017,2022,False,NY,Queens,40.7023,-73.8203
+147,Anthony Caravella,15,White,Murder,Life,26,1984,2010,True,FL,Broward,26.1523,-80.4871
+148,Keith Carnes,33,Black,Murder,Life without parole,17,2005,2022,False,MO,Jackson,39.0085,-94.3461
+149,Daniel Carnevale,29,White,Murder,Life without parole,13,2007,2020,False,PA,Allegheny,40.4688,-79.9812
+150,Jose Caro,27,Hispanic,Murder,Life,22,1994,2016,True,PR,Aguadilla,40.4688,-79.9812
+151,De'Marchoe Carpenter,17,Black,Murder,Life,21,1995,2016,False,OK,Tulsa,36.1211,-95.9415
+152,Weldon Wayne Carr,57,White,Murder,Life,10,1994,2004,False,GA,Fulton,33.7903,-84.467
+153,Franky Carrillo,16,Hispanic,Murder,Life,19,1992,2011,False,CA,Los Angeles,34.3209,-118.2247
+154,Edward Carter,19,Black,Sexual Assault,Life,35,1975,2010,False,MI,Wayne,42.2819,-83.2822
+155,Joseph Carter,,Black,Murder,Life,31,1990,2021,False,VA,Norfolk City,42.2819,-83.2822
+156,Raymond Carter,40,Black,Murder,Life,8,1988,1996,False,PA,Philadelphia,40.0077,-75.1339
+157,Mark Carver,39,White,Murder,Life,11,2011,2022,True,NC,Gaston,35.2944,-81.1803
+158,Elgerie Cash,45,White,Murder,Life,6,2013,2019,False,GA,Paulding,33.9205,-84.8673
+159,Juan Celestino,41,Hispanic,Child Sex Abuse,Life,4,1991,1995,False,OH,Sandusky,41.3562,-83.1464
+160,Raymond Champagne,23,White,Murder,Life without parole,41,1979,2020,False,MA,Norfolk,42.1605,-71.2115
+161,Clarence Chance,23,Black,Murder,Life,17,1975,1992,False,CA,Los Angeles,34.3209,-118.2247
+162,Steven Chaney,31,White,Murder,Life,32,1987,2019,True,TX,Dallas,32.7666,-96.7778
+163,Anthony Chaparro,48,Hispanic,Sexual Assault,Life,11,2003,2014,True,NJ,Union,40.6601,-74.3087
+164,Justin Chapman,27,White,Murder,Life,9,2007,2016,False,GA,Haralson,33.7942,-85.211
+165,Vernon Chapman,23,Black,Sexual Assault,Life,14,1980,1994,False,LA,St. Tammany,30.4102,-89.9583
+166,Clyde Charles,26,Black,Sexual Assault,Life,17,1982,1999,True,LA,Terrebonne,29.4148,-90.8663
+167,Louis Charriez,33,Hispanic,Murder,25 to Life,26,1997,2023,False,NY,Kings,40.6395,-73.9385
+168,Charles Chatman,20,Black,Sexual Assault,Life,27,1981,2008,True,TX,Dallas,32.7666,-96.7778
+169,Alfred Chestnut,16,Black,Murder,Life,35,1984,2019,False,MD,Baltimore City,32.7666,-96.7778
+170,Frances Choy,17,Asian,Murder,Life without parole,9,2011,2020,False,MA,Plymouth,41.9512,-70.8114
+171,Kino Christian,29,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee,43.0217,-83.7067
+172,Tom Edwin Chumley,52,White,Murder,Life,4,2005,2009,False,GA,Columbia,33.5441,-82.2641
+173,Prakash Churaman,15,Black,Murder,9 to life,4,2018,2022,False,NY,Queens,40.7023,-73.8203
+174,Gary Cifizzari ,23,White,Murder,Life without parole,35,1984,2019,True,MA,Worcester,42.3514,-71.9077
+175,Joaquin Ciria,29,Black,Murder,31 to life,31,1991,2022,False,CA,San Francisco,37.7558,-122.4449
+176,Michael Clancy,22,Hispanic,Murder,25 to Life,10,1999,2009,False,NY,Bronx,40.8501,-73.866
+177,Alphonso Clark,23,Black,Murder,Life without parole,18,2005,2023,False,MI,Wayne,42.2819,-83.2822
+178,Carey Clark,37,White,Murder,Life,2,1996,1998,False,NC,Avery,36.0765,-81.9226
+179,Darrell Clark,17,White,Murder,Life,24,1998,2022,False,GA,Floyd,34.2632,-85.2143
+180,George Clark,31,Black,Murder,Life without parole,17,2003,2020,False,MI,Wayne,42.2819,-83.2822
+181,Jeffrey Clark,21,White,Murder,Life,23,1995,2018,True,KY,Meade,37.9697,-86.217
+182,Robert Clark,20,Black,Sexual Assault,Life,23,1982,2005,True,GA,Cobb,33.9415,-84.5767
+183,Frederick Clay,16,Black,Murder,Life without parole,36,1981,2017,True,MA,Suffolk,42.3333,-71.0719
+184,"David Clay, Sr.",37,Black,Murder,Life without parole,11,1988,1999,False,MO,St. Louis,42.3333,-71.0719
+185,Christopher Clugston,21,White,Murder,Life,18,1983,2001,False,FL,Broward,26.1523,-80.4871
+186,Allen Coco,26,Black,Sexual Assault,Life,9,1997,2006,True,LA,Calcasieu,30.2293,-93.3581
+187,Reggie Cole,18,Black,Murder,Life,14,1995,2009,False,CA,Los Angeles,34.3209,-118.2247
+188,Nevest Coleman,25,Black,Murder,Life without parole,20,1997,2017,True,IL,Cook,41.8401,-87.8168
+189,Craig Coley,31,White,Murder,Life without parole,37,1980,2017,True,CA,Ventura,34.4561,-119.0836
+190,Rosalynd Collier-Hammond,27,Black,Child Sex Abuse,Life,18,1999,2017,False,OH,Cuyahoga,41.4243,-81.6586
+191,Jabbar Collins,20,Black,Murder,34 to Life,15,1995,2010,False,NY,Kings,40.6395,-73.9385
+192,Danny Colon,26,Hispanic,Murder,50 to life,18,1993,2011,False,NY,New York,40.7785,-73.9674
+193,Robert Carroll Coney,33,Black,Robbery,Life,38,1966,2004,False,TX,Angelina,31.2548,-94.6119
+194,Caramad Conley,18,Black,Murder,Life without parole,17,1994,2011,False,CA,San Francisco,37.7558,-122.4449
+195,Matthew Connor,41,Black,Murder,Life,10,1980,1990,False,PA,Philadelphia,40.0077,-75.1339
+196,Marco Contreras,20,Hispanic,Attempted Murder,Life,20,1997,2017,False,CA,Los Angeles,34.3209,-118.2247
+197,Olin Coones,50,White,Murder,50 to life,11,2009,2020,False,KS,Wyandotte,39.1146,-94.7646
+198,Emmanuelle Cooper,25,Black,Murder,25 to life,27,1993,2020,False,NY,Kings,40.6395,-73.9385
+199,Damon Corner,23,Black,Murder,Life,10,2002,2012,False,FL,Palm Beach,26.6476,-80.4655
+200,George Cortez,30,Black,Murder,Life without parole,4,2012,2016,False,PA,Philadelphia,40.0077,-75.1339
+201,Michael Cosme,19,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx,40.8501,-73.866
+202,Michael Cosme,19,Black,Murder,25 to life,16,1997,2013,False,NY,Bronx,40.8501,-73.866
+203,Marvin Cotton,21,Black,Murder,Life without parole,19,2001,2020,False,MI,Wayne,42.2819,-83.2822
+204,Ronald Cotton,22,Black,Sexual Assault,Life,10,1985,1995,True,NC,Alamance,36.0437,-79.3994
+205,Troy Coulston,20,Black,Murder,Life without parole,29,1992,2021,False,PA,Philadelphia,40.0077,-75.1339
+206,Uriah Courtney,25,White,Sexual Assault,Life,7,2006,2013,True,CA,San Diego,33.0343,-116.735
+207,Jeffrey Cox,22,White,Murder,Life,10,1991,2001,False,VA,Richmond City,33.0343,-116.735
+208,Leonard Craine,37,Black,Child Sex Abuse,Life,12,1990,2002,False,NV,Clark,36.2152,-115.0135
+209,Steven Crawford,14,Black,Murder,Life,28,1974,2002,False,PA,Dauphin,40.4154,-76.7795
+210,Cory Credell,27,Black,Murder,Life,11,2001,2012,False,SC,Orangeburg,33.439,-80.8003
+211,Roy Criner,21,White,Sexual Assault,Life,10,1990,2000,True,TX,Montgomery,30.3002,-95.503
+212,Timothy Crosby,27,Black,Assault,10 to Life,10,1989,1999,False,NY,Kings,40.6395,-73.9385
+213,Curtis Crosland,23,Black,Murder,Life without parole,33,1988,2021,False,PA,Philadelphia,40.0077,-75.1339
+214,Alan Crotzer,19,Black,Sexual Assault,Life,24,1982,2006,True,FL,Hillsborough,27.9291,-82.3091
+215,Norma Jean Croy,24,Native American,Murder,Life,18,1979,1997,False,CA,Siskiyou,41.5927,-122.5404
+216,Efren Cruz,22,Hispanic,Murder,41 to Life,4,1997,2001,False,CA,Santa Barbara,34.6729,-120.0169
+217,Leonard Cure,33,Black,Robbery,Life,16,2004,2020,False,FL,Broward,26.1523,-80.4871
+218,Catina Curley,32,Black,Murder,Life,12,2007,2019,False,LA,Orleans,30.0687,-89.9288
+219,Albert Daidone,38,White,Murder,Life without parole,15,1984,1999,False,PA,Philadelphia,40.0077,-75.1339
+220,Dwayne Allen Dail,17,White,Child Sex Abuse,Life,18,1989,2007,True,NC,Wayne,35.364,-78.004
+221,Michael Damien,27,White,Murder,20 to Life,30,1975,2005,False,DC,,35.364,-78.004
+222,Beniah Alton Dandridge,29,White,Murder,Life,19,1996,2015,False,AL,Montgomery,32.2203,-86.2076
+223,Elmer Daniels,18,Black,Child Sex Abuse,Life,38,1980,2018,False,DE,New Castle,39.5768,-75.6527
+224,Richard Danziger,18,White,Sexual Assault,Life,12,1990,2002,True,TX,Travis,30.3344,-97.782
+225,Andre Davis,19,Black,Murder,Life,31,1981,2012,True,IL,Champaign,40.1401,-88.1992
+226,James Davis,21,Black,Murder,18 to life,15,2006,2021,False,NY,Kings,40.6395,-73.9385
+227,Ricky Davis,20,White,Murder,16 to life,15,2005,2020,True,CA,El Dorado,38.7787,-120.5247
+228,"Glenn Davis, Jr.",18,Black,Murder,Life without parole,17,1993,2010,False,LA,Jefferson,29.7872,-90.1274
+229,Anthony Daye,30,Black,Drug Possession or Sale,Life,5,2012,2017,False,LA,Iberia,29.8965,-91.7301
+230,Frederick Renee Daye,25,Black,Sexual Assault,Life,10,1984,1994,True,CA,San Diego,33.0343,-116.735
+231,Selwyn Days,32,Black,Murder,50 to life,13,2004,2017,True,NY,Westchester,41.1624,-73.7561
+232,Derrick Deacon,34,Black,Murder,25 to life,24,1989,2013,False,NY,Kings,40.6395,-73.9385
+233,Angel M. DeAngelo,26,Hispanic,Murder,Life,1,2003,2004,False,Y,(Eastern),40.6395,-73.9385
+234,Albert Debelbot,22,Other,Murder,Life,12,2009,2021,False,GA,Muscogee,32.51,-84.8771
+235,Ashley Debelbot,23,Black,Murder,Life,12,2009,2021,False,GA,Muscogee,32.51,-84.8771
+236,Eric DeBerry,23,Black,Robbery,25 to Life,20,2000,2020,False,NY,Kings,40.6395,-73.9385
+237,Juwan Deering,29,Black,Murder,Life without parole,15,2006,2021,False,MI,Oakland,42.6604,-83.3858
+238,George DeJesus,18,Hispanic,Murder,Life,25,1997,2022,True,MI,Oakland,42.6604,-83.3858
+239,Melvin DeJesus,21,Hispanic,Murder,Life,25,1997,2022,True,MI,Oakland,42.6604,-83.3858
+240,Arturo DeLeon-Reyes,25,Hispanic,Murder,Life without parole,17,2000,2017,False,IL,Cook,41.8401,-87.8168
+241,Larry Delmore,22,Black,Murder,Life without parole,17,1993,2010,False,LA,Jefferson,29.7872,-90.1274
+242,Cedric Dent,22,Black,Murder,Life without parole,23,1999,2022,False,LA,Orleans,30.0687,-89.9288
+243,Jeffrey Deskovic,16,White,Murder,15 to Life,16,1990,2006,True,NY,Westchester,41.1624,-73.7561
+244,Robert Dewey,33,White,Murder,Life,16,1996,2012,True,CO,Mesa,39.0183,-108.4664
+245,Steven Dewitt,20,Black,Murder,15 to Life,14,1992,2006,False,DC,,39.0183,-108.4664
+246,Luis Diaz,40,Hispanic,Sexual Assault,Life,25,1980,2005,True,FL,Miami-Dade,25.615,-80.5623
+247,"Joseph Dick, Jr.",20,White,Murder,Life without parole,17,1999,2016,False,VA,Norfolk City,25.615,-80.5623
+248,Grace Dill,50,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+249,"Wayne Dill, Jr.",26,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+250,William Dillon,21,White,Murder,Life,27,1981,2008,True,FL,Brevard,28.2937,-80.7323
+251,Douglas Dilosa,35,White,Murder,Life,16,1987,2003,False,LA,Jefferson,29.7872,-90.1274
+252,Louis DiNicola,29,White,Murder,Life,14,1980,1994,False,PA,Erie,41.9925,-80.0327
+253,Jack Dinning,38,White,Murder,Life,4,1993,1997,False,GA,Rabun,34.8818,-83.402
+254,Anthony DiPippo,18,White,Murder,25 to life,19,1997,2016,True,NY,Putnam,41.4267,-73.7495
+255,Bobby Ray Dixon,22,Black,Murder,Life,30,1980,2010,True,MS,Forrest,31.1889,-89.2579
+256,Donald Dixon,18,Black,Murder,Life,16,1985,2001,False,MO,Jackson,39.0085,-94.3461
+257,Marvell Dixon,18,Black,Murder,20 to Life,24,1998,2022,False,OH,Franklin,39.9695,-83.0093
+258,Rafiq Dixon,29,Black,Murder,Life,10,2012,2022,False,PA,Philadelphia,40.0077,-75.1339
+259,Valentino Dixon,21,Black,Murder,38 1/3 to life,26,1992,2018,False,NY,Erie,42.764,-78.7323
+260,Alfredo Domenech,23,Hispanic,Murder,Life,17,1988,2005,False,PA,Philadelphia,40.0077,-75.1339
+261,Gerard Domond,24,Black,Murder,25 to life,31,1989,2020,False,NY,Kings,40.6395,-73.9385
+262,Jane Dorotik,53,White,Murder,25 to life,21,2001,2022,True,CA,San Diego,33.0343,-116.735
+263,Giovante Douglas,19,Black,Murder,26 years to life,6,2016,2022,False,CA,Alameda,37.6469,-121.8888
+264,Gayle Dove,41,White,Child Sex Abuse,Life,4,1986,1990,False,TX,El Paso,31.7686,-106.2348
+265,Gabriel Drennen,36,White,Murder,Life,2,2011,2013,False,WY,Fremont,43.0405,-108.6304
+266,Shawn Drumgold,23,Black,Murder,Life,14,1989,2003,False,MA,Suffolk,42.3333,-71.0719
+267,Howard Dudley,34,Black,Child Sex Abuse,Life,24,1992,2016,False,NC,Lenoir,35.2388,-77.6412
+268,Carl Dukes,19,Black,Murder,39 to life,18,1998,2016,False,NY,Albany,42.6002,-73.9736
+269,Edward Dumbrique,15,Hispanic,Murder,Life without parole,23,1998,2021,False,CA,Los Angeles,34.3209,-118.2247
+270,Calvin Duncan,18,Black,Murder,Life without parole,36,1985,2021,False,LA,Orleans,30.0687,-89.9288
+271,Charlie Dunn,43,Black,Murder,Life,34,1988,2022,False,TN,Davidson,36.1695,-86.7847
+272,Timothy Durham,28,White,Child Sex Abuse,Life,4,1993,1997,True,OK,Tulsa,36.1211,-95.9415
+273,John Duval,21,Black,Murder,25 to Life,27,1973,2000,False,NY,Monroe,43.1464,-77.6961
+274,Nathan Christopher Dwight,21,Black,Robbery,Life,3,2010,2013,True,GA,Rockdale,33.6543,-84.0266
+275,Margaret Earle,21,White,Murder,Life,5,2005,2010,False,MA,Plymouth,41.9512,-70.8114
+276,Ralph Earnest,34,White,Murder,Life,23,1983,2006,False,NM,Eddy,32.4714,-104.3044
+277,Joseph Eastridge,28,White,Murder,20 to Life,30,1975,2005,False,DC,,32.4714,-104.3044
+278,Angel Echavarria,27,Hispanic,Murder,Life without parole,19,1996,2015,True,MA,Essex,42.6732,-70.952
+279,Tyler Edmonds,13,White,Murder,Life,4,2004,2008,False,MS,Oktibbeha,33.425,-88.8793
+280,Dartanion Edwards,19,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee,43.0217,-83.7067
+281,James Edwards,44,Black,Murder,Life without parole,16,1996,2012,True,IL,Lake,42.3233,-88.0037
+282,Joshun Edwards,27,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee,43.0217,-83.7067
+283,Joe Elizondo,49,Hispanic,Child Sex Abuse,Life,13,1984,1997,False,TX,Jefferson,29.8841,-94.1629
+284,Clarence Elkins,35,White,Murder,55 to Life,6,1999,2005,True,OH,Summit,41.126,-81.5322
+285,Vincent Ellerbe,17,Black,Murder,25 to Life,26,1996,2022,False,NY,Kings,40.6395,-73.9385
+286,Tyrone Ellington,31,Black,Child Sex Abuse,Life,2,1989,1991,False,OH,Mahoning,41.0146,-80.7763
+287,Sean Ellis,19,Black,Murder,Life,23,1995,2018,False,MA,Suffolk,42.3333,-71.0719
+288,Cory Epps,25,Black,Murder,25 to life,19,1998,2017,False,NY,Erie,42.764,-78.7323
+289,Lonnie Erby,31,Black,Child Sex Abuse,Life,17,1986,2003,True,MO,St. Louis City,42.764,-78.7323
+290,Robert Escalera,21,Hispanic,Murder,15 to Life,14,1976,1990,False,NY,Kings,40.6395,-73.9385
+291,Eric Esse,33,White,Murder,Life without parole,3,2003,2006,False,IA,Cerro Gordo,43.0816,-93.2608
+292,Jerry Lee Evans,24,Black,Sexual Assault,Life,22,1987,2009,True,TX,Dallas,32.7666,-96.7778
+293,Michael Evans,17,Black,Murder,Life,27,1976,2003,True,IL,Cook,41.8401,-87.8168
+294,Steven Everling,33,White,Child Sex Abuse,Life,4,2008,2012,False,IN,Madison,40.1616,-85.7194
+295,Louis Eze,31,Black,Child Sex Abuse,35 2/3 to life,14,1993,2007,False,NY,Erie,42.764,-78.7323
+296,James Fagan,36,Black,Child Sex Abuse,Life,10,1988,1998,False,MI,Genesee,43.0217,-83.7067
+297,Anthony Faison,21,Black,Murder,20 to Life,13,1988,2001,False,NY,Kings,40.6395,-73.9385
+298,Russell Faria,41,White,Murder,Life without parole,2,2013,2015,False,MO,Lincoln,39.058,-90.96
+299,William Farnbaugh,25,White,Sexual Assault,Life,7,1997,2004,False,FL,Pasco,28.3091,-82.3932
+300,David Faulkner,22,White,Murder,Life without parole,21,2001,2022,False,MD,Talbot,38.7713,-76.0971
+301,Kenneth Faulkner,39,White,Kidnapping,30 to Life,3,2000,2003,False,CA,Kern,35.3426,-118.7301
+302,David Fauntleroy,22,Black,Murder,Life,23,1986,2009,False,IL,Cook,41.8401,-87.8168
+303,Lance Felder,16,Black,Murder,Life,16,1998,2014,False,PA,Philadelphia,40.0077,-75.1339
+304,Robert Fenenbock,38,White,Murder,25 to Life,26,1994,2020,False,CA,Trinity,40.6507,-123.1126
+305,Pablo Fernandez,20,Hispanic,Murder,25 to life,23,1996,2019,False,NY,New York,40.7785,-73.9674
+306,Raymond Flanks,20,Black,Murder,Life without parole,37,1985,2022,False,LA,Orleans,30.0687,-89.9288
+307,Jonathan Fleming,27,Black,Murder,25 to life,24,1990,2014,False,NY,Kings,40.6395,-73.9385
+308,"James Fletcher, Jr.",27,Black,Murder,Life without parole,15,2005,2020,False,IL,Cook,41.8401,-87.8168
+309,Curtis Flowers,21,Black,Murder,Life without parole,6,2004,2010,True,AR,Columbia,33.2143,-93.2273
+310,John Floyd,31,White,Murder,Life without parole,36,1982,2018,True,LA,Orleans,30.0687,-89.9288
+311,Lewis Fogle,24,White,Murder,Life without parole,33,1982,2015,True,PA,Indiana,40.652,-79.0876
+312,Kenneth Wayne Foley,26,White,Robbery,25 to Life,12,1995,2007,False,CA,Santa Clara,37.2318,-121.6951
+313,Thomas Foley,40,White,Murder,Life,2,2009,2011,False,MI,Branch,41.9161,-85.059
+314,Walter Forbes,25,Black,Murder,Life without parole,37,1983,2020,False,MI,Jackson,42.2485,-84.4234
+315,Colleen Dill Forsythe,26,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+316,Wayne Forsythe,28,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+317,Joel Fowler,17,Black,Murder,25 to life,6,2009,2015,False,NY,Kings,40.6395,-73.9385
+318,Lawrence Fowler,37,Black,Murder,25 to Life,8,1998,2006,False,NY,Bronx,40.8501,-73.866
+319,Robert Foxworth,23,Black,Murder,Life,29,1992,2021,False,MA,Suffolk,42.3333,-71.0719
+320,Brian Franklin,34,White,Child Sex Abuse,Life,21,1995,2016,False,TX,Tarrant,32.7719,-97.2911
+321,George Franklin,30,White,Murder,Life,6,1990,1996,True,CA,San Mateo,37.4229,-122.329
+322,James Frazier,19,Black,Murder,Life without parole,6,2013,2019,False,PA,Philadelphia,40.0077,-75.1339
+323,Joseph Frey,31,White,Sexual Assault,Life,19,1994,2013,True,WI,Winnebago,44.0689,-88.6446
+324,Dennis Fritz,22,White,Murder,Life,11,1988,1999,True,OK,Pontotoc,34.728,-96.6844
+325,Darryl Fulton,26,Black,Murder,Life without parole,20,1997,2017,True,IL,Cook,41.8401,-87.8168
+326,Rayshard  Futrell,17,Black,Murder,Life,1,2009,2010,False,MI,Wayne,42.2819,-83.2822
+327,Kunta Gable,17,Black,Murder,Life without parole,26,1996,2022,False,LA,Orleans,30.0687,-89.9288
+328,Richard Gagnon,32,White,Murder,Life without parole,7,2008,2015,True,SC,Horry,33.9214,-78.9966
+329,Luis Galicia,21,Hispanic,Child Sex Abuse,15 to Life,3,2008,2011,False,CA,San Diego,33.0343,-116.735
+330,Aaron Galli,22,White,Murder,10 to life,0,1993,1993,False,UT,Salt Lake,40.6673,-111.9236
+331,John Galvan,18,Hispanic,Murder,Life without parole,33,1989,2022,False,IL,Cook,41.8401,-87.8168
+332,Robert Gandy,24,Black,Robbery,Life,30,1990,2020,False,TX,Harris,29.8577,-95.3936
+333,Timothy Gantt,47,Black,Murder,Life without parole,14,1994,2008,False,CA,Los Angeles,34.3209,-118.2247
+334,Arkel Garcia,19,Black,Murder,Life without parole,6,2015,2021,False,PA,Philadelphia,40.0077,-75.1339
+335,Jose Garcia,27,Hispanic,Murder,25 to life,14,1993,2007,False,NY,Bronx,40.8501,-73.866
+336,Roy Lopez Garcia,45,Hispanic,Murder,Life,6,2000,2006,False,CA,Santa Clara,37.2318,-121.6951
+337,Kenneth Gardiner,21,White,Murder,Life,26,1992,2018,False,GA,Chatham,32.0043,-81.1329
+338,Jimmie Gardner,20,Black,Sexual Assault,33 to life,26,1990,2016,False,WV,Kanawha,38.3366,-81.5281
+339,Claude Garrett,35,White,Murder,Life without parole,29,1993,2022,False,TN,Davidson,36.1695,-86.7847
+340,"Edward Garry, Jr.",20,Hispanic,Murder,25 to life,21,1997,2018,False,NY,Bronx,40.8501,-73.866
+341,"Merardo Garza, Jr.",37,Hispanic,Child Sex Abuse,25 to Life,13,2008,2021,False,KS,Sedgwick,37.6848,-97.461
+342,Donald Eugene Gates,30,Black,Murder,20 to Life,27,1982,2009,True,DC,,37.6848,-97.461
+343,Gary Gathers,17,Black,Murder,36 to life,21,1994,2015,False,DC,,37.6848,-97.461
+344,Paul Gatling,29,Black,Murder,30 to life,52,1964,2016,False,NY,Kings,40.6395,-73.9385
+345,David Lee Gavitt,26,White,Murder,Life without parole,26,1986,2012,False,MI,Ionia,42.9451,-85.0746
+346,Robert Gayol,33,Hispanic,Murder,Life,2,2001,2003,False,IL,Cook,41.8401,-87.8168
+347,Barry Gibbs,38,White,Murder,20 to Life,17,1988,2005,False,NY,Kings,40.6395,-73.9385
+348,James Gibson,23,Black,Murder,Life without parole,28,1991,2019,False,IL,Cook,41.8401,-87.8168
+349,Roland Gibson,20,Black,Murder,Life,25,1968,1993,False,LA,Orleans,30.0687,-89.9288
+350,Eugene Gilyard,16,Black,Murder,Life,16,1998,2014,False,PA,Philadelphia,40.0077,-75.1339
+351,Ray Girdler,36,White,Murder,Life,9,1982,1991,False,AZ,Yavapai,34.5998,-112.5538
+352,David Gladden ,36,Black,Murder,Life,12,1995,2007,False,PA,Dauphin,40.4154,-76.7795
+353,Eric Glisson,18,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx,40.8501,-73.866
+354,Laurese Glover,16,Black,Murder,15 to life,20,1996,2016,False,OH,Cuyahoga,41.4243,-81.6586
+355,Scott Godesky,24,White,Murder,Life without parole,22,1997,2019,False,PA,Allegheny,40.4688,-79.9812
+356,Antoine Goff,19,Black,Murder,27 to Life,13,1990,2003,False,CA,San Francisco,37.7558,-122.4449
+357,Thomas Lee Goldstein,30,White,Murder,25 to Life,24,1980,2004,False,CA,Los Angeles,34.3209,-118.2247
+358,Alfonso Gomez,21,Hispanic,Murder,41 to Life,14,1998,2012,False,CA,Orange,33.7031,-117.7609
+359,Shannon Gonser,34,White,Child Sex Abuse,20 to life,4,2006,2010,False,CO,Arapahoe,39.6498,-104.3393
+360,Alfredo Gonzalez,32,Hispanic,Murder,Life without parole,30,1992,2022,False,IL,Cook,41.8401,-87.8168
+361,Ernesto Gonzalez,53,Hispanic,Murder,Life,7,2013,2020,False,NV,Washoe,40.6655,-119.6643
+362,Hector Gonzalez,18,Hispanic,Murder,15 to Life,6,1996,2002,True,NY,Kings,40.6395,-73.9385
+363,Donald Wayne Good,23,White,Sexual Assault,Life,20,1984,2004,True,TX,Dallas,32.7666,-96.7778
+364,Bruce Dallas Goodman,34,White,Murder,5 to Life,18,1986,2004,True,UT,Beaver,38.357,-113.2355
+365,Christopher Goodwin,20,Black,Murder,Life without parole,10,2013,2023,False,PA,Philadelphia,40.0077,-75.1339
+366,Kendall Gordon,18,Black,Murder,Life without parole,11,2010,2021,True,LA,Orleans,30.0687,-89.9288
+367,Arthur Grajeda,19,Hispanic,Murder,32 to life,4,1987,1991,False,CA,Los Angeles,34.3209,-118.2247
+368,Senon Grajeda,31,Hispanic,Murder,45 to life,6,1987,1993,False,CA,Los Angeles,34.3209,-118.2247
+369,Lydell Grant,33,Black,Murder,Life,9,2012,2021,True,TX,Harris,29.8577,-95.3936
+370,Adam Gray,14,White,Murder,Life without parole,21,1996,2017,False,IL,Cook,41.8401,-87.8168
+371,Anthony Gray,23,Black,Murder,Life,8,1991,1999,True,MD,Calvert,38.5434,-76.5687
+372,Kevin Lee Green,20,White,Murder,15 to Life,16,1980,1996,True,CA,Orange,33.7031,-117.7609
+373,Willie Earl Green,31,Black,Murder,33 to Life,24,1984,2008,False,CA,Los Angeles,34.3209,-118.2247
+374,Cy Greene,19,Black,Murder,15 to life,21,1985,2006,True,NY,Kings,40.6395,-73.9385
+375,Rashawn Greer,21,Black,Murder,Life,3,1998,2001,False,OK,Tulsa,36.1211,-95.9415
+376,John Grega,32,White,Murder,Life without parole,18,1995,2013,True,VT,Windham,42.9906,-72.7139
+377,Jed Allen Gressman,22,White,Sexual Assault,5 to Life,3,1993,1996,True,UT,Juab,39.7027,-112.7848
+378,Don Grimes,30,Black,Robbery,Life without parole,9,1987,1996,False,AL,Henry,31.5147,-85.2414
+379,Willie Grimes,41,Black,Sexual Assault,Life,24,1988,2012,False,NC,Catawba,35.662,-81.2151
+380,Lavont Guillory,21,Black,Murder,Life,11,1994,2005,True,CA,Los Angeles,34.3209,-118.2247
+381,Larry Gurley,20,Black,Murder,20 to life,22,1972,1994,False,NY,Kings,40.6395,-73.9385
+382,Michael Haas,38,White,Child Sex Abuse,Life,28,1994,2022,False,VA,Powhatan,37.5502,-77.9152
+383,Theodis Hagans,22,Black,Attempted Murder,Life,2,1999,2001,False,FL,Duval,30.3316,-81.6708
+384,Kim Hairston,32,Black,Murder,Life,2,1993,1995,False,OH,Franklin,39.9695,-83.0093
+385,Warren Hales,25,White,Murder,5 to Life,3,2004,2007,False,UT,Salt Lake,40.6673,-111.9236
+386,James Haley,24,Black,Murder,Life without parole,36,1972,2008,False,MA,Suffolk,42.3333,-71.0719
+387,Harold Hall,37,Black,Murder,Life,14,1990,2004,False,CA,Los Angeles,34.3209,-118.2247
+388,Byron Halsey,24,Black,Murder,Life,19,1988,2007,True,NJ,Union,40.6601,-74.3087
+389,Derrick Hamilton,25,Black,Murder,25 to life,23,1992,2015,False,NY,Kings,40.6395,-73.9385
+390,Marlina Hamilton,33,Black,Murder,Life,9,2011,2020,False,GA,Dougherty,31.5335,-84.2164
+391,Troy Jon Hancock,25,White,Sexual Assault,5 to Life,3,1993,1996,True,UT,Juab,39.7027,-112.7848
+392,Michael Hanline,31,White,Murder,Life without parole,35,1980,2015,True,CA,Ventura,34.4561,-119.0836
+393,Garr Keith Hardin,22,White,Murder,Life,23,1995,2018,True,KY,Meade,37.9697,-86.217
+394,Rosean Hargrave,17,Black,Murder,30 to life,26,1992,2018,False,NY,Kings,40.6395,-73.9385
+395,Skylor Harmon,17,Black,Murder,Life,10,2011,2021,False,MD,Worcester,38.2128,-75.334
+396,Kevin Harrington,20,Black,Murder,Life without parole,17,2003,2020,False,MI,Wayne,42.2819,-83.2822
+397,Terry Harrington,17,Black,Murder,Life,25,1978,2003,False,IA,Pottawattamie,41.3366,-95.5423
+398,Calvin Harris,40,White,Murder,25 to life,9,2007,2016,False,NY,Tioga,42.1703,-76.3063
+399,Jahmir Harris,23,Black,Murder,Life without parole,6,2015,2021,False,PA,Philadelphia,40.0077,-75.1339
+400,Warren Harris,29,Black,Murder,50 to Life,13,1977,1990,False,IL,Cook,41.8401,-87.8168
+401,Clarence Harrison,27,Black,Sexual Assault,Life,17,1987,2004,True,GA,DeKalb,33.7715,-84.2264
+402,Keith Harward,26,White,Murder,Life,33,1983,2016,True,VA,Newport News City,33.7715,-84.2264
+403,Michael Hash,15,White,Murder,Life without parole,11,2001,2012,False,VA,Culpeper,38.486,-77.9558
+404,Maurice Hastings,29,Black,Murder,Life without parole,34,1988,2022,True,CA,Los Angeles,34.3209,-118.2247
+405,Andre Hatchett,24,Black,Murder,25 to life,24,1992,2016,False,NY,Kings,40.6395,-73.9385
+406,Reginald Hayes,14,Black,Murder,Life without parole,14,1985,1999,False,NV,Clark,36.2152,-115.0135
+407,Travis Hayes,17,Black,Murder,Life,9,1998,2007,True,LA,Jefferson,29.7872,-90.1274
+408,Andre Haygood,24,Black,Murder,Life,9,2002,2011,False,TX,Bexar,29.4489,-98.52
+409,Robert A. Hays,33,White,Child Sex Abuse,Life,14,1993,2007,False,NV,Clark,36.2152,-115.0135
+410,Chad Heins,18,White,Murder,Life,11,1996,2007,True,FL,Duval,30.3316,-81.6708
+411,Dale Helmig,37,White,Murder,Life without parole,15,1996,2011,False,MO,Osage,38.4604,-91.8618
+412,Darcus Henry,21,Black,Murder,Life,14,1999,2013,False,CT,New Haven,41.4106,-72.9321
+413,Darrill Henry,28,Black,Murder,Life without parole,12,2011,2023,True,LA,Orleans,30.0687,-89.9288
+414,Angel Hernandez,42,Hispanic,Murder,Life without parole,11,2010,2021,False,MA,Hampden,42.1351,-72.6316
+415,Francisco Hernandez,26,Hispanic,Murder,48 to life,3,2002,2005,False,CA,Monterey,36.2171,-121.2388
+416,Juan Herrera,21,Hispanic,Murder,80 to life,7,1999,2006,False,CA,Los Angeles,34.3209,-118.2247
+417,Olmedo Hidalgo,24,Hispanic,Murder,25 to Life,13,1992,2005,False,NY,New York,40.7785,-73.9674
+418,Raymond Highers,20,White,Murder,Life without parole,25,1988,2013,False,MI,Wayne,42.2819,-83.2822
+419,Thomas Highers,21,White,Murder,Life without parole,25,1988,2013,False,MI,Wayne,42.2819,-83.2822
+420,Harold Hill,16,Black,Murder,Life without parole,11,1994,2005,True,IL,Cook,41.8401,-87.8168
+421,Michael Hill,18,Black,Murder,Life without parole,6,1996,2002,False,MA,Hampden,42.1351,-72.6316
+422,Robert Hill,26,Black,Murder,18 to life,26,1988,2014,False,NY,Kings,40.6395,-73.9385
+423,Johnny Hincapie,18,Hispanic,Murder,25 to life,26,1991,2017,False,NY,New York,40.7785,-73.9674
+424,C'Quan Hinton,17,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee,43.0217,-83.7067
+425,Letha Jean Hockersmith,31,White,Murder,Life,5,1994,1999,False,OK,Tulsa,36.1211,-95.9415
+426,Jeffrey Holemon,23,White,Sexual Assault,Life,11,1988,1999,True,AL,Tuscaloosa,33.2896,-87.5251
+427,Chester Hollman III,21,Black,Murder,Life without parole,26,1993,2019,False,PA,Philadelphia,40.0077,-75.1339
+428,Daryl Holloway,24,Black,Sexual Assault,Life,23,1993,2016,True,WI,Milwaukee,43.0072,-87.9669
+429,Edward Honaker,33,White,Sexual Assault,Life,9,1985,1994,True,VA,Nelson,37.7874,-78.8868
+430,Kim Hoover-Moore,38,White,Murder,15 to life,18,2003,2021,False,OH,Franklin,39.9695,-83.0093
+431,Tony Hopps,24,Black,Robbery,Life,31,1990,2021,False,FL,Hillsborough,27.9291,-82.3091
+432,Jeffrey Scott Hornoff,26,White,Murder,Life,7,1996,2003,False,RI,Kent,41.6722,-71.593
+433,John Horton,17,Black,Murder,Life without parole,22,1995,2017,False,IL,Winnebago,42.3363,-89.1609
+434,"David Housler, Jr.",19,White,Murder,Life without parole,17,1997,2014,False,TN,Montgomery,36.4969,-87.3828
+435,Darrell Houston,23,Black,Murder,33 to Life,18,1992,2010,False,OH,Cuyahoga,41.4243,-81.6586
+436,Bernard Howard,18,Black,Murder,Life without parole,25,1995,2020,False,MI,Wayne,42.2819,-83.2822
+437,DeAndre Howard,20,Black,Murder,Life,10,2003,2013,False,CA,Los Angeles,34.3209,-118.2247
+438,Kenji Howard,16,Black,Murder,35 to Life,24,1997,2021,False,CA,Los Angeles,34.3209,-118.2247
+439,Donna Sue Hubbard,30,White,Child Sex Abuse,Life,10,1985,1995,False,CA,Kern,35.3426,-118.7301
+440,Jermaine Hudson,20,Black,Robbery,Life,21,2000,2021,False,LA,Orleans,30.0687,-89.9288
+441,Elicia Hughes,32,Black,Murder,Life,0,2007,2007,False,MS,Hinds,32.2667,-90.4428
+442,Darryl Hunt,19,Black,Murder,Life,19,1985,2004,True,NC,Forsyth,36.1306,-80.2563
+443,Cartier Hunter,22,Black,Murder,Life,6,2016,2022,False,CA,Alameda,37.6469,-121.8888
+444,Darrell Hunter,22,Black,Murder,Life without parole,8,2000,2008,False,CA,Marin,38.0735,-122.7235
+445,Davie Hurt,17,Black,Murder,Life,16,1998,2014,False,WV,Mercer,37.4055,-81.1114
+446,Paul Hurt,25,White,Child Sex Abuse,Life,18,2001,2019,False,KY,Jefferson,38.1872,-85.6591
+447,Devonia Inman,20,Black,Murder,Life,20,2001,2021,True,GA,Cook,31.154,-83.4305
+448,James Irons,18,Black,Murder,25 to Life,26,1996,2022,False,NY,Kings,40.6395,-73.9385
+449,Khalil Islam,30,Black,Murder,Life,55,1966,2021,False,NY,New York,40.7785,-73.9674
+450,"Ignacio Ixta, Jr.",20,Hispanic,Attempted Murder,35 to Life,11,2010,2021,False,CA,Ventura,34.4561,-119.0836
+451,Charles Jackson,27,Black,Murder,30 to life,28,1991,2019,False,OH,Cuyahoga,41.4243,-81.6586
+452,Joseph Jackson,24,Black,Murder,25 to life,21,1997,2018,False,NY,Nassau,40.7328,-73.5865
+453,Raymond Jackson,38,Black,Sexual Assault,Life,28,1984,2012,True,TX,Dallas,32.7666,-96.7778
+454,Richard Jackson,40,Black,Murder,Life without parole,2,1998,2000,False,PA,Delaware,39.9167,-75.3991
+455,Eric Jackson-Knight,21,Black,Murder,25 to Life,14,1980,1994,False,NY,Kings,40.6395,-73.9385
+456,Ronald Jacobsen,29,White,Sexual Assault,Life,31,1990,2021,True,GA,Newton,33.555,-83.8502
+457,Carlos Jaile,29,Hispanic,Child Sex Abuse,Life,32,1990,2022,True,TX,El Paso,31.7686,-106.2348
+458,Henry James,20,Black,Sexual Assault,Life without parole,29,1982,2011,True,LA,Jefferson,29.7872,-90.1274
+459,Thomas James,22,Black,Murder,25 to Life,31,1991,2022,False,FL,Miami-Dade,25.615,-80.5623
+460,Lesly Jean,22,Black,Sexual Assault,Life,9,1982,1991,True,NC,Onslow,34.7321,-77.4321
+461,Jerry Lee Jenkins,25,White,Sexual Assault,Life,26,1987,2013,True,MD,Charles,38.5073,-76.9922
+462,Shaun Jenkins,23,Black,Murder,Life without parole,16,2005,2021,False,MA,Suffolk,42.3333,-71.0719
+463,Alvena Jennette,21,Black,Murder,18 to life,26,1988,2014,False,NY,Kings,40.6395,-73.9385
+464,Raymond Jennings,25,White,Murder,40 to life,8,2009,2017,False,CA,Los Angeles,34.3209,-118.2247
+465,Arturo Jimenez,18,Hispanic,Murder,30 to life,25,1995,2020,False,CA,Los Angeles,34.3209,-118.2247
+466,Tina Jimerson,23,Black,Murder,Life,28,1992,2020,False,AR,Dallas,33.9699,-92.6544
+467,Andrew Johnson,39,Black,Sexual Assault,Life,24,1989,2013,True,WY,Laramie,41.307,-104.6895
+468,Anthony Johnson,27,Black,Murder,Life,24,1986,2010,True,LA,Washington,30.8533,-90.0405
+469,Antrone Johnson,17,Black,Child Sex Abuse,Life,13,1996,2009,False,TX,Dallas,32.7666,-96.7778
+470,Charles Johnson,19,Black,Murder,Life without parole,19,1998,2017,False,IL,Cook,41.8401,-87.8168
+471,Eugene Johnson,17,Black,Murder,18 to life,20,1996,2016,False,OH,Cuyahoga,41.4243,-81.6586
+472,Gary Johnson,22,Black,Murder,50 to Life,22,1999,2021,False,NY,Queens,40.7023,-73.8203
+473,Jerome Johnson,20,Black,Murder,Life,29,1989,2018,False,MD,Baltimore City,40.7023,-73.8203
+474,Justly Johnson,24,Black,Murder,Life without parole,18,2000,2018,False,MI,Wayne,42.2819,-83.2822
+475,Lamar Johnson,20,Black,Murder,Life,12,2005,2017,False,MD,Baltimore City,42.2819,-83.2822
+476,Lamar Johnson,20,Black,Murder,Life without parole,28,1995,2023,False,MO,St. Louis City,42.2819,-83.2822
+477,Larry Johnson,30,Black,Sexual Assault,Life,18,1984,2002,True,MO,St. Louis City,42.2819,-83.2822
+478,Patrick Johnson,22,Black,Murder,15 to Life,10,1983,1993,False,NY,Kings,40.6395,-73.9385
+479,Rickey Johnson,26,Black,Sexual Assault,Life without parole,25,1983,2008,True,LA,Sabine,31.564,-93.5547
+480,Terrell Johnson,18,Black,Murder,Life without parole,17,1995,2012,False,PA,Allegheny,40.4688,-79.9812
+481,Timothy Johnson,22,Black,Murder,Life,29,1984,2013,False,GA,Houston,32.459,-83.6662
+482,Zavion Johnson,18,Black,Murder,25 to life,16,2002,2018,False,CA,Sacramento,38.4493,-121.3443
+483,"Calvin  Johnson, Jr.",25,Black,Sexual Assault,Life,16,1983,1999,True,GA,Clayton,33.5419,-84.3577
+484,Clifford Jones,26,Black,Murder,18 to life,35,1981,2016,True,NY,New York,40.7785,-73.9674
+485,Darrell Jones,18,Black,Murder,Life without parole,33,1986,2019,False,MA,Plymouth,41.9512,-70.8114
+486,David Allen Jones,32,Black,Murder,36 to Life,9,1995,2004,True,CA,Los Angeles,34.3209,-118.2247
+487,DeShawn Jones,26,Black,Sexual Assault,6 to Life,4,2011,2015,False,CO,Denver,39.762,-104.8758
+488,Dewey Jones,30,White,Murder,Life,19,1995,2014,True,OH,Summit,41.126,-81.5322
+489,Elroy Lucky Jones,26,Black,Murder,Life without parole,8,2006,2014,False,MI,Wayne,42.2819,-83.2822
+490,Joe C. Jones,23,Black,Sexual Assault,Life,6,1986,1992,True,KS,Shawnee,39.0415,-95.7565
+491,Lavell Jones,19,Black,Murder,37 1/2 to Life,17,1999,2016,False,NY,Albany,42.6002,-73.9736
+492,Lydia Diane Jones,40,Black,Drug Possession or Sale,Life without parole,6,2000,2006,False,AL,Jefferson,33.5543,-86.8964
+493,Mark Jones,20,White,Murder,Life,26,1992,2018,False,GA,Chatham,32.0043,-81.1329
+494,Melvin Jones,30,Black,Murder,Life without parole,6,1983,1989,False,IL,Cook,41.8401,-87.8168
+495,Milton Jones,23,Black,Murder,Life,46,1976,2022,False,MA,Suffolk,42.3333,-71.0719
+496,Robert Jones,19,Black,Sexual Assault,Life without parole,21,1996,2017,False,LA,Orleans,30.0687,-89.9288
+497,Tyrone Jones,20,Black,Murder,Life,11,1999,2010,False,MD,Baltimore City,30.0687,-89.9288
+498,Wilbert Jones,18,Black,Sexual Assault,Life,45,1973,2018,False,LA,East Baton Rouge,30.5383,-91.0956
+499,Oliver Jovanovic,30,White,Sexual Assault,15 to Life,3,1998,2001,False,NY,New York,40.7785,-73.9674
+500,"Bernell Juluke, Jr.",18,Black,Murder,Life without parole,26,1996,2022,False,LA,Orleans,30.0687,-89.9288
+501,Barry Kamara,17,Black,Murder,Life,31,1992,2023,False,MA,Suffolk,42.3333,-71.0719
+502,Paul Kamienski,35,White,Murder,Life,22,1988,2010,False,NJ,Ocean,39.8855,-74.2813
+503,Entre Nax Karage,21,Asian,Murder,Life,8,1997,2005,True,TX,Dallas,32.7666,-96.7778
+504,Lee Keifer,25,White,Child Sex Abuse,Life,4,1993,1997,False,OK,Tulsa,36.1211,-95.9415
+505,Anthony Keko,62,White,Murder,Life,5,1993,1998,False,LA,Plaquemines,29.4406,-89.61
+506,Eric Kelley,28,Black,Murder,Life,22,1996,2018,True,NJ,Passaic,41.0343,-74.3008
+507,Donald Kelly,26,White,Murder,Life,3,1990,1993,False,PA,Cambria,40.4952,-78.7135
+508,Robert Kelly,40,White,Child Sex Abuse,Life,5,1992,1997,False,NC,Chowan,36.1508,-76.6079
+509,Jaythan Kendrick,36,Black,Murder,25 to life,25,1995,2020,True,NY,Queens,40.7023,-73.8203
+510,Edward Khalil,28,Black,Murder,Life,8,2012,2020,False,MI,Wayne,42.2819,-83.2822
+511,Ricky Kidd,21,Black,Murder,Life without parole,22,1997,2019,False,MO,Jackson,39.0085,-94.3461
+512,Gloria Killian,35,White,Murder,32 to Life,16,1986,2002,False,CA,Sacramento,38.4493,-121.3443
+513,Martin Kimsey,45,White,Robbery,Life,5,1985,1990,False,TX,Dallas,32.7666,-96.7778
+514,Jason Kindle,31,Black,Robbery,70 to Life,3,2000,2003,False,CA,Los Angeles,34.3209,-118.2247
+515,Evin King,37,Black,Murder,15 to life,22,1995,2017,True,OH,Cuyahoga,41.4243,-81.6586
+516,John Klene,18,White,Murder,Life without parole,23,1998,2021,False,CA,Los Angeles,34.3209,-118.2247
+517,James Kluppelberg,18,White,Murder,Life,23,1989,2012,False,IL,Cook,41.8401,-87.8168
+518,Isaac Knapper,17,Black,Murder,Life,12,1979,1991,False,LA,Orleans,30.0687,-89.9288
+519,"Willie Knighten, Jr.",24,Black,Murder,18 to Life,25,1997,2022,False,OH,Lucas,41.6197,-83.6588
+520,Andrew Krivak,17,White,Murder,25 to life,26,1997,2023,True,NY,Putnam,41.4267,-73.7495
+521,David Kunze,44,White,Murder,Life without parole,4,1997,2001,False,WA,Clark,45.7792,-122.4825
+522,Richard Kussmaul,21,White,Murder,Life without parole,25,1994,2019,True,TX,Mclennan,45.7792,-122.4825
+523,Anthony Kyles,27,Black,Murder,Life without parole,25,1997,2022,False,MI,Oakland,42.6604,-83.3858
+524,Beth LaBatte,24,White,Murder,Life,9,1997,2006,True,WI,Kewaunee,44.5161,-87.6153
+525,Dwight LaBran,23,Black,Murder,Life,4,1997,2001,False,LA,Orleans,30.0687,-89.9288
+526,Larry Lamb,36,Black,Murder,Life,20,1993,2013,False,NC,Duplin,34.9365,-77.933
+527,Vincent James Landano,36,White,Murder,Life,21,1977,1998,False,NJ,Hudson,40.7371,-74.0779
+528,Herbert Landry,46,Black,Arson,5 to life,11,2006,2017,False,UT,Utah,40.1199,-111.6703
+529,Milton Lantigua,19,Hispanic,Murder,20 to Life,3,1993,1996,False,NY,Bronx,40.8501,-73.866
+530,Frank LaPena,35,White,Murder,Life,44,1977,2021,False,NV,Clark,36.2152,-115.0135
+531,Richard Lapointe,41,White,Murder,Life without parole,23,1992,2015,True,CT,Tolland,41.855,-72.3365
+532,Ronald Larkins,33,Black,Murder,Life without parole,20,1986,2006,False,OH,Cuyahoga,41.4243,-81.6586
+533,Harleme Larry,14,Black,Murder,Life,6,2013,2019,False,FL,Pasco,28.3091,-82.3932
+534,Daniel Larsen,30,White,Other Nonviolent Felony,28 to life,15,1999,2014,False,CA,Los Angeles,34.3209,-118.2247
+535,Barry Laughman,24,White,Murder,Life,16,1988,2004,True,PA,Adams,39.8715,-77.2179
+536,Carlos Marcos Lavernia,29,Hispanic,Sexual Assault,Life,15,1985,2000,True,TX,Travis,30.3344,-97.782
+537,Darrian Mark Lawrence,20,Black,Murder,Life,5,2000,2005,False,FL,Miami-Dade,25.615,-80.5623
+538,Shawn Lawrence ,37,Black,Murder,75 to life,3,2015,2018,False,NY,Suffolk,40.8686,-72.8448
+539,Samuel Lawson,28,White,Murder,Life,9,2005,2014,False,OR,Douglas,43.2797,-123.1665
+540,Steven Lazar,22,White,Murder,Life,13,2010,2023,False,PA,Philadelphia,40.0077,-75.1339
+541,Joe Lea,24,Hispanic,Child Sex Abuse,16 to life,9,2000,2009,False,CA,Solano,38.27,-121.9329
+542,Raynella Dossett Leath,54,White,Murder,Life,7,2010,2017,False,TN,Knox,35.9932,-83.9371
+543,Ah Lee,20,Asian,Murder,Life,16,1988,2004,False,PA,Philadelphia,40.0077,-75.1339
+544,Han Tak Lee,54,Asian,Murder,Life without parole,25,1990,2015,False,PA,Monroe,41.0581,-75.3395
+545,Ralph Lee,30,Black,Murder,Life,22,1996,2018,True,NJ,Passaic,41.0343,-74.3008
+546,Virginia LeFever,37,White,Murder,Life,21,1990,2011,False,OH,Licking,40.0916,-82.4831
+547,Anthony Legion,27,Black,Murder,Life without parole,19,2001,2020,False,MI,Wayne,42.2819,-83.2822
+548,Anthony Lemons,19,Black,Murder,21 to life,19,1995,2014,False,OH,Cuyahoga,41.4243,-81.6586
+549,David Lemus,22,Hispanic,Murder,25 to Life,15,1992,2007,False,NY,New York,40.7785,-73.9674
+550,Jules Letemps,26,Black,Sexual Assault,Life,27,1989,2016,False,FL,Orange,28.5145,-81.3236
+551,Terrance Lewis,17,Black,Murder,Life without parole,20,1999,2019,False,PA,Philadelphia,40.0077,-75.1339
+552,Yun Hseng Liao,44,Asian,Attempted Murder,Life,13,2003,2016,False,CA,Los Angeles,34.3209,-118.2247
+553,Frank Lind,44,White,Child Sex Abuse,30 to life,3,2002,2005,False,CA,Fresno,36.7582,-119.6493
+554,Johnnie Lindsey,28,Black,Sexual Assault,Life,26,1983,2009,True,TX,Dallas,32.7666,-96.7778
+555,Bruce Lisker,17,White,Murder,16 to Life,24,1985,2009,False,CA,Los Angeles,34.3209,-118.2247
+556,Devon Little,26,Black,Murder,Life,2,2017,2019,False,MD,Baltimore City,34.3209,-118.2247
+557,Charles Jason Lively,27,White,Murder,Life,14,2006,2020,False,WV,McDowell,37.3785,-81.6536
+558,Christopher Livingston,19,Black,Murder,20 to Life,4,1987,1991,False,NY,Kings,40.6395,-73.9385
+559,Eddie Joe Lloyd,34,Black,Murder,Life,17,1985,2002,True,MI,Wayne,42.2819,-83.2822
+560,Alton Logan ,28,Black,Murder,Life,26,1982,2008,False,IL,Cook,41.8401,-87.8168
+561,Roger Logan,35,Black,Murder,25 to life,15,1999,2014,False,NY,Kings,40.6395,-73.9385
+562,Walter Lomax,20,Black,Murder,Life,46,1968,2014,False,MD,Baltimore City,40.6395,-73.9385
+563,Kimberly Long,27,White,Murder,15 to life,16,2005,2021,True,CA,Riverside,33.7436,-115.9938
+564,Ronnie Long,20,Black,Sexual Assault,Life,44,1976,2020,False,NC,Cabarrus,35.3868,-80.5519
+565,William Lopez,30,Hispanic,Murder,25 to life,24,1990,2014,False,NY,Kings,40.6395,-73.9385
+566,Dwight Love,22,Black,Murder,Life,19,1982,2001,False,MI,Wayne,42.2819,-83.2822
+567,Debbie Loveless,31,White,Murder,Life,5,1989,1994,True,TX,Rains,32.8703,-95.7934
+568,Eddie Lowery,22,White,Sexual Assault,11 to Life,21,1982,2003,True,KS,Riley,39.2966,-96.7352
+569,Dominic Lucci,22,White,Murder,Life,26,1992,2018,False,GA,Chatham,32.0043,-81.1329
+570,James Lucien,21,Black,Murder,Life without parole,26,1995,2021,False,MA,Suffolk,42.3333,-71.0719
+571,Todd Lumpkins,27,Black,Murder,24 to life,2,1987,1989,False,NY,Kings,40.6395,-73.9385
+572,Eric Lynn,25,Black,Murder,Life,13,1994,2007,False,MD,Montgomery,39.1363,-77.2042
+573,Rafael Madrigal,25,Hispanic,Attempted Murder,53 to Life,7,2002,2009,False,CA,Los Angeles,34.3209,-118.2247
+574,Paul Philip Magnan,46,White,Drug Possession or Sale,25 to Life,6,2000,2006,False,CA,Santa Clara,37.2318,-121.6951
+575,Ronnie Mahan,26,White,Sexual Assault,Life without parole,12,1986,1998,True,AL,Jefferson,33.5543,-86.8964
+576,Dennis Maher,22,White,Sexual Assault,Life,19,1984,2003,True,MA,Middlesex,42.4856,-71.3918
+577,Orlando Maisonet,23,Hispanic,Murder,Life without parole,13,1992,2005,False,PA,Philadelphia,40.0077,-75.1339
+578,Robert Majors,31,Black,Attempted Murder,90 1/2 to life,20,2000,2020,False,NY,Queens,40.7023,-73.8203
+579,Thomas Malik,18,Black,Murder,25 to Life,26,1996,2022,False,NY,Kings,40.6395,-73.9385
+580,Jay Cee Manning,28,White,Child Sex Abuse,Life,8,1990,1998,False,NV,Churchill,39.5809,-118.3358
+581,Kenneth Marsh,28,White,Murder,15 to Life,21,1983,2004,False,CA,San Diego,33.0343,-116.735
+582,Ronnie Marshall,28,White,Murder,Life,6,1990,1996,False,TN,Sumner,36.4694,-86.4604
+583,Kevin Martin,17,Black,Manslaughter,15 to Life,30,1984,2014,True,DC,,36.4694,-86.4604
+584,Lawrence Martin,38,Don't Know,Weapon Possession or Sale,25 to Life,22,1998,2020,False,CA,Santa Clara,37.2318,-121.6951
+585,Wayne Martin,35,Black,Murder,Life without parole,6,2010,2016,False,NY,Kings,40.6395,-73.9385
+586,Angelo Martinez,19,Hispanic,Murder,25 to Life,16,1986,2002,False,NY,Queens,40.7023,-73.8203
+587,Antonio Martinez,37,Hispanic,Murder,Life,30,1990,2020,False,PA,Philadelphia,40.0077,-75.1339
+588,Rodrigo Martinez,22,Hispanic,Murder,25 to life,6,2008,2014,False,CA,Orange,33.7031,-117.7609
+589,Raymond Martorano,53,White,Murder,Life without parole,15,1984,1999,False,PA,Philadelphia,40.0077,-75.1339
+590,Anthony Massingill,18,Black,Robbery,Life,34,1980,2014,True,TX,Dallas,32.7666,-96.7778
+591,Timothy Masters,15,White,Murder,Life,9,1999,2008,True,CO,Larimer,40.6664,-105.4612
+592,Juan Matta Ballesteros,40,Hispanic,Kidnapping,Life without parole,28,1990,2018,False,A,(Central),40.6664,-105.4612
+593,Mark Maxson,31,Black,Murder,Life without parole,22,1994,2016,True,IL,Cook,41.8401,-87.8168
+594,Bobby Joe Maxwell,29,Black,Murder,Life without parole,34,1984,2018,False,CA,Los Angeles,34.3209,-118.2247
+595,Jose Maysonet,22,Hispanic,Murder,Life without parole,22,1995,2017,False,IL,Cook,41.8401,-87.8168
+596,Anthony Mazza,25,White,Murder,Life without parole,48,1973,2021,False,MA,Suffolk,42.3333,-71.0719
+597,Corey McCall,22,Black,Murder,Life,16,2005,2021,False,MI,Berrien,41.9547,-86.4123
+598,David McCallum,16,Black,Murder,25 to life,28,1986,2014,True,NY,Kings,40.6395,-73.9385
+599,Anthony McClain,35,Black,Murder,18 to life,11,1995,2006,False,OH,Hamilton,39.1955,-84.5428
+600,Charles McClaugherty,18,White,Murder,Life,7,2001,2008,False,NM,Bernalillo,35.0514,-106.6702
+601,Robert McClendon,34,Black,Child Sex Abuse,15 to Life,17,1991,2008,True,OH,Franklin,39.9695,-83.0093
+602,Claude McCollum,26,Black,Murder,Life,1,2006,2007,False,MI,Ingham,42.5971,-84.3735
+603,Todd McCord,21,Black,Murder,25 to life,7,1987,1994,False,NY,Queens,40.7023,-73.8203
+604,Sherman McCoy,20,Black,Murder,Life without parole,3,2016,2019,False,PA,Philadelphia,40.0077,-75.1339
+605,Terence McCracken,18,White,Murder,Life,12,1983,1995,False,PA,Delaware,39.9167,-75.3991
+606,Jack McCullough,18,White,Murder,Life,4,2012,2016,False,IL,Dekalb,39.9167,-75.3991
+607,Emel McDowell,17,Black,Murder,22 to Life,31,1992,2023,False,NY,Kings,40.6395,-73.9385
+608,"John ""Jack"" McDowell",54,White,Murder,30 to Life,5,2014,2019,False,NM,Sandoval,35.6886,-106.8659
+609,Vidale McDowell,18,Black,Murder,Life,1,2003,2004,False,MI,Wayne,42.2819,-83.2822
+610,Toney McEachern,34,Black,Child Sex Abuse,Life,5,1993,1998,False,NC,Robeson,34.6402,-79.1039
+611,Arvin McGee,25,Black,Sexual Assault,Life,13,1989,2002,True,OK,Tulsa,36.1211,-95.9415
+612,Curtis McGhee,17,Black,Murder,Life,33,1978,2011,False,IA,Pottawattamie,41.3366,-95.5423
+613,Thomas McGowan,24,Black,Sexual Assault,Life,23,1985,2008,True,TX,Dallas,32.7666,-96.7778
+614,Edward McInnis,27,Black,Sexual Assault,Life,27,1988,2015,True,NC,Scotland,34.8409,-79.4804
+615,Lamonte McIntyre,17,Black,Murder,Life,23,1994,2017,False,KS,Wyandotte,39.1146,-94.7646
+616,Dean McKee,16,White,Murder,Life,31,1988,2019,True,FL,Hillsborough,27.9291,-82.3091
+617,Larry McKee,25,Black,Murder,24 to life,21,1997,2018,False,NY,Bronx,40.8501,-73.866
+618,Gerald McKenzie,24,Black,Attempted Murder,Life,20,1984,2004,False,MI,Wayne,42.2819,-83.2822
+619,DeWayne McKinney,19,Black,Murder,Life,19,1981,2000,False,CA,Orange,33.7031,-117.7609
+620,Clark Jerome McMillan,22,Black,Sexual Assault,Life,22,1980,2002,True,TN,Shelby,35.1842,-89.894
+621,Daniel McNair,35,Black,Murder,Life,14,1986,2000,False,SC,Lancaster,34.6867,-80.7054
+622,Kenneth McPherson,20,Black,Murder,Life,24,1995,2019,False,MD,Baltimore City,34.6867,-80.7054
+623,Alarico Joe Medina,25,Hispanic,Murder,Life,4,1991,1995,False,CO,Denver,39.762,-104.8758
+624,Susan Mellen,42,White,Murder,Life without parole,16,1998,2014,False,CA,Los Angeles,34.3209,-118.2247
+625,Thomas Merrill,24,White,Murder,Life,4,1991,1995,False,CA,Orange,33.7031,-117.7609
+626,Terrence Meyers,21,Black,Murder,Life without parole,17,1993,2010,False,LA,Jefferson,29.7872,-90.1274
+627,Melvin Mikes,19,Black,Murder,25 to Life,7,1985,1992,False,CA,Los Angeles,34.3209,-118.2247
+628,Marco Milla,19,Hispanic,Murder,Life without parole,13,2002,2015,False,CA,Los Angeles,34.3209,-118.2247
+629,Billy Wayne Miller,31,Black,Sexual Assault,Life,22,1984,2006,True,TX,Dallas,32.7666,-96.7778
+630,Gina Miller,25,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+631,Harry Miller,45,Black,Robbery,5 to Life,3,2004,2007,False,UT,Salt Lake,40.6673,-111.9236
+632,John Miller,42,White,Murder,Life,5,1989,1994,True,TX,Rains,32.8703,-95.7934
+633,John Miller,21,Black,Murder,Life without parole,21,1998,2019,False,PA,Philadelphia,40.0077,-75.1339
+634,Maurice Ladon Miller,18,Black,Murder,Life,2,2005,2007,False,OK,Oklahoma,35.5515,-97.4072
+635,"Jesse Miller, Jr.",17,Black,Murder,Life,5,2009,2014,False,FL,Palm Beach,26.6476,-80.4655
+636,Adam Miranda,21,Hispanic,Murder,Life,26,1983,2009,False,CA,Los Angeles,34.3209,-118.2247
+637,Keith Mitchell,18,Black,Murder,36 to life,21,1994,2015,False,DC,,34.3209,-118.2247
+638,Ruben Montalvo,16,Hispanic,Murder,15 to Life,13,1988,2001,False,NY,Bronx,40.8501,-73.866
+639,LaDondrell  Montgomery ,34,Black,Robbery,Life,1,2010,2011,False,TX,Harris,29.8577,-95.3936
+640,Lorenzo Montoya,14,Hispanic,Murder,Life without parole,14,2000,2014,True,CO,Denver,39.762,-104.8758
+641,John Mooney,19,White,Murder,Life,4,2010,2014,False,MD,Baltimore City,39.762,-104.8758
+642,Anthony Moore,32,Black,Murder,25 to Life,3,1996,1999,False,NY,New York,40.7785,-73.9674
+643,Clarence Moore,36,Black,Sexual Assault,Life,19,1987,2006,False,NJ,Atlantic,39.4777,-74.661
+644,Curtis Moore,32,Black,Murder,Life,32,1978,2010,True,VA,Greensville,36.6759,-77.5596
+645,Kenneth Moore,45,White,Murder,15 to Life,9,1995,2004,False,OH,Pike,39.0773,-83.0668
+646,Salaam Moore,16,Black,Murder,Life without parole,15,2001,2016,False,OK,Oklahoma,35.5515,-97.4072
+647,Walter Moore,37,White,Murder,Life,8,1988,1996,False,MI,Otsego,45.0214,-84.599
+648,Raymond Mora,25,Hispanic,Murder,25 to life,34,1981,2015,False,NY,Kings,40.6395,-73.9385
+649,Jose Morales,17,Hispanic,Murder,15 to Life,13,1988,2001,False,NY,Bronx,40.8501,-73.866
+650,Santiago Ventura Morales,19,Hispanic,Murder,10 to Life,5,1986,1991,False,OR,Clackamas,45.188,-122.2209
+651,Nicholas Morfin,17,White,Murder,Life without parole,24,1997,2021,False,IL,Cook,41.8401,-87.8168
+652,Jerome Morgan,17,Black,Murder,Life without parole,22,1994,2016,False,LA,Orleans,30.0687,-89.9288
+653,Carlos Morillo,29,Hispanic,Murder,25 to life,18,1993,2011,False,NY,Bronx,40.8501,-73.866
+654,Michael Morton,32,White,Murder,Life,24,1987,2011,True,TX,Williamson,30.6475,-97.6004
+655,Sundhe Moses,19,Black,Murder,24 1/3 to life,21,1997,2018,False,NY,Kings,40.6395,-73.9385
+656,Freda Susie Mowbray,39,White,Murder,Life,10,1988,1998,False,TX,Cameron,26.1333,-97.5182
+657,Stanley Mozee,39,Black,Murder,Life,19,2000,2019,True,TX,Dallas,32.7666,-96.7778
+658,David Munchinski,25,White,Murder,Life,27,1986,2013,False,PA,Fayette,39.9201,-79.6474
+659,Michelle Murphy,17,Native American,Murder,Life without parole,19,1995,2014,True,OK,Tulsa,36.1211,-95.9415
+660,Hubert Myers,18,Black,Murder,Life,43,1976,2019,False,FL,Duval,30.3316,-81.6708
+661,Francisco Nanez,21,Hispanic,Murder,Life without parole,32,1990,2022,False,IL,Cook,41.8401,-87.8168
+662,Donald Nash,39,White,Murder,Life without parole,11,2009,2020,True,MO,Dent,37.6066,-91.5079
+663,Lorenzo Nava,36,Hispanic,Drug Possession or Sale,54 to life,3,1997,2000,False,CA,Los Angeles,34.3209,-118.2247
+664,William Negron,17,Hispanic,Murder,Life without parole,22,1995,2017,False,IL,Cook,41.8401,-87.8168
+665,Bruce Nelson,24,Black,Murder,Life,9,1982,1991,True,PA,Allegheny,40.4688,-79.9812
+666,Derrie Nelson,,Black,Murder,42 to Life,36,1986,2022,False,DC,,40.4688,-79.9812
+667,Leroy Nelson,17,Black,Murder,Life without parole,26,1996,2022,False,LA,Orleans,30.0687,-89.9288
+668,James Newsome,24,Black,Murder,Life,15,1980,1995,False,IL,Cook,41.8401,-87.8168
+669,Matthew Ngov,20,Asian,Murder,57 to life,6,2013,2019,False,CA,Los Angeles,34.3209,-118.2247
+670,Hoc Nguyen,,Asian,Murder,15 to Life,6,1987,1993,False,NY,New York,40.7785,-73.9674
+671,Glen Nickerson,29,White,Murder,Life without parole,16,1987,2003,True,CA,Santa Clara,37.2318,-121.6951
+672,Kenneth Nixon,19,Black,Murder,Life without parole,16,2005,2021,False,MI,Wayne,42.2819,-83.2822
+673,Kelvin Nolen,26,Black,Murder,Life without parole,6,2016,2022,False,MI,Wayne,42.2819,-83.2822
+674,John Nolley,22,Black,Murder,Life,20,1998,2018,True,TX,Tarrant,32.7719,-97.2911
+675,Lorenzo Nunez,23,Hispanic,Murder,40 to Life,6,1995,2001,False,CA,Monterey,36.2171,-121.2388
+676,William Oakes,30,White,Murder,25 to Life,7,1985,1992,False,NY,Jefferson,44.0495,-75.921
+677,Christopher Ochoa,22,Hispanic,Murder,Life,13,1989,2002,True,TX,Travis,30.3344,-97.782
+678,Frank O'Connell,25,White,Murder,25 to Life,27,1985,2012,False,CA,Los Angeles,34.3209,-118.2247
+679,Steven Odiase,23,Black,Murder,25 to life,4,2013,2017,False,NY,Bronx,40.8501,-73.866
+680,Calvin Ollins,14,Black,Murder,Life without parole,13,1988,2001,True,IL,Cook,41.8401,-87.8168
+681,Larry Ollins,16,Black,Murder,Life,13,1988,2001,True,IL,Cook,41.8401,-87.8168
+682,Obina Onyiah,27,Black,Murder,Life without parole,8,2013,2021,False,PA,Philadelphia,40.0077,-75.1339
+683,Anthony Ortiz,20,Hispanic,Murder,50 to life,18,1993,2011,False,NY,New York,40.7785,-73.9674
+684,Armando Rodriguez Ortiz,15,Hispanic,Murder,Life,4,2003,2007,False,CA,Fresno,36.7582,-119.6493
+685,Nelson Ortiz,18,Hispanic,Murder,Life,22,1994,2016,True,PR,Aguadilla,36.7582,-119.6493
+686,Chaunte Ott,21,Black,Murder,Life,13,1996,2009,True,WI,Milwaukee,43.0072,-87.9669
+687,Donald Outlaw,16,Black,Murder,Life without parole,16,2004,2020,False,PA,Philadelphia,40.0077,-75.1339
+688,Hannah Overton,29,White,Murder,Life without parole,8,2007,2015,False,TX,Nueces,27.7254,-97.6134
+689,James L. Owens,22,White,Murder,Life,20,1988,2008,True,MD,Baltimore City,27.7254,-97.6134
+690,"Wayne Oxley, Jr.",39,White,Murder,25 to life,6,2006,2012,False,NY,St. Lawrence,44.4964,-75.0691
+691,Christian Pacheco,18,Hispanic,Murder,25 to life,24,1996,2020,False,NY,Kings,40.6395,-73.9385
+692,Charles Palmer,43,Black,Murder,Life without parole,16,2000,2016,True,IL,Macon,39.86,-88.9616
+693,"Dale Palmer, Sr.",37,White,Child Sex Abuse,Life,3,1994,1997,False,OH,Medina,41.1176,-81.8997
+694,Michael Pardue,17,White,Murder,Life,24,1973,1997,False,AL,Baldwin,30.7276,-87.7226
+695,Darrel Parker,24,White,Murder,Life,35,1956,1991,False,NE,Lancaster,40.7842,-96.6878
+696,Matthew Parker,26,White,Child Sex Abuse,Life,18,1997,2015,False,OK,Tulsa,36.1211,-95.9415
+697,Michael Parker,35,White,Child Sex Abuse,Life,20,1994,2014,False,NC,Henderson,35.3363,-82.48
+698,Deron Parks,41,Black,Child Sex Abuse,Life,9,2010,2019,False,WA,Clark,45.7792,-122.4825
+699,Delmar Partin,37,White,Murder,Life,25,1994,2019,False,KY,Knox,36.8906,-83.854
+700,Marlon Passley,23,Black,Murder,Life,4,1996,2000,False,MA,Suffolk,42.3333,-71.0719
+701,Deon Patrick,20,Black,Murder,Life without parole,19,1995,2014,False,IL,Cook,41.8401,-87.8168
+702,Dontia Patterson,17,Black,Murder,Life without parole,9,2009,2018,False,PA,Philadelphia,40.0077,-75.1339
+703,Laverne Pavlinac,57,White,Murder,10 to Life,4,1991,1995,False,OR,Multnomah,45.5468,-122.4148
+704,Norberto Peets,26,Hispanic,Attempted Murder,30 to Life,24,1999,2023,True,NY,Bronx,40.8501,-73.866
+705,Jose Luis Pena,36,Hispanic,Drug Possession or Sale,Life,8,2003,2011,False,TX,Leon,31.2965,-95.9957
+706,David Peralta,23,Hispanic,Murder,Life,12,2001,2013,False,GA,DeKalb,33.7715,-84.2264
+707,Carlos Perez,25,Hispanic,Murder,25 to life,15,1997,2012,False,NY,Bronx,40.8501,-73.866
+708,Carlos Perez,25,Hispanic,Murder,25 to life,16,1997,2013,False,NY,Bronx,40.8501,-73.866
+709,George Perrot,17,White,Sexual Assault,Life,30,1987,2017,False,MA,Hampden,42.1351,-72.6316
+710,Dennis Perry,23,White,Murder,Life without parole,18,2003,2021,True,GA,Camden,30.9306,-81.6699
+711,Jamie Lee Peterson,21,White,Murder,Life without parole,16,1998,2014,True,MI,Kalkaska,44.6847,-85.0902
+712,Larry Peterson,36,Black,Murder,Life,17,1989,2006,True,NJ,Burlington,39.8777,-74.6681
+713,Ted Petrossi,40,White,Sexual Assault,5 to life,2,1996,1998,False,UT,Utah,40.1199,-111.6703
+714,Antoine Pettiford,23,Black,Murder,Life,5,1995,2000,False,MD,Baltimore City,40.1199,-111.6703
+715,L. Lynn Pettit,27,White,Murder,15 to life,2,1999,2001,False,OH,Vinton,39.251,-82.4853
+716,Randall Philen,50,White,Murder,Life,1,2011,2012,False,TX,Brown,31.7742,-98.9998
+717,Richard Phillips,25,Black,Murder,Life without parole,46,1972,2018,False,MI,Wayne,42.2819,-83.2822
+718,"Roland Phinney, Jr.",36,White,Murder,Life,18,1990,2008,False,MA,Middlesex,42.4856,-71.3918
+719,Michael Piaskowski,43,White,Murder,Life,6,1995,2001,False,WI,Brown,44.4525,-88.0037
+720,Juan Carlos Pichardo,23,Hispanic,Murder,20 to life,6,1994,2000,False,NY,New York,40.7785,-73.9674
+721,Jonathan Scott Pierpoint,28,White,Child Sex Abuse,Life,18,1992,2010,False,NC,Madison,35.858,-82.7058
+722,Charles Pierre,36,Black,Murder,25 to life,12,2003,2015,False,NY,Monroe,43.1464,-77.6961
+723,Johnny Pinchback,28,Black,Child Sex Abuse,Life,27,1984,2011,True,TX,Dallas,32.7666,-96.7778
+724,Lisa Pineda,26,Hispanic,Murder,40 to life,4,2005,2009,False,CA,Los Angeles,34.3209,-118.2247
+725,Marcella Pitts,29,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+726,Ricky Lynn Pitts,31,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern,35.3426,-118.7301
+727,Ronald Pondexter,22,Black,Murder,25 to life,4,1993,1997,False,NY,Kings,40.6395,-73.9385
+728,"Gilbert  Poole, Jr.",23,White,Murder,Life without parole,32,1989,2021,True,MI,Oakland,42.6604,-83.3858
+729,Joseph Pope,30,Black,Murder,Life,36,1986,2022,False,MA,Suffolk,42.3333,-71.0719
+730,Allen Wayne Porter,18,Black,Sexual Assault,Life,19,1991,2010,False,TX,Harris,29.8577,-95.3936
+731,Michael Porter,26,White,Sexual Assault,Life,14,1988,2002,False,FL,Pasco,28.3091,-82.3932
+732,Clinton Potts,30,White,Murder,Life without parole,3,2009,2012,False,OK,Muskogee,35.6161,-95.3795
+733,Benny Powell,26,Black,Murder,Life,17,1975,1992,False,CA,Los Angeles,34.3209,-118.2247
+734,Elmer Pratt,21,Black,Murder,25 to Life,27,1972,1999,False,CA,Los Angeles,34.3209,-118.2247
+735,Eric Proctor,18,White,Murder,Life,9,1986,1995,True,OR,Lane,43.9386,-122.848
+736,Jeremy Puckett,21,Black,Murder,Life without parole,18,2002,2020,False,CA,Sacramento,38.4493,-121.3443
+737,Patrick Pursley,28,Black,Murder,Life without parole,25,1994,2019,False,IL,Winnebago,42.3363,-89.1609
+738,John Purvis,42,White,Murder,Life,8,1985,1993,False,FL,Broward,26.1523,-80.4871
+739,Ronnie Qualls,20,Black,Murder,Life,27,1993,2020,True,MA,Suffolk,42.3333,-71.0719
+740,Ruddy Quezada,29,Hispanic,Murder,25 to life,22,1993,2015,False,NY,Kings,40.6395,-73.9385
+741,"Sergio Radillo, Jr.",24,Hispanic,Attempted Murder,Life,10,1995,2005,False,FL,Miami-Dade,25.615,-80.5623
+742,Willie Rainge,20,Black,Murder,Life,18,1978,1996,True,IL,Cook,41.8401,-87.8168
+743,Jesus Ramirez,48,Hispanic,Murder,Life,10,1998,2008,False,TX,Lamb,34.0686,-102.3517
+744,David Ranta,35,White,Murder,37 1/2 to Life,22,1991,2013,False,NY,Kings,40.6395,-73.9385
+745,Richard Raugust,31,White,Murder,Life,18,1998,2016,False,MT,Sanders,47.6748,-115.1333
+746,Ellen Reasonover,24,Black,Murder,Life,16,1983,1999,False,MO,St. Louis,47.6748,-115.1333
+747,Derrick Redd,35,Black,Murder,25 to life,7,2011,2018,False,NY,Queens,40.7023,-73.8203
+748,Cornelius Reed,15,Black,Murder,Life,4,1993,1997,False,WI,Milwaukee,43.0072,-87.9669
+749,Deshawn Reed ,26,Black,Murder,Life without parole,3,2014,2017,False,CA,Alameda,37.6469,-121.8888
+750,Kuantau Reeder,20,Black,Murder,Life without parole,26,1995,2021,False,LA,Orleans,30.0687,-89.9288
+751,Davey Reedy,32,White,Murder,Life,27,1988,2015,False,VA,Roanoke,30.0687,-89.9288
+752,Marvin Reeves,29,Black,Murder,Life without parole,18,1991,2009,False,IL,Cook,41.8401,-87.8168
+753,Kash Register,18,Black,Murder,Life without parole,34,1979,2013,False,CA,Los Angeles,34.3209,-118.2247
+754,Anthony Reid,21,Black,Murder,Life,33,1990,2023,False,PA,Philadelphia,40.0077,-75.1339
+755,Ronald Reno,32,White,Weapon Possession or Sale,25 to Life,5,1997,2002,False,CA,Fresno,36.7582,-119.6493
+756,Pamela Sue Reser,29,White,Child Sex Abuse,Life,3,1999,2002,False,OR,Yamhill,45.2326,-123.3081
+757,Randy Resh,24,White,Murder,20 to Life,17,1990,2007,False,OH,Portage,41.1677,-81.1974
+758,George Revelle,36,White,Murder,Life without parole,2,1996,1998,False,MO,Christian,36.9696,-93.1889
+759,William Richards,43,White,Murder,25 to life,19,1997,2016,True,CA,San Bernardino,34.8414,-116.1784
+760,"James E. Richardson, Jr.",36,White,Murder,Life,10,1989,1999,True,WV,Kanawha,38.3366,-81.5281
+761,"Harvill Richardson, Sr.",66,White,Murder,Life,6,2011,2017,False,MS,Harrison,30.5122,-89.1161
+762,Jonathan Rivera,22,Hispanic,Murder,Life,1,2007,2008,False,PR,San Juan,30.5122,-89.1161
+763,Juan Rivera ,19,Hispanic,Murder,Life,19,1993,2012,True,IL,Lake,42.3233,-88.0037
+764,Neal Robbins,23,White,Murder,Life,17,1999,2016,False,TX,Montgomery,30.3002,-95.503
+765,Horace Roberts,40,Black,Murder,15 to life,19,1999,2018,True,CA,Riverside,33.7436,-115.9938
+766,Jason Roberts,16,White,Murder,Life,10,1995,2005,False,SC,Laurens,34.4834,-82.0057
+767,Larry Trent Roberts,35,Black,Murder,Life without parole,12,2007,2019,False,PA,Dauphin,40.4154,-76.7795
+768,David Robinson,32,Black,Murder,Life without parole,17,2001,2018,False,MO,Scott,37.053,-89.5686
+769,Eric Robinson,23,Black,Murder,Life,13,1994,2007,True,CA,Los Angeles,34.3209,-118.2247
+770,Mario Rocha,16,Hispanic,Murder,35 to Life,10,1998,2008,False,CA,Los Angeles,34.3209,-118.2247
+771,Xavier Rockette,19,Black,Murder,Life,10,2003,2013,False,WI,Racine,42.7475,-88.0613
+772,Felipe Rodriguez,22,Hispanic,Murder,25 to life,29,1990,2019,False,NY,Queens,40.7023,-73.8203
+773,Jeffrey Rodriguez,24,Hispanic,Robbery,25 to Life,4,2003,2007,False,CA,Santa Clara,37.2318,-121.6951
+774,Wildon Rodriguez,18,Hispanic,Murder,25 to Life,22,1999,2021,False,NY,Kings,40.6395,-73.9385
+775,Christopher Roesser,25,White,Murder,Life,5,2008,2013,False,GA,Gwinnett,33.9617,-84.0236
+776,Luis Kevin Rojas,18,Hispanic,Murder,15 to Life,6,1992,1998,False,NY,New York,40.7785,-73.9674
+777,"Offord Rollins, IV",17,Black,Murder,29 to life,4,1992,1996,False,CA,Kern,35.3426,-118.7301
+778,Richard Rosario,20,Hispanic,Murder,25 to life,18,1998,2016,False,NY,Bronx,40.8501,-73.866
+779,Victor Rosario,24,Hispanic,Murder,Life,34,1983,2017,False,MA,Middlesex,42.4856,-71.3918
+780,Ronald Ross,44,Black,Attempted Murder,25 to life,7,2006,2013,False,CA,Alameda,37.6469,-121.8888
+781,Lionel Rubalcava,23,Hispanic,Attempted Murder,31 to Life,16,2003,2019,False,CA,Santa Clara,37.2318,-121.6951
+782,Donald Ruby,39,White,Murder,Life,6,1987,1993,True,PA,Perry,40.3984,-77.2623
+783,Julius Ruffin,28,Black,Sexual Assault,Life,21,1982,2003,True,VA,Norfolk City,40.3984,-77.2623
+784,Larry Ruffin,19,Black,Murder,Life,31,1980,2011,True,MS,Forrest,31.1889,-89.2579
+785,Nelson Ruiz,20,Hispanic,Murder,Life,22,1994,2016,True,PR,Aguadilla,31.1889,-89.2579
+786,Jack Sagin,39,White,Murder,Life without parole,33,1986,2019,True,CA,Monterey,36.2171,-121.2388
+787,Ru-El Sailor,22,Black,Murder,25 to life,15,2003,2018,False,OH,Cuyahoga,41.4243,-81.6586
+788,Daniel Saldana,22,Hispanic,Attempted Murder,45 to Life,33,1990,2023,False,CA,Los Angeles,34.3209,-118.2247
+789,MarQuise Salley,22,Black,Murder,Life without parole,9,2010,2019,False,PA,Philadelphia,40.0077,-75.1339
+790,Aaron Salter,20,Black,Murder,Life without parole,15,2003,2018,False,MI,Wayne,42.2819,-83.2822
+791,Joseph Salvati,31,White,Murder,Life,33,1968,2001,False,MA,Suffolk,42.3333,-71.0719
+792,Isauro Sanchez,20,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook,41.8401,-87.8168
+793,Santos Sanchez,46,Hispanic,Murder,Life,25,1996,2021,False,WI,Milwaukee,43.0072,-87.9669
+794,Derrick Sanders,21,Black,Murder,21 to life,25,1993,2018,False,WI,Milwaukee,43.0072,-87.9669
+795,Martin Santillan,23,Hispanic,Murder,Life,25,1998,2023,True,TX,Dallas,32.7666,-96.7778
+796,Louis Santos,20,Black,Murder,Life,5,1985,1990,False,MA,Suffolk,42.3333,-71.0719
+797,Omar Saunders,18,Black,Murder,Life without parole,13,1988,2001,True,IL,Cook,41.8401,-87.8168
+798,Mark Schand,21,Black,Murder,Life without parole,26,1987,2013,False,MA,Hampden,42.1351,-72.6316
+799,Albert Ian Schweitzer,20,Other,Murder,Life,23,2000,2023,True,HI,Hawaii,19.5985,-155.5185
+800,Christopher Shun Scott,27,Black,Murder,Life,12,1997,2009,False,TX,Dallas,32.7666,-96.7778
+801,Kendrick Scott,20,Black,Murder,Life without parole,18,2000,2018,False,MI,Wayne,42.2819,-83.2822
+802,Malcolm Scott,17,Black,Murder,Life,21,1995,2016,False,OK,Tulsa,36.1211,-95.9415
+803,Michael Scott,17,White,Murder,Life,7,2002,2009,True,TX,Travis,30.3344,-97.782
+804,Samuel Scott,28,Black,Sexual Assault,Life,15,1987,2002,True,GA,Chatham,32.0043,-81.1329
+805,Frank Sealie,23,Black,Murder,Life without parole,1,2014,2015,False,AL,Jefferson,33.5543,-86.8964
+806,Thelonious Searcy,24,Black,Murder,Life without parole,17,2005,2022,False,MI,Wayne,42.2819,-83.2822
+807,Ivan Serrano,17,Hispanic,Murder,Life,17,1988,2005,False,PA,Philadelphia,40.0077,-75.1339
+808,Shabaka Shakur,23,Black,Murder,20 to life,26,1989,2015,False,NY,Kings,40.6395,-73.9385
+809,Michael Shannon,41,Black,Murder,Life without parole,7,2011,2018,False,LA,Orleans,30.0687,-89.9288
+810,Dontae Sharpe,18,Black,Murder,Life,24,1995,2019,False,NC,Pitt,35.5933,-77.3745
+811,Paul Sheffield,47,White,Child Sex Abuse,5 to life,3,1987,1990,False,UT,Cache,41.7224,-111.7436
+812,Charles Shepherd,24,Black,Murder,15 to Life,13,1988,2001,False,NY,Kings,40.6395,-73.9385
+813,Clarence Shipley,20,Black,Murder,Life,26,1992,2018,False,MD,Baltimore City,40.6395,-73.9385
+814,James Shortt,21,Black,Murder,Life without parole,28,1982,2010,False,CA,Los Angeles,34.3209,-118.2247
+815,Kurtis DeAngelo Showers,28,Black,Robbery,Life,4,1994,1998,False,MI,Wayne,42.2819,-83.2822
+816,Kevin Siehl,35,White,Murder,Life without parole,24,1992,2016,False,PA,Cambria,40.4952,-78.7135
+817,Alberto Sifuentes,22,Hispanic,Murder,Life,10,1998,2008,False,TX,Lamb,34.0686,-102.3517
+818,Darrell Siggers,20,Black,Murder,Life without parole,34,1984,2018,False,MI,Wayne,42.2819,-83.2822
+819,Thomas Siller,41,White,Murder,30 to life,13,1998,2011,True,OH,Cuyahoga,41.4243,-81.6586
+820,Jesus Silva-Santiago,28,Hispanic,Murder,Life without parole,4,2006,2010,False,MA,Plymouth,41.9512,-70.8114
+821,Eric Simmons,24,Black,Murder,Life,24,1995,2019,False,MD,Baltimore City,41.9512,-70.8114
+822,Lawrence Simmons,19,Black,Murder,Life,23,1977,2000,False,NJ,Passaic,41.0343,-74.3008
+823,Tommy Simmons III,35,Black,Murder,Life,5,1998,2003,False,CA,Los Angeles,34.3209,-118.2247
+824,"Claude Simmons, Jr.",42,Black,Murder,Life,12,1997,2009,False,TX,Dallas,32.7666,-96.7778
+825,Michael Skakel,15,White,Murder,20 to Life,18,2002,2020,False,CT,Fairfield,41.271,-73.3893
+826,Parrish Slade,21,Black,Child Sex Abuse,Life,23,1989,2012,False,NC,Moore,35.3106,-79.4814
+827,Willie Lee Slater,20,Black,Assault,Life,10,1999,2009,False,FL,Orange,28.5145,-81.3236
+828,Joseph Sledge,34,Black,Murder,Life,37,1978,2015,True,NC,Bladen,34.6146,-78.5637
+829,Johnny Small,15,White,Murder,Life,27,1989,2016,False,NC,New Hanover,34.2328,-77.8847
+830,Billy James Smith,34,Black,Sexual Assault,Life,19,1987,2006,True,TX,Dallas,32.7666,-96.7778
+831,Demetrius Smith,25,Black,Murder,Life,2,2010,2012,False,MD,Baltimore City,32.7666,-96.7778
+832,Feronda Smith,30,Black,Murder,Life without parole,7,2011,2018,False,MI,Genesee,43.0217,-83.7067
+833,John Edward Smith,18,Black,Murder,Life,18,1994,2012,False,CA,Los Angeles,34.3209,-118.2247
+834,Jon Keith Smith,17,Black,Murder,Life,13,1987,2000,False,MO,Jackson,39.0085,-94.3461
+835,Kaliegh Smith,31,Black,Murder,Life without parole,11,2010,2021,True,LA,Orleans,30.0687,-89.9288
+836,Michael Smith,32,Black,Murder,Life without parole,15,1994,2009,False,CA,Los Angeles,34.3209,-118.2247
+837,Robert Smith,38,Black,Murder,Life without parole,30,1990,2020,False,IL,Cook,41.8401,-87.8168
+838,Sylvester Smith,32,Black,Child Sex Abuse,Life,20,1984,2004,False,NC,Brunswick,34.071,-78.2377
+839,Walter D. Smith,27,Black,Sexual Assault,78 to Life,10,1986,1996,True,OH,Franklin,39.9695,-83.0093
+840,William Smith,24,White,Murder,Life,18,1978,1996,False,NM,Bernalillo,35.0514,-106.6702
+841,"Frank Smith, Jr.",20,White,Drug Possession or Sale,15 to life,14,1989,2003,False,NY,Kings,40.6395,-73.9385
+842,"Larry Smith, Jr.",18,Black,Murder,Life without parole,27,1994,2021,False,MI,Wayne,42.2819,-83.2822
+843,Harold Grant Snowden,38,White,Child Sex Abuse,50 to Life,12,1986,1998,False,FL,Miami-Dade,25.615,-80.5623
+844,Cynthia Sommer,28,White,Murder,Life,1,2007,2008,False,CA,San Diego,33.0343,-116.735
+845,Ernest Sonnier,22,Black,Kidnapping,Life,32,1986,2018,True,TX,Harris,29.8577,-95.3936
+846,Matthew Sopron,22,White,Murder,Life without parole,20,1998,2018,False,IL,Cook,41.8401,-87.8168
+847,John Sosnovske,39,White,Murder,Life,4,1991,1995,False,OR,Multnomah,45.5468,-122.4148
+848,Joseph Sousa,26,White,Murder,20 to Life,30,1975,2005,False,DC,,45.5468,-122.4148
+849,India Spellman,17,Black,Murder,30 to Life,10,2013,2023,False,PA,Philadelphia,40.0077,-75.1339
+850,Clyde Ray Spencer,37,White,Child Sex Abuse,Life,25,1985,2010,False,WA,Clark,45.7792,-122.4825
+851,Keyon Sprinkle,17,Black,Murder,Life,18,2002,2020,False,MA,Suffolk,42.3333,-71.0719
+852,Robert Spurlock,22,White,Murder,Life,6,1990,1996,False,TN,Sumner,36.4694,-86.4604
+853,Patricia Stallings,24,White,Murder,Life,0,1991,1991,False,MO,Jefferson,38.2611,-90.5377
+854,Fred Steese,28,White,Murder,Life without parole,22,1995,2017,False,NV,Clark,36.2152,-115.0135
+855,Frank Sterling,25,White,Murder,25 to Life,18,1992,2010,True,NY,Monroe,43.1464,-77.6961
+856,Emerson Stevens,32,White,Murder,Life,35,1986,2021,False,VA,Lancaster,37.7345,-76.4632
+857,Dail Stewart,22,White,Murder,5 to life,8,1984,1992,False,UT,Salt Lake,40.6673,-111.9236
+858,Edward Stewart,26,Black,Murder,Life,8,2007,2015,False,PA,Philadelphia,40.0077,-75.1339
+859,Kia Stewart,17,Black,Murder,Life without parole,6,2009,2015,False,LA,Orleans,30.0687,-89.9288
+860,Zackary Lee Stewart,18,White,Murder,Life without parole,2,2008,2010,True,MO,Greene,37.258,-93.342
+861,"Andrew Stewart, Jr.",16,Black,Murder,Life,35,1984,2019,False,MD,Baltimore City,37.258,-93.342
+862,Mario Stinchcomb,22,Black,Murder,Life without parole,17,2004,2021,False,GA,Fulton,33.7903,-84.467
+863,Robert Lee Stinson,20,Black,Murder,Life,24,1985,2009,True,WI,Milwaukee,43.0072,-87.9669
+864,Willie Stokes,20,Black,Murder,Life without parole,38,1984,2022,False,PA,Philadelphia,40.0077,-75.1339
+865,John Street,36,White,Murder,Life without parole,3,2006,2009,False,O,(Western),40.0077,-75.1339
+866,Kevin Strickland,18,Black,Murder,Life,42,1979,2021,False,MO,Jackson,39.0085,-94.3461
+867,Willie Stuckey,16,Black,Murder,25 to life,28,1986,2014,True,NY,Kings,40.6395,-73.9385
+868,Larod Styles ,16,Black,Murder,Life without parole,19,1998,2017,False,IL,Cook,41.8401,-87.8168
+869,Harold Sullivan,31,White,Murder,Life,4,1986,1990,False,MA,Bristol,41.7972,-71.1144
+870,Michael Sullivan,25,White,Murder,Life without parole,32,1987,2019,True,MA,Middlesex,42.4856,-71.3918
+871,Andrew Swainson,22,Black,Murder,Life without parole,31,1989,2020,False,PA,Philadelphia,40.0077,-75.1339
+872,Christopher Swem,34,White,Murder,24 to Life,4,2018,2022,False,NY,Jefferson,44.0495,-75.921
+873,Johnny Tall Bear,34,Native American,Murder,Life without parole,26,1992,2018,True,OK,Oklahoma,35.5515,-97.4072
+874,Terry Talley,23,Black,Sexual Assault,Life,40,1981,2021,True,GA,Troup,33.0335,-85.0284
+875,Martin Tankleff,17,White,Murder,50 to Life,18,1990,2008,False,NY,Suffolk,40.8686,-72.8448
+876,Hattie Tanner,35,Black,Murder,Life without parole,18,2000,2018,False,MI,Calhoun,42.2465,-85.0056
+877,Christopher Tapp,20,White,Murder,Life,21,1998,2019,True,ID,Bonneville,43.3877,-111.6148
+878,Andre Taylor,,Black,Attempted Murder,28 to life,8,1990,1998,False,CA,Los Angeles,34.3209,-118.2247
+879,Andrew Taylor,25,Black,Child Sex Abuse,Life,25,1991,2016,False,FL,Miami-Dade,25.615,-80.5623
+880,Daniel Taylor,17,Black,Murder,Life without parole,18,1995,2013,False,IL,Cook,41.8401,-87.8168
+881,Don Taylor,20,Black,Murder,22 1/2 to Life,15,1989,2004,False,NY,Bronx,40.8501,-73.866
+882,Edward Taylor,21,Black,Child Sex Abuse,Life,36,1986,2022,False,FL,Duval,30.3316,-81.6708
+883,Gregory Taylor,28,White,Murder,Life,17,1993,2010,True,NC,Wake,35.7903,-78.6503
+884,Rhian Taylor,21,Black,Murder,20 to life,7,2010,2017,False,NY,Queens,40.7023,-73.8203
+885,John Tennison,17,Black,Murder,25 to Life,13,1990,2003,False,CA,San Francisco,37.7558,-122.4449
+886,Paul Terry,17,Black,Murder,Life,26,1977,2003,True,IL,Cook,41.8401,-87.8168
+887,Jerome Thagard,16,Black,Murder,25 to life,4,2010,2014,False,NY,Erie,42.764,-78.7323
+888,Adrian Thomas,26,Black,Murder,25 to life,5,2009,2014,False,NY,Rensselaer,42.7111,-73.5097
+889,Cherice Thomas,18,Black,Murder,25 to Life,3,2009,2012,False,CA,Los Angeles,34.3209,-118.2247
+890,Marvin Thomas,20,White,Murder,Life,6,1987,1993,False,WV,Wood,39.2112,-81.515
+891,Maverick Thomas,31,Black,Murder,Life,1,2005,2006,False,VA,Martinsville City,39.2112,-81.515
+892,Rickey Dale Thomas,25,Black,Robbery,Life,1,1992,1993,False,TX,Hopkins,33.1496,-95.564
+893,Shaurn Thomas,16,Black,Murder,Life without parole,23,1994,2017,False,PA,Philadelphia,40.0077,-75.1339
+894,Sheldon Thomas,17,Black,Murder,25 to life,17,2006,2023,False,NY,Kings,40.6395,-73.9385
+895,Teresa Thomas,29,Black,Murder,18 to life,4,1993,1997,False,OH,Athens,39.3339,-82.0452
+896,Victor Larue Thomas,26,Black,Sexual Assault,Life,15,1986,2001,True,TX,Ellis,32.3484,-96.7947
+897,"Clayton ""Mustafa"" Thomas, Jr.",23,Black,Murder,Life without parole,25,1994,2019,False,PA,Philadelphia,40.0077,-75.1339
+898,Michael Thompson,32,White,Sexual Assault,5 to Life,6,2008,2014,False,UT,Salt Lake,40.6673,-111.9236
+899,Dwayne Thorpe,25,Black,Murder,Life,10,2009,2019,False,PA,Philadelphia,40.0077,-75.1339
+900,Derek Tice,27,White,Murder,Life without parole,11,2000,2011,False,VA,Norfolk City,40.0077,-75.1339
+901,Michael Tillman,20,Black,Murder,Life,24,1986,2010,False,IL,Cook,41.8401,-87.8168
+902,Glenn Tinney,26,White,Murder,15 to life,23,1992,2015,False,OH,Richland,40.7747,-82.5365
+903,"George Toca, Jr.",17,Black,Murder,Life without parole,37,1985,2022,False,LA,Orleans,30.0687,-89.9288
+904,John Tomaino,41,White,Murder,20 to life,3,1996,1999,False,NY,Niagara,43.2001,-78.7452
+905,Charles Tomlin,26,Black,Murder,25 to life,15,1979,1994,False,CA,Kern,35.3426,-118.7301
+906,Steven Toney,35,Black,Sexual Assault,Life,13,1983,1996,True,MO,St. Louis,35.3426,-118.7301
+907,Angel Toro,30,White,Murder,Life,21,1983,2004,False,MA,Suffolk,42.3333,-71.0719
+908,Alexander Torres,20,Hispanic,Murder,40 to Life,20,2001,2021,False,CA,Los Angeles,34.3209,-118.2247
+909,Raymond Towler,24,Black,Child Sex Abuse,Life,29,1981,2010,True,OH,Cuyahoga,41.4243,-81.6586
+910,Parrish Towns,20,Black,Murder,Life without parole,24,1983,2007,False,MI,Wayne,42.2819,-83.2822
+911,Jerry Townsend,26,Black,Murder,Life,21,1980,2001,True,FL,Broward,26.1523,-80.4871
+912,Santae Tribble,17,Black,Murder,20 to Life,32,1980,2012,True,DC,,26.1523,-80.4871
+913,Eddie Triplett,38,Black,Drug Possession or Sale,Life without parole,13,1998,2011,False,LA,Orleans,30.0687,-89.9288
+914,Jamal Trulove,25,Black,Murder,50 to life,5,2010,2015,False,CA,San Francisco,37.7558,-122.4449
+915,Conrad Truman,30,White,Murder,16 to life,3,2014,2017,False,UT,Utah,40.1199,-111.6703
+916,Earl Truvia,17,Black,Murder,Life,27,1976,2003,False,LA,Orleans,30.0687,-89.9288
+917,Betty Tyson,24,Black,Murder,25 to Life,25,1973,1998,False,NY,Monroe,43.1464,-77.6961
+918,Zachary Vanderhorst,19,Black,Sexual Assault,Life,47,1974,2021,False,CA,San Francisco,37.7558,-122.4449
+919,Ignacio Varela,42,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook,41.8401,-87.8168
+920,Joaquin Varela,22,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook,41.8401,-87.8168
+921,Michael Vasquez,40,Hispanic,Robbery,20 to life,15,1997,2012,False,NY,New York,40.7785,-73.9674
+922,William Vasquez,34,Black,Murder,25 to life,34,1981,2015,False,NY,Kings,40.6395,-73.9385
+923,James Vaughan III,28,Black,Child Sex Abuse,Life without parole,1,2008,2009,False,OH,Cuyahoga,41.4243,-81.6586
+924,Willie Veasy,26,Black,Murder,Life without parole,26,1993,2019,False,PA,Philadelphia,40.0077,-75.1339
+925,Damaso Vega,37,Hispanic,Murder,Life,7,1982,1989,False,NJ,Monmouth,40.2603,-74.2213
+926,Carl Veltmann,62,White,Arson,Life,4,1992,1996,False,L,(Middle),40.2603,-74.2213
+927,Christopher Veltmann,35,White,Arson,Life,4,1992,1996,False,L,(Middle),40.2603,-74.2213
+928,Amaury Villalobos,30,Hispanic,Murder,25 to life,34,1981,2015,False,NY,Kings,40.6395,-73.9385
+929,Daniel Villegas,16,Hispanic,Murder,Life,23,1995,2018,False,TX,El Paso,31.7686,-106.2348
+930,James Walker,30,Black,Murder,20 to Life,19,1971,1990,False,NY,Kings,40.6395,-73.9385
+931,John  Walker,16,Black,Murder,17 to Life,44,1977,2021,False,NY,Erie,42.764,-78.7323
+932,Keith Walker,23,Black,Murder,Life without parole,26,1994,2020,False,IL,Cook,41.8401,-87.8168
+933,Quedillis Ricardo Walker,34,Hispanic,Murder,26 to Life,12,1991,2003,True,CA,Santa Clara,37.2318,-121.6951
+934,Patrick Waller,22,Black,Kidnapping,Life,16,1992,2008,True,TX,Dallas,32.7666,-96.7778
+935,Terry Lee Wanzer,20,White,Sexual Assault,Life,18,1973,1991,False,GA,Clayton,33.5419,-84.3577
+936,Bernard Ward,28,White,Murder,Life,5,1989,1994,False,MD,Anne Arundel,39.0065,-76.6051
+937,Ramon Ward,18,Black,Murder,Life without parole,25,1995,2020,False,MI,Wayne,42.2819,-83.2822
+938,Melonie Ware,30,Black,Murder,Life,4,2005,2009,False,GA,DeKalb,33.7715,-84.2264
+939,Colin Warner,18,Black,Murder,15 to Life,19,1982,2001,False,NY,Kings,40.6395,-73.9385
+940,Douglas Warney,34,White,Murder,25 to Life,9,1997,2006,True,NY,Monroe,43.1464,-77.6961
+941,Kevin Warrior,23,Black,Murder,Life,3,2016,2019,False,OK,Tulsa,36.1211,-95.9415
+942,Calvin E. Washington,30,Black,Murder,Life,14,1987,2001,True,TX,McLennan,31.5524,-97.2018
+943,Darryl Washington,24,Black,Robbery,Life,16,1996,2012,False,TX,Dallas,32.7666,-96.7778
+944,Gary Washington,25,Black,Murder,Life,32,1987,2019,False,MD,Baltimore City,32.7666,-96.7778
+945,Jabbar Washington,21,Black,Murder,25 to Life,20,1997,2017,False,NY,Kings,40.6395,-73.9385
+946,Sean Washington,23,Black,Murder,60 to life,24,1996,2020,False,NJ,Camden,39.8035,-74.9597
+947,Terrance Washington,16,Black,Murder,Life without parole,4,1997,2001,False,FL,Leon,30.458,-84.2779
+948,Kenneth Waters,25,White,Murder,Life,18,1983,2001,True,MA,Middlesex,42.4856,-71.3918
+949,Leo Waters,30,White,Sexual Assault,Life,21,1982,2003,True,NC,Onslow,34.7321,-77.4321
+950,Cathy Watkins,27,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx,40.8501,-73.866
+951,Joyce Watkins,39,Black,Murder,Life,34,1988,2022,False,TN,Davidson,36.1695,-86.7847
+952,Ledura Watkins,19,Black,Murder,Life without parole,41,1976,2017,False,MI,Wayne,42.2819,-83.2822
+953,Ransom Watkins,16,Black,Murder,Life,35,1984,2019,False,MD,Baltimore City,42.2819,-83.2822
+954,James Watson,20,Black,Murder,Life without parole,39,1981,2020,True,MA,Suffolk,42.3333,-71.0719
+955,Anthony Ways,19,Black,Murder,Life,14,1991,2005,False,NJ,Camden,39.8035,-74.9597
+956,Jennifer Weathington,19,White,Murder,Life,6,2013,2019,False,GA,Paulding,33.9205,-84.8673
+957,Mary Weaver,41,White,Murder,Life without parole,3,1994,1997,False,IA,Marshall,42.0358,-92.9988
+958,Kenneth Webb,30,White,Murder,Life without parole,35,1987,2022,False,MI,Washtenaw,42.2532,-83.8388
+959,Joseph Webster,19,Black,Murder,Life,14,2006,2020,True,TN,Davidson,36.1695,-86.7847
+960,Carlos Weeks,20,Black,Murder,27 1/2 to Life,24,1995,2019,False,NY,Kings,40.6395,-73.9385
+961,Fred Weichel,28,White,Murder,Life without parole,36,1981,2017,False,MA,Norfolk,42.1605,-71.2115
+962,Keith West,19,Black,Murder,Life,24,1995,2019,False,KY,Jefferson,38.1872,-85.6591
+963,William Westly,47,Black,Sexual Assault,20 to Life,3,1999,2002,False,NY,Bronx,40.8501,-73.866
+964,Derrick Wheatt,17,Black,Murder,18 to life,20,1996,2016,False,OH,Cuyahoga,41.4243,-81.6586
+965,Jonathan Wheeler-Whichard,16,Black,Murder,25 to Life,12,1997,2009,False,NY,Kings,40.6395,-73.9385
+966,Mark Whitaker,29,Black,Murder,Life without parole,16,2003,2019,False,PA,Philadelphia,40.0077,-75.1339
+967,George White,36,White,Murder,Life,5,1987,1992,False,AL,Coffee,31.4027,-85.9882
+968,John Jerome White,19,Black,Sexual Assault,Life,27,1980,2007,True,GA,Meriwether,33.0405,-84.6883
+969,Joseph White,22,White,Murder,Life,19,1989,2008,True,NE,Gage,40.2619,-96.6894
+970,Drew Whitley,32,Black,Murder,Life,17,1989,2006,True,PA,Allegheny,40.4688,-79.9812
+971,Herbert Whitlock,39,White,Murder,Life,21,1987,2008,False,IL,Edgar,39.6786,-87.7456
+972,Christopher Wickham,27,White,Sexual Assault,20 to life,22,1997,2019,False,UT,Salt Lake ,39.6786,-87.7456
+973,David Lee Wiggins,24,White,Child Sex Abuse,Life,23,1989,2012,True,TX,Tarrant,32.7719,-97.2911
+974,Danny Wilber,24,Native American,Murder,Life,17,2005,2022,False,WI,Milwaukee,43.0072,-87.9669
+975,Jennifer Wilcox,20,White,Child Sex Abuse,Life,12,1985,1997,False,OH,Montgomery,39.7547,-84.2907
+976,Charles Wilhite,25,Black,Murder,Life without parole,3,2010,2013,False,MA,Hampden,42.1351,-72.6316
+977,Antonio Williams ,35,Black,Child Sex Abuse,Life,4,2007,2011,False,AL,Jefferson,33.5543,-86.8964
+978,Archie Williams,22,Black,Attempted Murder,Life without parole,36,1983,2019,False,LA,East Baton Rouge,30.5383,-91.0956
+979,Calvin Williams,,Black,Murder,Life,19,1977,1996,False,LA,Orleans,30.0687,-89.9288
+980,Christopher Williams,29,Black,Murder,Life without parole,29,1992,2021,False,PA,Philadelphia,40.0077,-75.1339
+981,Clarence Williams,25,Black,Murder,Life,18,2002,2020,False,MA,Suffolk,42.3333,-71.0719
+982,Cordell Williams,19,Black,Murder,Life without parole,27,1995,2022,False,IL,Cook,41.8401,-87.8168
+983,Danial Williams,25,White,Murder,Life without parole,17,1999,2016,False,VA,Norfolk City,41.8401,-87.8168
+984,Derrick Raphel Williams,29,Black,Sexual Assault,Life,18,1993,2011,True,FL,Manatee,27.4719,-82.3153
+985,Grant Williams,25,Black,Murder,Life,24,1997,2021,False,NY,Richmond,40.5808,-74.1524
+986,Hayes Williams,19,Black,Murder,Life,29,1968,1997,False,LA,Orleans,30.0687,-89.9288
+987,Herman Williams,29,White,Murder,Life without parole,28,1994,2022,True,IL,Lake,42.3233,-88.0037
+988,James Williams,50,White,Murder,Life,7,1982,1989,False,GA,Chatham,32.0043,-81.1329
+989,James Curtis Williams,25,Black,Sexual Assault,Life,28,1984,2012,True,TX,Dallas,32.7666,-96.7778
+990,Jimmy Williams,20,Black,Child Sex Abuse,Life,10,1991,2001,False,OH,Summit,41.126,-81.5322
+991,Joe Sidney Williams,19,Black,Murder,Life,6,1987,1993,True,TX,McLennan,31.5524,-97.2018
+992,Michael Williams,31,Black,Murder,Life,14,1997,2011,False,LA,Jefferson,29.7872,-90.1274
+993,Michael Williams,39,Black,Weapon Possession or Sale,25 to life,4,1996,2000,False,CA,Los Angeles,34.3209,-118.2247
+994,Michael Anthony Williams,16,Black,Sexual Assault,Life without parole,24,1981,2005,True,LA,Jackson,32.302,-92.5578
+995,Randolph Williams,22,Black,Murder,25 to life,8,2008,2016,False,NY,Kings,40.6395,-73.9385
+996,Richard Williams,18,Black,Murder,Life without parole,17,1998,2015,False,CA,Sacramento,38.4493,-121.3443
+997,Shawn Williams,19,Black,Murder,25 to life,24,1994,2018,False,NY,Kings,40.6395,-73.9385
+998,Thomas Wayne Williams,38,Black,Drug Possession or Sale,Life,2,1998,2000,False,TX,Dallas,32.7666,-96.7778
+999,Calvin Willis,21,Black,Child Sex Abuse,Life without parole,21,1982,2003,True,LA,Caddo,32.5806,-93.8823
+1000,Cedric Willis,19,Black,Murder,Life,9,1997,2006,True,MS,Hinds,32.2667,-90.4428
+1001,John Willis,42,Black,Sexual Assault,Life,6,1993,1999,True,IL,Cook,41.8401,-87.8168
+1002,Patrick Willis,28,Black,Murder,Life without parole,8,2013,2021,False,CA,Alameda,37.6469,-121.8888
+1003,Troy Willoughby,20,White,Murder,Life,2,2010,2012,False,WY,Sublette,42.7669,-109.9147
+1004,Andrew Wilson,29,Black,Murder,Life without parole,31,1986,2017,False,CA,Los Angeles,34.3209,-118.2247
+1005,Jackie Wilson,21,Black,Murder,Life without parole,37,1983,2020,False,IL,Cook,41.8401,-87.8168
+1006,Johnny Lee Wilson,20,White,Murder,Life without parole,8,1987,1995,False,MO,Lawrence,37.1064,-93.833
+1007,Kathryn Dawn Wilson,22,White,Child Sex Abuse,Life,4,1993,1997,False,NC,Chowan,36.1508,-76.6079
+1008,Sharrif Wilson,15,Black,Murder,9 to Life,20,1994,2014,True,NY,Kings,40.6395,-73.9385
+1009,Theophalis Wilson,17,Black,Murder,Life without parole,27,1993,2020,False,PA,Philadelphia,40.0077,-75.1339
+1010,Megan Winfrey,16,White,Murder,Life,5,2008,2013,False,TX,San Jacinto,30.5795,-95.1669
+1011,Luke Wirkkala,32,White,Murder,Life,7,2014,2021,True,OR,Deschutes,43.915,-121.2281
+1012,David Wong,23,Asian,Murder,25 to Life,17,1987,2004,False,NY,Clinton,44.7462,-73.6782
+1013,Glen Woodall,28,White,Sexual Assault,Life,5,1987,1992,True,WV,Cabell,38.4203,-82.2417
+1014,James Lee Woodard,26,Black,Murder,Life,27,1981,2008,True,TX,Dallas,32.7666,-96.7778
+1015,Cathy Woods,26,White,Murder,Life without parole,35,1980,2015,True,NV,Washoe,40.6655,-119.6643
+1016,Michael Woolfolk,23,Black,Murder,Life without parole,17,2004,2021,False,GA,Fulton,33.7903,-84.467
+1017,Stanley Wrice,28,Black,Sexual Assault,Life,30,1983,2013,False,IL,Cook,41.8401,-87.8168
+1018,Anthony Wright,20,Black,Murder,Life without parole,23,1993,2016,True,PA,Philadelphia,40.0077,-75.1339
+1019,Cleveland Wright,20,Black,Murder,20 to Life,35,1979,2014,True,DC,,40.0077,-75.1339
+1020,David Wright,17,Black,Murder,Life without parole,27,1996,2023,False,IL,Cook,41.8401,-87.8168
+1021,"Isaac Wright, Jr.",28,Black,Drug Possession or Sale,Life,7,1991,1998,False,NJ,Somerset,40.5635,-74.6163
+1022,John Wurdemann,29,Native American,Attempted Murder,Life,16,2002,2018,False,ID,Canyon,43.6251,-116.7093
+1023,Anthony Yarbough,18,Black,Murder,75 to life,20,1994,2014,True,NY,Kings,40.6395,-73.9385
+1024,Kenneth York,38,White,Sexual Assault,Life without parole,16,1994,2010,True,MO,Vernon,37.8506,-94.3424
+1025,Paul Young,17,Black,Murder,Life without parole,34,1987,2021,False,MI,Wayne,42.2819,-83.2822
+1026,"Dan Young, Jr.",30,Black,Murder,Life without parole,11,1994,2005,True,IL,Cook,41.8401,-87.8168
+1027,Evan Zimmerman,53,White,Murder,Life,4,2001,2005,True,WI,Eau Claire,44.7268,-91.286
