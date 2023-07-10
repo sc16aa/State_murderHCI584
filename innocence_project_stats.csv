@@ -1,4 +1,4 @@
-LastName,FirstName,Age,Race,ST,County,Tags,OM_Tags,Crime,Sentence,Convicted,Exonerated,DNA,MWID,FC,P_FA,F_MFE,OM,ILD
+Last Name,First Name,Age,Race,ST,County of Crime,Tags,OM Tags,Crime,Sentence,Convicted,Exonerated,DNA,MWID,FC,P/FA,F/MFE,OM,ILD
 Abbitt,Joseph,31,Black,NC,Forsyth,"CV, IO, SA",,Child Sex Abuse,Life,1995,2009,DNA,MWID,,,,,
 Abbott,Cinque,19,Black,IL,Cook,"CIU, IO, NC, P","OF, WH, NW",Drug Possession or Sale,Probation,2008,2022,,,,P/FA,,OM,
 Abdal,Warith Habib,43,Black,NY,Erie,"IO, SA","OF, WH, NW, WT",Sexual Assault,20 to Life,1983,1999,DNA,MWID,,,F/MFE,OM,

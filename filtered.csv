@@ -1,1029 +1,1029 @@
-#,Name,Age,Race,Crime,Sentence,Duration,Convicted,Exonerated,DNA,ST,County
-0,Joseph Abbitt,31,Black,Child Sex Abuse,Life,14,1995,2009,True,NC,Forsyth
-1,Warith Habib Abdal,43,Black,Sexual Assault,20 to Life,16,1983,1999,True,NY,Erie
-2,Christopher Abernathy,17,White,Murder,Life without parole,28,1987,2015,True,IL,Cook
-3,Quentin Abney,32,Black,Robbery,20 to Life,6,2006,2012,False,NY,New York
-4,Don Ray Adams,32,Black,Murder,Life,19,1992,2011,False,PA,Philadelphia
-5,Reginald Adams,26,Black,Murder,Life without parole,31,1983,2014,False,LA,Orleans
-6,Sean Adams,21,Black,Murder,Life,14,1999,2013,False,CT,New Haven
-7,Joel Alcox,22,White,Murder,26 to life,29,1987,2016,False,CA,Santa Barbara
-8,Robert Aldridge,24,White,Child Sex Abuse,Life,12,1985,1997,False,OH,Montgomery
-9,John Randall Alexander,22,White,Murder,Life,21,1989,2010,False,MS,Panola
-10,Malcolm Alexander,19,Black,Sexual Assault,Life without parole,38,1980,2018,True,LA,Jefferson
-11,Dennis Allen,36,Black,Murder,Life,19,2000,2019,True,TX,Dallas
-12,Donovan Allen,18,White,Murder,Life without parole,13,2002,2015,True,WA,Cowlitz
-13,James Allen,34,Black,Murder,Life without parole,34,1987,2021,False,IL,Cook
-14,Joseph Allen,39,Black,Child Sex Abuse,Life,28,1994,2022,False,OH,Lorain
-15,Arthur Almendarez,19,Hispanic,Murder,Life without parole,32,1990,2022,False,IL,Cook
-16,Roberto Almodovar,19,Hispanic,Murder,Life without parole,22,1995,2017,False,IL,Cook
-17,Quintin Alonzo,21,Hispanic,Murder,Life,16,2003,2019,False,TX,Dallas
-18,Ramon Alvarez,23,Hispanic,Murder,25 to life,10,2012,2022,False,CA,Orange
-19,Peter Ambler,24,White,Murder,Life,2,1987,1989,False,WI,Rock
-20,Michael Amick,32,White,Murder,Life,5,2011,2016,False,MO,Oregon
-21,Marvin Anderson,18,Black,Sexual Assault,Life,20,1982,2002,True,VA,Hanover
-22,Eddie Andre,41,Black,Murder,25 to Life,6,1988,1994,False,NY,Queens
-23,Isaiah Andrews,36,Black,Murder,Life,46,1975,2021,False,OH,Cuyahoga
-24,James Andrews,21,Black,Murder,Life,23,1985,2008,False,IL,Cook
-25,Alexandre Ansari,28,Black,Murder,Life without parole,6,2013,2019,False,MI,Wayne
-26,Obie Anthony,19,Black,Murder,Life without parole,16,1995,2011,False,CA,Los Angeles
-27,Wayne Antusas,17,White,Murder,Life without parole,23,1998,2021,False,IL,Cook
-28,Ezequiel Apolo-Albino,55,Hispanic,Child Sex Abuse,6 3/4 to Life,7,2009,2016,False,WA,King
-29,Victor Arciliares,21,Hispanic,Murder,Life,3,2013,2016,False,RI,Providence
-30,LaMonte Armstrong,38,Black,Murder,Life,18,1995,2013,True,NC,Guilford
-31,Ralph Armstrong,27,White,Murder,Life,28,1981,2009,True,WI,Dane
-32,Bladimil Arroyo,21,Hispanic,Murder,20 to Life,17,2002,2019,False,NY,Kings
-33,Rogelio Arroyo,25,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook
-34,Corey Atchison,19,Black,Murder,Life,30,1991,2021,False,OK,Tulsa
-35,Dennis Atkins,21,Black,Murder,Life,16,2006,2022,False,MI,Wayne
-36,Timothy Atkins,17,Black,Murder,32 to Life,20,1987,2007,False,CA,Los Angeles
-37,Gerald Atlas,25,Black,Attempted Murder,28 to life,8,1990,1998,False,CA,Los Angeles
-38,Darryl Austin,22,Black,Murder,18 to life,26,1988,2014,False,NY,Kings
-39,Michael Austin,25,Black,Murder,Life,27,1975,2002,False,MD,Baltimore City
-40,David Ayers,42,Black,Murder,Life without parole,11,2000,2011,True,OH,Cuyahoga
-41,Devon Ayers,18,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx
-42,Devon Ayers,18,Black,Murder,25 to life,16,1997,2013,False,NY,Bronx
-43,Muhammad Aziz,26,Black,Murder,Life,55,1966,2021,False,NY,New York
-44,Darryl Bailey,17,Black,Murder,Life,6,1994,2000,False,TN,Shelby
-45,James Bain,19,Black,Child Sex Abuse,Life,35,1974,2009,True,FL,Polk
-46,Edward Baker,17,Black,Murder,Life,28,1974,2002,False,PA,Philadelphia
-47,Jimmy Lee Baker,22,White,Assault,Life,1,2009,2010,False,OK,Bryan
-48,Kevin Baker,23,Black,Murder,60 to life,24,1996,2020,False,NJ,Camden
-49,Jarvis Ballard,18,Black,Sexual Assault,Life without parole,22,1999,2021,True,LA,St. Bernard
-50,Antoine Bankhead,18,Black,Murder,Life,4,2002,2006,False,MO,St. Louis City
-51,Bernard Baran,18,White,Child Sex Abuse,Life,24,1985,2009,False,MA,Berkshire
-52,Joshua Bargery,20,White,Murder,Life without parole,7,2015,2022,False,TN,Lake
-53,Lamar Barnes,20,Black,Murder,Life,19,2003,2022,False,VA,Portsmouth City
-54,Steven Barnes,19,White,Murder,25 to Life,20,1989,2009,True,NY,Oneida
-55,"Donald Barnes, Jr.",32,White,Child Sex Abuse,Life without parole,3,2011,2014,False,FL,Sarasota
-56,Scotty Bartek,24,White,Child Sex Abuse,Life,23,1991,2014,False,FL,Marion
-57,Kevin Baruxes,18,White,Sexual Assault,18 to Life,7,1996,2003,False,CA,San Diego
-58,Luis Batista,32,Hispanic,Robbery,25 to life,24,1994,2018,False,NY,Rensselaer
-59,Floyd Batten,20,Black,Murder,20 to life,20,1984,2004,False,NY,Kings
-60,Juan Bautista,19,Hispanic,Attempted Murder,40 to Life,10,2011,2021,False,CA,San Joaquin
-61,Jacob Beard,34,White,Murder,Life without parole,7,1993,2000,False,WV,Pocahontas
-62,Dale Beckett,33,Black,Murder,15 to Life,6,1997,2003,False,OH,Lucas
-63,George Bell,19,Black,Murder,Life without parole,22,1999,2021,False,NY,Queens
-64,Kareem Bellamy,26,Black,Murder,25 to Life,16,1995,2011,False,NY,Queens
-65,Ricardo Benitez,54,Hispanic,Robbery,22 to life,5,2010,2015,False,NY,Queens
-66,Gary Bennett,36,White,Murder,Life without parole,18,2002,2020,True,SC,Horry
-67,Hassan Bennett,23,Black,Murder,Life without parole,11,2008,2019,False,PA,Philadelphia
-68,Cheryl Beridon,23,Black,Drug Possession or Sale,Life,24,1979,2003,False,LA,Terrebonne
-69,Fernando Bermudez,21,Hispanic,Murder,23 to Life,17,1992,2009,False,NY,New York
-70,DeMarlo Berry,18,Black,Murder,Life,22,1995,2017,False,NV,Clark
-71,Gregory Berry,20,White,Murder,Life without parole,16,2004,2020,False,MI,Wayne
-72,Johnny Berry,16,Black,Murder,Life without parole,24,1995,2019,False,PA,Philadelphia
-73,Thomas Bianco,19,White,Murder,25 to Life,7,1986,1993,False,NY,Cayuga
-74,Gene Bibbins,29,Black,Child Sex Abuse,Life,16,1987,2003,True,LA,LA Parish
-75,Dhoruba bin Wahad,26,Black,Attempted Murder,25 to Life,22,1973,1995,False,NY,New York
-76,Phillip Bivens,28,Black,Murder,Life,30,1980,2010,True,MS,Forrest
-77,James Blackmon,26,Black,Murder,Life,31,1988,2019,False,NC,Wake
-78,Bryan Blake,22,White,Murder,25 to life,4,1985,1989,False,NY,New York
-79,Jeffrey Blake,21,Black,Murder,36 to Life,7,1991,1998,False,NY,Kings
-80,Floyd Bledsoe,23,White,Murder,Life,15,2000,2015,True,KS,Jefferson
-81,Eddie Bolden,24,Black,Murder,Life without parole,20,1996,2016,False,IL,Cook
-82,Rohan Bolt,35,Black,Murder,50 to Life,21,2000,2021,False,NY,Queens
-83,Samuel Bonner,20,Black,Murder,Life without parole,36,1983,2019,False,CA,Los Angeles
-84,Darrell Booth,28,Black,Murder,15 to Life,6,2011,2017,False,CA,Orange
-85,Christopher Boots,19,White,Murder,20 to Life,8,1987,1995,True,OR,Lane
-86,James Bowman,18,Black,Murder,Life,15,1986,2001,False,MO,Jackson
-87,Kevin Bowman,23,Black,Murder,Life,33,1990,2023,False,PA,Philadelphia
-88,David Boyce,19,White,Murder,Life,22,1991,2013,True,VA,Newport News City
-89,Darryl Boyd,16,Black,Murder,20 to Life,44,1977,2021,False,NY,Erie
-90,"Kenneth Wayne Boyd, Jr.",22,Black,Murder,Life,14,1999,2013,False,TX,Shelby
-91,Dewey Bozella,16,Black,Murder,20 to Life,26,1983,2009,False,NY,Dutchess
-92,Rodney L. Bragg,31,Black,Drug Possession or Sale,Life,4,1996,2000,False,AR,Clark
-93,Adam Braseel,22,White,Murder,Life,14,2007,2021,False,TN,Grundy
-94,Timothy Bridges,22,White,Sexual Assault,Life,25,1991,2016,True,NC,Mecklenburg
-95,Gregory Bright,20,Black,Murder,Life,27,1976,2003,False,LA,Orleans
-96,Jack Ray Broam,29,White,Child Sex Abuse,Life,8,1990,1998,False,NV,Churchill
-97,Jerry Brock,35,Black,Child Sex Abuse,Life,19,1995,2014,False,WA,Thurston
-98,Elvis Brooks,19,Black,Murder,Life without parole,45,1977,2022,False,LA,Orleans
-99,Levon Brooks,26,Black,Murder,Life without parole,16,1992,2008,True,MS,Noxubee
-100,Albert Brown,32,Black,Murder,Life without parole,35,1987,2022,False,MA,Suffolk
-101,Arthur Brown,37,Black,Murder,Life without parole,27,1990,2017,False,IL,Cook
-102,Danny Brown,24,Black,Murder,Life,19,1982,2001,True,OH,Lucas
-103,Debra Brown,35,White,Murder,Life,18,1995,2013,False,UT,Cache
-104,Dennis Brown,16,Black,Sexual Assault,Life,20,1985,2005,True,LA,St. Tammany
-105,Jacquez Brown,15,Black,Murder,50 to Life,9,2013,2022,False,PA,York
-106,Joyce Ann Brown,33,Black,Murder,25 to Life,10,1980,1990,False,TX,Dallas
-107,LeeVester Brown,33,Black,Murder,Life without parole,12,2006,2018,False,MS,Coahoma
-108,Patrick Brown,20,Black,Child Sex Abuse,Life without parole,29,1994,2023,False,LA,Orleans
-109,Roy Brown,29,White,Murder,25 to Life,15,1992,2007,True,NY,Cayuga
-110,Timothy Brown,14,Black,Murder,Life,10,1993,2003,False,FL,Broward
-111,Tony Brown,33,Black,Murder,Life,8,2010,2018,False,FL,Miami-Dade
-112,"John Brown, Jr.",21,Black,Murder,Life,28,1992,2020,False,AR,Dallas
-113,Samuel Brownridge,18,Black,Murder,25 to life,25,1995,2020,False,NY,Queens
-114,Carl Bruner II,29,Black,Murder,Life without parole,6,2014,2020,False,MI,Wayne
-115,Sheila Bryan,43,White,Murder,Life,2,1998,2000,False,GA,Colquitt
-116,David Bryant,18,Black,Murder,25 to Life,43,1976,2019,False,NY,Bronx
-117,Malcolm Bryant,24,Black,Murder,Life,17,1999,2016,True,MD,Baltimore City
-118,Calvin Buari,20,Black,Murder,50 to life,23,1995,2018,False,NY,Bronx
-119,Richard Buchli II,50,White,Murder,Life without parole,10,2002,2012,False,MO,Jackson
-120,Gyronne Buckley,44,Black,Drug Possession or Sale,Life,11,1999,2010,False,AR,Clark
-121,David Bueso,19,Hispanic,Murder,Life without parole,2,2019,2021,False,LA,East Baton Rouge
-122,Michael Bumbury,23,Black,Sexual Assault,12 to Life,3,1999,2002,False,NY,Bronx
-123,John Bunn,14,Black,Murder,7 to life,26,1992,2018,False,NY,Kings
-124,Gerald Burge,29,White,Murder,Life without parole,6,1986,1992,False,LA,St. Tammany
-125,Sabein Burgess,24,Black,Murder,Life,19,1995,2014,False,MD,Baltimore City
-126,Richard Burkhart,22,White,Murder,Life,15,2002,2017,False,MT,Cascade
-127,Troy Burner ,17,Black,Murder,30 to life,26,1994,2020,False,DC,
-128,Brandon Burnside,27,Black,Murder,Life,4,2011,2015,True,WI,Milwaukee
-129,Lazaro Burt,20,Black,Murder,25 to Life,8,1994,2002,False,NY,Queens
-130,Danny Burton,19,Black,Murder,Life without parole,32,1987,2019,False,MI,Wayne
-131,Darryl Burton,22,Black,Murder,Life,23,1985,2008,False,MO,Cole
-132,Huwe Burton,16,Black,Murder,15 to Life,28,1991,2019,False,NY,Bronx
-133,Keith Bush,17,Black,Murder,20 to Life,43,1976,2019,True,NY,Suffolk
-134,Dennis Butler,19,Black,Murder,20 to life,49,1971,2020,False,DC,
-135,Robert Butler,34,Black,Sexual Assault,Life,18,1977,1995,False,TN,Knox
-136,"A.B. Butler, Jr.",28,Black,Sexual Assault,Life,17,1983,2000,True,TX,Smith
-137,Kevin Byrd,23,Black,Sexual Assault,Life,12,1985,1997,True,TX,Harris
-138,Donovan Cadogan,29,White,Other Nonviolent Felony,Life without parole,4,2013,2017,False,WI,Lacrosse
-139,Eric Caine,19,Black,Murder,Life,22,1989,2011,False,IL,Cook
-140,Maurice Caldwell,23,Black,Murder,27 to Life,20,1991,2011,False,CA,San Francisco
-141,Lawrence Callanan,19,White,Murder,Life without parole,24,1996,2020,False,MO,St. Louis
-142,David Camm,36,White,Murder,Life,11,2002,2013,True,IN,Floyd
-143,Lamont Campbell,17,Black,Murder,Life,7,2016,2023,False,MO,St. Louis City
-144,Philip Scott Cannon,32,White,Murder,Life without parole,9,2000,2009,False,OR,Polk
-145,Mark Canter,22,White,Accessory to Murder,Life,8,1988,1996,False,MI,Otsego
-146,Shamel Capers,15,Black,Murder,15 to Life,5,2017,2022,False,NY,Queens
-147,Anthony Caravella,15,White,Murder,Life,26,1984,2010,True,FL,Broward
-148,Keith Carnes,33,Black,Murder,Life without parole,17,2005,2022,False,MO,Jackson
-149,Daniel Carnevale,29,White,Murder,Life without parole,13,2007,2020,False,PA,Allegheny
-150,Jose Caro,27,Hispanic,Murder,Life,22,1994,2016,True,PR,Aguadilla
-151,De'Marchoe Carpenter,17,Black,Murder,Life,21,1995,2016,False,OK,Tulsa
-152,Weldon Wayne Carr,57,White,Murder,Life,10,1994,2004,False,GA,Fulton
-153,Franky Carrillo,16,Hispanic,Murder,Life,19,1992,2011,False,CA,Los Angeles
-154,Edward Carter,19,Black,Sexual Assault,Life,35,1975,2010,False,MI,Wayne
-155,Joseph Carter,,Black,Murder,Life,31,1990,2021,False,VA,Norfolk City
-156,Raymond Carter,40,Black,Murder,Life,8,1988,1996,False,PA,Philadelphia
-157,Mark Carver,39,White,Murder,Life,11,2011,2022,True,NC,Gaston
-158,Elgerie Cash,45,White,Murder,Life,6,2013,2019,False,GA,Paulding
-159,Juan Celestino,41,Hispanic,Child Sex Abuse,Life,4,1991,1995,False,OH,Sandusky
-160,Raymond Champagne,23,White,Murder,Life without parole,41,1979,2020,False,MA,Norfolk
-161,Clarence Chance,23,Black,Murder,Life,17,1975,1992,False,CA,Los Angeles
-162,Steven Chaney,31,White,Murder,Life,32,1987,2019,True,TX,Dallas
-163,Anthony Chaparro,48,Hispanic,Sexual Assault,Life,11,2003,2014,True,NJ,Union
-164,Justin Chapman,27,White,Murder,Life,9,2007,2016,False,GA,Haralson
-165,Vernon Chapman,23,Black,Sexual Assault,Life,14,1980,1994,False,LA,St. Tammany
-166,Clyde Charles,26,Black,Sexual Assault,Life,17,1982,1999,True,LA,Terrebonne
-167,Louis Charriez,33,Hispanic,Murder,25 to Life,26,1997,2023,False,NY,Kings
-168,Charles Chatman,20,Black,Sexual Assault,Life,27,1981,2008,True,TX,Dallas
-169,Alfred Chestnut,16,Black,Murder,Life,35,1984,2019,False,MD,Baltimore City
-170,Frances Choy,17,Asian,Murder,Life without parole,9,2011,2020,False,MA,Plymouth
-171,Kino Christian,29,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee
-172,Tom Edwin Chumley,52,White,Murder,Life,4,2005,2009,False,GA,Columbia
-173,Prakash Churaman,15,Black,Murder,9 to life,4,2018,2022,False,NY,Queens
-174,Gary Cifizzari ,23,White,Murder,Life without parole,35,1984,2019,True,MA,Worcester
-175,Joaquin Ciria,29,Black,Murder,31 to life,31,1991,2022,False,CA,San Francisco
-176,Michael Clancy,22,Hispanic,Murder,25 to Life,10,1999,2009,False,NY,Bronx
-177,Alphonso Clark,23,Black,Murder,Life without parole,18,2005,2023,False,MI,Wayne
-178,Carey Clark,37,White,Murder,Life,2,1996,1998,False,NC,Avery
-179,Darrell Clark,17,White,Murder,Life,24,1998,2022,False,GA,Floyd
-180,George Clark,31,Black,Murder,Life without parole,17,2003,2020,False,MI,Wayne
-181,Jeffrey Clark,21,White,Murder,Life,23,1995,2018,True,KY,Meade
-182,Robert Clark,20,Black,Sexual Assault,Life,23,1982,2005,True,GA,Cobb
-183,Frederick Clay,16,Black,Murder,Life without parole,36,1981,2017,True,MA,Suffolk
-184,"David Clay, Sr.",37,Black,Murder,Life without parole,11,1988,1999,False,MO,St. Louis
-185,Christopher Clugston,21,White,Murder,Life,18,1983,2001,False,FL,Broward
-186,Allen Coco,26,Black,Sexual Assault,Life,9,1997,2006,True,LA,Calcasieu
-187,Reggie Cole,18,Black,Murder,Life,14,1995,2009,False,CA,Los Angeles
-188,Nevest Coleman,25,Black,Murder,Life without parole,20,1997,2017,True,IL,Cook
-189,Craig Coley,31,White,Murder,Life without parole,37,1980,2017,True,CA,Ventura
-190,Rosalynd Collier-Hammond,27,Black,Child Sex Abuse,Life,18,1999,2017,False,OH,Cuyahoga
-191,Jabbar Collins,20,Black,Murder,34 to Life,15,1995,2010,False,NY,Kings
-192,Danny Colon,26,Hispanic,Murder,50 to life,18,1993,2011,False,NY,New York
-193,Robert Carroll Coney,33,Black,Robbery,Life,38,1966,2004,False,TX,Angelina
-194,Caramad Conley,18,Black,Murder,Life without parole,17,1994,2011,False,CA,San Francisco
-195,Matthew Connor,41,Black,Murder,Life,10,1980,1990,False,PA,Philadelphia
-196,Marco Contreras,20,Hispanic,Attempted Murder,Life,20,1997,2017,False,CA,Los Angeles
-197,Olin Coones,50,White,Murder,50 to life,11,2009,2020,False,KS,Wyandotte
-198,Emmanuelle Cooper,25,Black,Murder,25 to life,27,1993,2020,False,NY,Kings
-199,Damon Corner,23,Black,Murder,Life,10,2002,2012,False,FL,Palm Beach
-200,George Cortez,30,Black,Murder,Life without parole,4,2012,2016,False,PA,Philadelphia
-201,Michael Cosme,19,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx
-202,Michael Cosme,19,Black,Murder,25 to life,16,1997,2013,False,NY,Bronx
-203,Marvin Cotton,21,Black,Murder,Life without parole,19,2001,2020,False,MI,Wayne
-204,Ronald Cotton,22,Black,Sexual Assault,Life,10,1985,1995,True,NC,Alamance
-205,Troy Coulston,20,Black,Murder,Life without parole,29,1992,2021,False,PA,Philadelphia
-206,Uriah Courtney,25,White,Sexual Assault,Life,7,2006,2013,True,CA,San Diego
-207,Jeffrey Cox,22,White,Murder,Life,10,1991,2001,False,VA,Richmond City
-208,Leonard Craine,37,Black,Child Sex Abuse,Life,12,1990,2002,False,NV,Clark
-209,Steven Crawford,14,Black,Murder,Life,28,1974,2002,False,PA,Dauphin
-210,Cory Credell,27,Black,Murder,Life,11,2001,2012,False,SC,Orangeburg
-211,Roy Criner,21,White,Sexual Assault,Life,10,1990,2000,True,TX,Montgomery
-212,Timothy Crosby,27,Black,Assault,10 to Life,10,1989,1999,False,NY,Kings
-213,Curtis Crosland,23,Black,Murder,Life without parole,33,1988,2021,False,PA,Philadelphia
-214,Alan Crotzer,19,Black,Sexual Assault,Life,24,1982,2006,True,FL,Hillsborough
-215,Norma Jean Croy,24,Native American,Murder,Life,18,1979,1997,False,CA,Siskiyou
-216,Efren Cruz,22,Hispanic,Murder,41 to Life,4,1997,2001,False,CA,Santa Barbara
-217,Leonard Cure,33,Black,Robbery,Life,16,2004,2020,False,FL,Broward
-218,Catina Curley,32,Black,Murder,Life,12,2007,2019,False,LA,Orleans
-219,Albert Daidone,38,White,Murder,Life without parole,15,1984,1999,False,PA,Philadelphia
-220,Dwayne Allen Dail,17,White,Child Sex Abuse,Life,18,1989,2007,True,NC,Wayne
-221,Michael Damien,27,White,Murder,20 to Life,30,1975,2005,False,DC,
-222,Beniah Alton Dandridge,29,White,Murder,Life,19,1996,2015,False,AL,Montgomery
-223,Elmer Daniels,18,Black,Child Sex Abuse,Life,38,1980,2018,False,DE,New Castle
-224,Richard Danziger,18,White,Sexual Assault,Life,12,1990,2002,True,TX,Travis
-225,Andre Davis,19,Black,Murder,Life,31,1981,2012,True,IL,Champaign
-226,James Davis,21,Black,Murder,18 to life,15,2006,2021,False,NY,Kings
-227,Ricky Davis,20,White,Murder,16 to life,15,2005,2020,True,CA,El Dorado
-228,"Glenn Davis, Jr.",18,Black,Murder,Life without parole,17,1993,2010,False,LA,Jefferson
-229,Anthony Daye,30,Black,Drug Possession or Sale,Life,5,2012,2017,False,LA,Iberia
-230,Frederick Renee Daye,25,Black,Sexual Assault,Life,10,1984,1994,True,CA,San Diego
-231,Selwyn Days,32,Black,Murder,50 to life,13,2004,2017,True,NY,Westchester
-232,Derrick Deacon,34,Black,Murder,25 to life,24,1989,2013,False,NY,Kings
-233,Angel M. DeAngelo,26,Hispanic,Murder,Life,1,2003,2004,False,F-NY,(Eastern)
-234,Albert Debelbot,22,Other,Murder,Life,12,2009,2021,False,GA,Muscogee
-235,Ashley Debelbot,23,Black,Murder,Life,12,2009,2021,False,GA,Muscogee
-236,Eric DeBerry,23,Black,Robbery,25 to Life,20,2000,2020,False,NY,Kings
-237,Juwan Deering,29,Black,Murder,Life without parole,15,2006,2021,False,MI,Oakland
-238,George DeJesus,18,Hispanic,Murder,Life,25,1997,2022,True,MI,Oakland
-239,Melvin DeJesus,21,Hispanic,Murder,Life,25,1997,2022,True,MI,Oakland
-240,Arturo DeLeon-Reyes,25,Hispanic,Murder,Life without parole,17,2000,2017,False,IL,Cook
-241,Larry Delmore,22,Black,Murder,Life without parole,17,1993,2010,False,LA,Jefferson
-242,Cedric Dent,22,Black,Murder,Life without parole,23,1999,2022,False,LA,Orleans
-243,Jeffrey Deskovic,16,White,Murder,15 to Life,16,1990,2006,True,NY,Westchester
-244,Robert Dewey,33,White,Murder,Life,16,1996,2012,True,CO,Mesa
-245,Steven Dewitt,20,Black,Murder,15 to Life,14,1992,2006,False,DC,
-246,Luis Diaz,40,Hispanic,Sexual Assault,Life,25,1980,2005,True,FL,Miami-Dade
-247,"Joseph Dick, Jr.",20,White,Murder,Life without parole,17,1999,2016,False,VA,Norfolk City
-248,Grace Dill,50,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-249,"Wayne Dill, Jr.",26,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-250,William Dillon,21,White,Murder,Life,27,1981,2008,True,FL,Brevard
-251,Douglas Dilosa,35,White,Murder,Life,16,1987,2003,False,LA,Jefferson
-252,Louis DiNicola,29,White,Murder,Life,14,1980,1994,False,PA,Erie
-253,Jack Dinning,38,White,Murder,Life,4,1993,1997,False,GA,Rabun
-254,Anthony DiPippo,18,White,Murder,25 to life,19,1997,2016,True,NY,Putnam
-255,Bobby Ray Dixon,22,Black,Murder,Life,30,1980,2010,True,MS,Forrest
-256,Donald Dixon,18,Black,Murder,Life,16,1985,2001,False,MO,Jackson
-257,Marvell Dixon,18,Black,Murder,20 to Life,24,1998,2022,False,OH,Franklin
-258,Rafiq Dixon,29,Black,Murder,Life,10,2012,2022,False,PA,Philadelphia
-259,Valentino Dixon,21,Black,Murder,38 1/3 to life,26,1992,2018,False,NY,Erie
-260,Alfredo Domenech,23,Hispanic,Murder,Life,17,1988,2005,False,PA,Philadelphia
-261,Gerard Domond,24,Black,Murder,25 to life,31,1989,2020,False,NY,Kings
-262,Jane Dorotik,53,White,Murder,25 to life,21,2001,2022,True,CA,San Diego
-263,Giovante Douglas,19,Black,Murder,26 years to life,6,2016,2022,False,CA,Alameda
-264,Gayle Dove,41,White,Child Sex Abuse,Life,4,1986,1990,False,TX,El Paso
-265,Gabriel Drennen,36,White,Murder,Life,2,2011,2013,False,WY,Fremont
-266,Shawn Drumgold,23,Black,Murder,Life,14,1989,2003,False,MA,Suffolk
-267,Howard Dudley,34,Black,Child Sex Abuse,Life,24,1992,2016,False,NC,Lenoir
-268,Carl Dukes,19,Black,Murder,39 to life,18,1998,2016,False,NY,Albany
-269,Edward Dumbrique,15,Hispanic,Murder,Life without parole,23,1998,2021,False,CA,Los Angeles
-270,Calvin Duncan,18,Black,Murder,Life without parole,36,1985,2021,False,LA,Orleans
-271,Charlie Dunn,43,Black,Murder,Life,34,1988,2022,False,TN,Davidson
-272,Timothy Durham,28,White,Child Sex Abuse,Life,4,1993,1997,True,OK,Tulsa
-273,John Duval,21,Black,Murder,25 to Life,27,1973,2000,False,NY,Monroe
-274,Nathan Christopher Dwight,21,Black,Robbery,Life,3,2010,2013,True,GA,Rockdale
-275,Margaret Earle,21,White,Murder,Life,5,2005,2010,False,MA,Plymouth
-276,Ralph Earnest,34,White,Murder,Life,23,1983,2006,False,NM,Eddy
-277,Joseph Eastridge,28,White,Murder,20 to Life,30,1975,2005,False,DC,
-278,Angel Echavarria,27,Hispanic,Murder,Life without parole,19,1996,2015,True,MA,Essex
-279,Tyler Edmonds,13,White,Murder,Life,4,2004,2008,False,MS,Oktibbeha
-280,Dartanion Edwards,19,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee
-281,James Edwards,44,Black,Murder,Life without parole,16,1996,2012,True,IL,Lake
-282,Joshun Edwards,27,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee
-283,Joe Elizondo,49,Hispanic,Child Sex Abuse,Life,13,1984,1997,False,TX,Jefferson
-284,Clarence Elkins,35,White,Murder,55 to Life,6,1999,2005,True,OH,Summit
-285,Vincent Ellerbe,17,Black,Murder,25 to Life,26,1996,2022,False,NY,Kings
-286,Tyrone Ellington,31,Black,Child Sex Abuse,Life,2,1989,1991,False,OH,Mahoning
-287,Sean Ellis,19,Black,Murder,Life,23,1995,2018,False,MA,Suffolk
-288,Cory Epps,25,Black,Murder,25 to life,19,1998,2017,False,NY,Erie
-289,Lonnie Erby,31,Black,Child Sex Abuse,Life,17,1986,2003,True,MO,St. Louis City
-290,Robert Escalera,21,Hispanic,Murder,15 to Life,14,1976,1990,False,NY,Kings
-291,Eric Esse,33,White,Murder,Life without parole,3,2003,2006,False,IA,Cerro Gordo
-292,Jerry Lee Evans,24,Black,Sexual Assault,Life,22,1987,2009,True,TX,Dallas
-293,Michael Evans,17,Black,Murder,Life,27,1976,2003,True,IL,Cook
-294,Steven Everling,33,White,Child Sex Abuse,Life,4,2008,2012,False,IN,Madison
-295,Louis Eze,31,Black,Child Sex Abuse,35 2/3 to life,14,1993,2007,False,NY,Erie
-296,James Fagan,36,Black,Child Sex Abuse,Life,10,1988,1998,False,MI,Genesee
-297,Anthony Faison,21,Black,Murder,20 to Life,13,1988,2001,False,NY,Kings
-298,Russell Faria,41,White,Murder,Life without parole,2,2013,2015,False,MO,Lincoln
-299,William Farnbaugh,25,White,Sexual Assault,Life,7,1997,2004,False,FL,Pasco
-300,David Faulkner,22,White,Murder,Life without parole,21,2001,2022,False,MD,Talbot
-301,Kenneth Faulkner,39,White,Kidnapping,30 to Life,3,2000,2003,False,CA,Kern
-302,David Fauntleroy,22,Black,Murder,Life,23,1986,2009,False,IL,Cook
-303,Lance Felder,16,Black,Murder,Life,16,1998,2014,False,PA,Philadelphia
-304,Robert Fenenbock,38,White,Murder,25 to Life,26,1994,2020,False,CA,Trinity
-305,Pablo Fernandez,20,Hispanic,Murder,25 to life,23,1996,2019,False,NY,New York
-306,Raymond Flanks,20,Black,Murder,Life without parole,37,1985,2022,False,LA,Orleans
-307,Jonathan Fleming,27,Black,Murder,25 to life,24,1990,2014,False,NY,Kings
-308,"James Fletcher, Jr.",27,Black,Murder,Life without parole,15,2005,2020,False,IL,Cook
-309,Curtis Flowers,21,Black,Murder,Life without parole,6,2004,2010,True,AR,Columbia
-310,John Floyd,31,White,Murder,Life without parole,36,1982,2018,True,LA,Orleans
-311,Lewis Fogle,24,White,Murder,Life without parole,33,1982,2015,True,PA,Indiana
-312,Kenneth Wayne Foley,26,White,Robbery,25 to Life,12,1995,2007,False,CA,Santa Clara
-313,Thomas Foley,40,White,Murder,Life,2,2009,2011,False,MI,Branch
-314,Walter Forbes,25,Black,Murder,Life without parole,37,1983,2020,False,MI,Jackson
-315,Colleen Dill Forsythe,26,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-316,Wayne Forsythe,28,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-317,Joel Fowler,17,Black,Murder,25 to life,6,2009,2015,False,NY,Kings
-318,Lawrence Fowler,37,Black,Murder,25 to Life,8,1998,2006,False,NY,Bronx
-319,Robert Foxworth,23,Black,Murder,Life,29,1992,2021,False,MA,Suffolk
-320,Brian Franklin,34,White,Child Sex Abuse,Life,21,1995,2016,False,TX,Tarrant
-321,George Franklin,30,White,Murder,Life,6,1990,1996,True,CA,San Mateo
-322,James Frazier,19,Black,Murder,Life without parole,6,2013,2019,False,PA,Philadelphia
-323,Joseph Frey,31,White,Sexual Assault,Life,19,1994,2013,True,WI,Winnebago
-324,Dennis Fritz,22,White,Murder,Life,11,1988,1999,True,OK,Pontotoc
-325,Darryl Fulton,26,Black,Murder,Life without parole,20,1997,2017,True,IL,Cook
-326,Rayshard  Futrell,17,Black,Murder,Life,1,2009,2010,False,MI,Wayne
-327,Kunta Gable,17,Black,Murder,Life without parole,26,1996,2022,False,LA,Orleans
-328,Richard Gagnon,32,White,Murder,Life without parole,7,2008,2015,True,SC,Horry
-329,Luis Galicia,21,Hispanic,Child Sex Abuse,15 to Life,3,2008,2011,False,CA,San Diego
-330,Aaron Galli,22,White,Murder,10 to life,0,1993,1993,False,UT,Salt Lake
-331,John Galvan,18,Hispanic,Murder,Life without parole,33,1989,2022,False,IL,Cook
-332,Robert Gandy,24,Black,Robbery,Life,30,1990,2020,False,TX,Harris
-333,Timothy Gantt,47,Black,Murder,Life without parole,14,1994,2008,False,CA,Los Angeles
-334,Arkel Garcia,19,Black,Murder,Life without parole,6,2015,2021,False,PA,Philadelphia
-335,Jose Garcia,27,Hispanic,Murder,25 to life,14,1993,2007,False,NY,Bronx
-336,Roy Lopez Garcia,45,Hispanic,Murder,Life,6,2000,2006,False,CA,Santa Clara
-337,Kenneth Gardiner,21,White,Murder,Life,26,1992,2018,False,GA,Chatham
-338,Jimmie Gardner,20,Black,Sexual Assault,33 to life,26,1990,2016,False,WV,Kanawha
-339,Claude Garrett,35,White,Murder,Life without parole,29,1993,2022,False,TN,Davidson
-340,"Edward Garry, Jr.",20,Hispanic,Murder,25 to life,21,1997,2018,False,NY,Bronx
-341,"Merardo Garza, Jr.",37,Hispanic,Child Sex Abuse,25 to Life,13,2008,2021,False,KS,Sedgwick
-342,Donald Eugene Gates,30,Black,Murder,20 to Life,27,1982,2009,True,DC,
-343,Gary Gathers,17,Black,Murder,36 to life,21,1994,2015,False,DC,
-344,Paul Gatling,29,Black,Murder,30 to life,52,1964,2016,False,NY,Kings
-345,David Lee Gavitt,26,White,Murder,Life without parole,26,1986,2012,False,MI,Ionia
-346,Robert Gayol,33,Hispanic,Murder,Life,2,2001,2003,False,IL,Cook
-347,Barry Gibbs,38,White,Murder,20 to Life,17,1988,2005,False,NY,Kings
-348,James Gibson,23,Black,Murder,Life without parole,28,1991,2019,False,IL,Cook
-349,Roland Gibson,20,Black,Murder,Life,25,1968,1993,False,LA,Orleans
-350,Eugene Gilyard,16,Black,Murder,Life,16,1998,2014,False,PA,Philadelphia
-351,Ray Girdler,36,White,Murder,Life,9,1982,1991,False,AZ,Yavapai
-352,David Gladden ,36,Black,Murder,Life,12,1995,2007,False,PA,Dauphin
-353,Eric Glisson,18,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx
-354,Laurese Glover,16,Black,Murder,15 to life,20,1996,2016,False,OH,Cuyahoga
-355,Scott Godesky,24,White,Murder,Life without parole,22,1997,2019,False,PA,Allegheny
-356,Antoine Goff,19,Black,Murder,27 to Life,13,1990,2003,False,CA,San Francisco
-357,Thomas Lee Goldstein,30,White,Murder,25 to Life,24,1980,2004,False,CA,Los Angeles
-358,Alfonso Gomez,21,Hispanic,Murder,41 to Life,14,1998,2012,False,CA,Orange
-359,Shannon Gonser,34,White,Child Sex Abuse,20 to life,4,2006,2010,False,CO,Arapahoe
-360,Alfredo Gonzalez,32,Hispanic,Murder,Life without parole,30,1992,2022,False,IL,Cook
-361,Ernesto Gonzalez,53,Hispanic,Murder,Life,7,2013,2020,False,NV,Washoe
-362,Hector Gonzalez,18,Hispanic,Murder,15 to Life,6,1996,2002,True,NY,Kings
-363,Donald Wayne Good,23,White,Sexual Assault,Life,20,1984,2004,True,TX,Dallas
-364,Bruce Dallas Goodman,34,White,Murder,5 to Life,18,1986,2004,True,UT,Beaver
-365,Christopher Goodwin,20,Black,Murder,Life without parole,10,2013,2023,False,PA,Philadelphia
-366,Kendall Gordon,18,Black,Murder,Life without parole,11,2010,2021,True,LA,Orleans
-367,Arthur Grajeda,19,Hispanic,Murder,32 to life,4,1987,1991,False,CA,Los Angeles
-368,Senon Grajeda,31,Hispanic,Murder,45 to life,6,1987,1993,False,CA,Los Angeles
-369,Lydell Grant,33,Black,Murder,Life,9,2012,2021,True,TX,Harris
-370,Adam Gray,14,White,Murder,Life without parole,21,1996,2017,False,IL,Cook
-371,Anthony Gray,23,Black,Murder,Life,8,1991,1999,True,MD,Calvert
-372,Kevin Lee Green,20,White,Murder,15 to Life,16,1980,1996,True,CA,Orange
-373,Willie Earl Green,31,Black,Murder,33 to Life,24,1984,2008,False,CA,Los Angeles
-374,Cy Greene,19,Black,Murder,15 to life,21,1985,2006,True,NY,Kings
-375,Rashawn Greer,21,Black,Murder,Life,3,1998,2001,False,OK,Tulsa
-376,John Grega,32,White,Murder,Life without parole,18,1995,2013,True,VT,Windham
-377,Jed Allen Gressman,22,White,Sexual Assault,5 to Life,3,1993,1996,True,UT,Juab
-378,Don Grimes,30,Black,Robbery,Life without parole,9,1987,1996,False,AL,Henry
-379,Willie Grimes,41,Black,Sexual Assault,Life,24,1988,2012,False,NC,Catawba
-380,Lavont Guillory,21,Black,Murder,Life,11,1994,2005,True,CA,Los Angeles
-381,Larry Gurley,20,Black,Murder,20 to life,22,1972,1994,False,NY,Kings
-382,Michael Haas,38,White,Child Sex Abuse,Life,28,1994,2022,False,VA,Powhatan
-383,Theodis Hagans,22,Black,Attempted Murder,Life,2,1999,2001,False,FL,Duval
-384,Kim Hairston,32,Black,Murder,Life,2,1993,1995,False,OH,Franklin
-385,Warren Hales,25,White,Murder,5 to Life,3,2004,2007,False,UT,Salt Lake
-386,James Haley,24,Black,Murder,Life without parole,36,1972,2008,False,MA,Suffolk
-387,Harold Hall,37,Black,Murder,Life,14,1990,2004,False,CA,Los Angeles
-388,Byron Halsey,24,Black,Murder,Life,19,1988,2007,True,NJ,Union
-389,Derrick Hamilton,25,Black,Murder,25 to life,23,1992,2015,False,NY,Kings
-390,Marlina Hamilton,33,Black,Murder,Life,9,2011,2020,False,GA,Dougherty
-391,Troy Jon Hancock,25,White,Sexual Assault,5 to Life,3,1993,1996,True,UT,Juab
-392,Michael Hanline,31,White,Murder,Life without parole,35,1980,2015,True,CA,Ventura
-393,Garr Keith Hardin,22,White,Murder,Life,23,1995,2018,True,KY,Meade
-394,Rosean Hargrave,17,Black,Murder,30 to life,26,1992,2018,False,NY,Kings
-395,Skylor Harmon,17,Black,Murder,Life,10,2011,2021,False,MD,Worcester
-396,Kevin Harrington,20,Black,Murder,Life without parole,17,2003,2020,False,MI,Wayne
-397,Terry Harrington,17,Black,Murder,Life,25,1978,2003,False,IA,Pottawattamie
-398,Calvin Harris,40,White,Murder,25 to life,9,2007,2016,False,NY,Tioga
-399,Jahmir Harris,23,Black,Murder,Life without parole,6,2015,2021,False,PA,Philadelphia
-400,Warren Harris,29,Black,Murder,50 to Life,13,1977,1990,False,IL,Cook
-401,Clarence Harrison,27,Black,Sexual Assault,Life,17,1987,2004,True,GA,DeKalb
-402,Keith Harward,26,White,Murder,Life,33,1983,2016,True,VA,Newport News City
-403,Michael Hash,15,White,Murder,Life without parole,11,2001,2012,False,VA,Culpeper
-404,Maurice Hastings,29,Black,Murder,Life without parole,34,1988,2022,True,CA,Los Angeles
-405,Andre Hatchett,24,Black,Murder,25 to life,24,1992,2016,False,NY,Kings
-406,Reginald Hayes,14,Black,Murder,Life without parole,14,1985,1999,False,NV,Clark
-407,Travis Hayes,17,Black,Murder,Life,9,1998,2007,True,LA,Jefferson
-408,Andre Haygood,24,Black,Murder,Life,9,2002,2011,False,TX,Bexar
-409,Robert A. Hays,33,White,Child Sex Abuse,Life,14,1993,2007,False,NV,Clark
-410,Chad Heins,18,White,Murder,Life,11,1996,2007,True,FL,Duval
-411,Dale Helmig,37,White,Murder,Life without parole,15,1996,2011,False,MO,Osage
-412,Darcus Henry,21,Black,Murder,Life,14,1999,2013,False,CT,New Haven
-413,Darrill Henry,28,Black,Murder,Life without parole,12,2011,2023,True,LA,Orleans
-414,Angel Hernandez,42,Hispanic,Murder,Life without parole,11,2010,2021,False,MA,Hampden
-415,Francisco Hernandez,26,Hispanic,Murder,48 to life,3,2002,2005,False,CA,Monterey
-416,Juan Herrera,21,Hispanic,Murder,80 to life,7,1999,2006,False,CA,Los Angeles
-417,Olmedo Hidalgo,24,Hispanic,Murder,25 to Life,13,1992,2005,False,NY,New York
-418,Raymond Highers,20,White,Murder,Life without parole,25,1988,2013,False,MI,Wayne
-419,Thomas Highers,21,White,Murder,Life without parole,25,1988,2013,False,MI,Wayne
-420,Harold Hill,16,Black,Murder,Life without parole,11,1994,2005,True,IL,Cook
-421,Michael Hill,18,Black,Murder,Life without parole,6,1996,2002,False,MA,Hampden
-422,Robert Hill,26,Black,Murder,18 to life,26,1988,2014,False,NY,Kings
-423,Johnny Hincapie,18,Hispanic,Murder,25 to life,26,1991,2017,False,NY,New York
-424,C'Quan Hinton,17,Black,Murder,Life without parole,13,2009,2022,False,MI,Genesee
-425,Letha Jean Hockersmith,31,White,Murder,Life,5,1994,1999,False,OK,Tulsa
-426,Jeffrey Holemon,23,White,Sexual Assault,Life,11,1988,1999,True,AL,Tuscaloosa
-427,Chester Hollman III,21,Black,Murder,Life without parole,26,1993,2019,False,PA,Philadelphia
-428,Daryl Holloway,24,Black,Sexual Assault,Life,23,1993,2016,True,WI,Milwaukee
-429,Edward Honaker,33,White,Sexual Assault,Life,9,1985,1994,True,VA,Nelson
-430,Kim Hoover-Moore,38,White,Murder,15 to life,18,2003,2021,False,OH,Franklin
-431,Tony Hopps,24,Black,Robbery,Life,31,1990,2021,False,FL,Hillsborough
-432,Jeffrey Scott Hornoff,26,White,Murder,Life,7,1996,2003,False,RI,Kent
-433,John Horton,17,Black,Murder,Life without parole,22,1995,2017,False,IL,Winnebago
-434,"David Housler, Jr.",19,White,Murder,Life without parole,17,1997,2014,False,TN,Montgomery
-435,Darrell Houston,23,Black,Murder,33 to Life,18,1992,2010,False,OH,Cuyahoga
-436,Bernard Howard,18,Black,Murder,Life without parole,25,1995,2020,False,MI,Wayne
-437,DeAndre Howard,20,Black,Murder,Life,10,2003,2013,False,CA,Los Angeles
-438,Kenji Howard,16,Black,Murder,35 to Life,24,1997,2021,False,CA,Los Angeles
-439,Donna Sue Hubbard,30,White,Child Sex Abuse,Life,10,1985,1995,False,CA,Kern
-440,Jermaine Hudson,20,Black,Robbery,Life,21,2000,2021,False,LA,Orleans
-441,Elicia Hughes,32,Black,Murder,Life,0,2007,2007,False,MS,Hinds
-442,Darryl Hunt,19,Black,Murder,Life,19,1985,2004,True,NC,Forsyth
-443,Cartier Hunter,22,Black,Murder,Life,6,2016,2022,False,CA,Alameda
-444,Darrell Hunter,22,Black,Murder,Life without parole,8,2000,2008,False,CA,Marin
-445,Davie Hurt,17,Black,Murder,Life,16,1998,2014,False,WV,Mercer
-446,Paul Hurt,25,White,Child Sex Abuse,Life,18,2001,2019,False,KY,Jefferson
-447,Devonia Inman,20,Black,Murder,Life,20,2001,2021,True,GA,Cook
-448,James Irons,18,Black,Murder,25 to Life,26,1996,2022,False,NY,Kings
-449,Khalil Islam,30,Black,Murder,Life,55,1966,2021,False,NY,New York
-450,"Ignacio Ixta, Jr.",20,Hispanic,Attempted Murder,35 to Life,11,2010,2021,False,CA,Ventura
-451,Charles Jackson,27,Black,Murder,30 to life,28,1991,2019,False,OH,Cuyahoga
-452,Joseph Jackson,24,Black,Murder,25 to life,21,1997,2018,False,NY,Nassau
-453,Raymond Jackson,38,Black,Sexual Assault,Life,28,1984,2012,True,TX,Dallas
-454,Richard Jackson,40,Black,Murder,Life without parole,2,1998,2000,False,PA,Delaware
-455,Eric Jackson-Knight,21,Black,Murder,25 to Life,14,1980,1994,False,NY,Kings
-456,Ronald Jacobsen,29,White,Sexual Assault,Life,31,1990,2021,True,GA,Newton
-457,Carlos Jaile,29,Hispanic,Child Sex Abuse,Life,32,1990,2022,True,TX,El Paso
-458,Henry James,20,Black,Sexual Assault,Life without parole,29,1982,2011,True,LA,Jefferson
-459,Thomas James,22,Black,Murder,25 to Life,31,1991,2022,False,FL,Miami-Dade
-460,Lesly Jean,22,Black,Sexual Assault,Life,9,1982,1991,True,NC,Onslow
-461,Jerry Lee Jenkins,25,White,Sexual Assault,Life,26,1987,2013,True,MD,Charles
-462,Shaun Jenkins,23,Black,Murder,Life without parole,16,2005,2021,False,MA,Suffolk
-463,Alvena Jennette,21,Black,Murder,18 to life,26,1988,2014,False,NY,Kings
-464,Raymond Jennings,25,White,Murder,40 to life,8,2009,2017,False,CA,Los Angeles
-465,Arturo Jimenez,18,Hispanic,Murder,30 to life,25,1995,2020,False,CA,Los Angeles
-466,Tina Jimerson,23,Black,Murder,Life,28,1992,2020,False,AR,Dallas
-467,Andrew Johnson,39,Black,Sexual Assault,Life,24,1989,2013,True,WY,Laramie
-468,Anthony Johnson,27,Black,Murder,Life,24,1986,2010,True,LA,Washington
-469,Antrone Johnson,17,Black,Child Sex Abuse,Life,13,1996,2009,False,TX,Dallas
-470,Charles Johnson,19,Black,Murder,Life without parole,19,1998,2017,False,IL,Cook
-471,Eugene Johnson,17,Black,Murder,18 to life,20,1996,2016,False,OH,Cuyahoga
-472,Gary Johnson,22,Black,Murder,50 to Life,22,1999,2021,False,NY,Queens
-473,Jerome Johnson,20,Black,Murder,Life,29,1989,2018,False,MD,Baltimore City
-474,Justly Johnson,24,Black,Murder,Life without parole,18,2000,2018,False,MI,Wayne
-475,Lamar Johnson,20,Black,Murder,Life,12,2005,2017,False,MD,Baltimore City
-476,Lamar Johnson,20,Black,Murder,Life without parole,28,1995,2023,False,MO,St. Louis City
-477,Larry Johnson,30,Black,Sexual Assault,Life,18,1984,2002,True,MO,St. Louis City
-478,Patrick Johnson,22,Black,Murder,15 to Life,10,1983,1993,False,NY,Kings
-479,Rickey Johnson,26,Black,Sexual Assault,Life without parole,25,1983,2008,True,LA,Sabine
-480,Terrell Johnson,18,Black,Murder,Life without parole,17,1995,2012,False,PA,Allegheny
-481,Timothy Johnson,22,Black,Murder,Life,29,1984,2013,False,GA,Houston
-482,Zavion Johnson,18,Black,Murder,25 to life,16,2002,2018,False,CA,Sacramento
-483,"Calvin  Johnson, Jr.",25,Black,Sexual Assault,Life,16,1983,1999,True,GA,Clayton
-484,Clifford Jones,26,Black,Murder,18 to life,35,1981,2016,True,NY,New York
-485,Darrell Jones,18,Black,Murder,Life without parole,33,1986,2019,False,MA,Plymouth
-486,David Allen Jones,32,Black,Murder,36 to Life,9,1995,2004,True,CA,Los Angeles
-487,DeShawn Jones,26,Black,Sexual Assault,6 to Life,4,2011,2015,False,CO,Denver
-488,Dewey Jones,30,White,Murder,Life,19,1995,2014,True,OH,Summit
-489,Elroy Lucky Jones,26,Black,Murder,Life without parole,8,2006,2014,False,MI,Wayne
-490,Joe C. Jones,23,Black,Sexual Assault,Life,6,1986,1992,True,KS,Shawnee
-491,Lavell Jones,19,Black,Murder,37 1/2 to Life,17,1999,2016,False,NY,Albany
-492,Lydia Diane Jones,40,Black,Drug Possession or Sale,Life without parole,6,2000,2006,False,AL,Jefferson
-493,Mark Jones,20,White,Murder,Life,26,1992,2018,False,GA,Chatham
-494,Melvin Jones,30,Black,Murder,Life without parole,6,1983,1989,False,IL,Cook
-495,Milton Jones,23,Black,Murder,Life,46,1976,2022,False,MA,Suffolk
-496,Robert Jones,19,Black,Sexual Assault,Life without parole,21,1996,2017,False,LA,Orleans
-497,Tyrone Jones,20,Black,Murder,Life,11,1999,2010,False,MD,Baltimore City
-498,Wilbert Jones,18,Black,Sexual Assault,Life,45,1973,2018,False,LA,East Baton Rouge
-499,Oliver Jovanovic,30,White,Sexual Assault,15 to Life,3,1998,2001,False,NY,New York
-500,"Bernell Juluke, Jr.",18,Black,Murder,Life without parole,26,1996,2022,False,LA,Orleans
-501,Barry Kamara,17,Black,Murder,Life,31,1992,2023,False,MA,Suffolk
-502,Paul Kamienski,35,White,Murder,Life,22,1988,2010,False,NJ,Ocean
-503,Entre Nax Karage,21,Asian,Murder,Life,8,1997,2005,True,TX,Dallas
-504,Lee Keifer,25,White,Child Sex Abuse,Life,4,1993,1997,False,OK,Tulsa
-505,Anthony Keko,62,White,Murder,Life,5,1993,1998,False,LA,Plaquemines
-506,Eric Kelley,28,Black,Murder,Life,22,1996,2018,True,NJ,Passaic
-507,Donald Kelly,26,White,Murder,Life,3,1990,1993,False,PA,Cambria
-508,Robert Kelly,40,White,Child Sex Abuse,Life,5,1992,1997,False,NC,Chowan
-509,Jaythan Kendrick,36,Black,Murder,25 to life,25,1995,2020,True,NY,Queens
-510,Edward Khalil,28,Black,Murder,Life,8,2012,2020,False,MI,Wayne
-511,Ricky Kidd,21,Black,Murder,Life without parole,22,1997,2019,False,MO,Jackson
-512,Gloria Killian,35,White,Murder,32 to Life,16,1986,2002,False,CA,Sacramento
-513,Martin Kimsey,45,White,Robbery,Life,5,1985,1990,False,TX,Dallas
-514,Jason Kindle,31,Black,Robbery,70 to Life,3,2000,2003,False,CA,Los Angeles
-515,Evin King,37,Black,Murder,15 to life,22,1995,2017,True,OH,Cuyahoga
-516,John Klene,18,White,Murder,Life without parole,23,1998,2021,False,CA,Los Angeles
-517,James Kluppelberg,18,White,Murder,Life,23,1989,2012,False,IL,Cook
-518,Isaac Knapper,17,Black,Murder,Life,12,1979,1991,False,LA,Orleans
-519,"Willie Knighten, Jr.",24,Black,Murder,18 to Life,25,1997,2022,False,OH,Lucas
-520,Andrew Krivak,17,White,Murder,25 to life,26,1997,2023,True,NY,Putnam
-521,David Kunze,44,White,Murder,Life without parole,4,1997,2001,False,WA,Clark
-522,Richard Kussmaul,21,White,Murder,Life without parole,25,1994,2019,True,TX,Mclennan
-523,Anthony Kyles,27,Black,Murder,Life without parole,25,1997,2022,False,MI,Oakland
-524,Beth LaBatte,24,White,Murder,Life,9,1997,2006,True,WI,Kewaunee
-525,Dwight LaBran,23,Black,Murder,Life,4,1997,2001,False,LA,Orleans
-526,Larry Lamb,36,Black,Murder,Life,20,1993,2013,False,NC,Duplin
-527,Vincent James Landano,36,White,Murder,Life,21,1977,1998,False,NJ,Hudson
-528,Herbert Landry,46,Black,Arson,5 to life,11,2006,2017,False,UT,Utah
-529,Milton Lantigua,19,Hispanic,Murder,20 to Life,3,1993,1996,False,NY,Bronx
-530,Frank LaPena,35,White,Murder,Life,44,1977,2021,False,NV,Clark
-531,Richard Lapointe,41,White,Murder,Life without parole,23,1992,2015,True,CT,Tolland
-532,Ronald Larkins,33,Black,Murder,Life without parole,20,1986,2006,False,OH,Cuyahoga
-533,Harleme Larry,14,Black,Murder,Life,6,2013,2019,False,FL,Pasco
-534,Daniel Larsen,30,White,Other Nonviolent Felony,28 to life,15,1999,2014,False,CA,Los Angeles
-535,Barry Laughman,24,White,Murder,Life,16,1988,2004,True,PA,Adams
-536,Carlos Marcos Lavernia,29,Hispanic,Sexual Assault,Life,15,1985,2000,True,TX,Travis
-537,Darrian Mark Lawrence,20,Black,Murder,Life,5,2000,2005,False,FL,Miami-Dade
-538,Shawn Lawrence ,37,Black,Murder,75 to life,3,2015,2018,False,NY,Suffolk
-539,Samuel Lawson,28,White,Murder,Life,9,2005,2014,False,OR,Douglas
-540,Steven Lazar,22,White,Murder,Life,13,2010,2023,False,PA,Philadelphia
-541,Joe Lea,24,Hispanic,Child Sex Abuse,16 to life,9,2000,2009,False,CA,Solano
-542,Raynella Dossett Leath,54,White,Murder,Life,7,2010,2017,False,TN,Knox
-543,Ah Lee,20,Asian,Murder,Life,16,1988,2004,False,PA,Philadelphia
-544,Han Tak Lee,54,Asian,Murder,Life without parole,25,1990,2015,False,PA,Monroe
-545,Ralph Lee,30,Black,Murder,Life,22,1996,2018,True,NJ,Passaic
-546,Virginia LeFever,37,White,Murder,Life,21,1990,2011,False,OH,Licking
-547,Anthony Legion,27,Black,Murder,Life without parole,19,2001,2020,False,MI,Wayne
-548,Anthony Lemons,19,Black,Murder,21 to life,19,1995,2014,False,OH,Cuyahoga
-549,David Lemus,22,Hispanic,Murder,25 to Life,15,1992,2007,False,NY,New York
-550,Jules Letemps,26,Black,Sexual Assault,Life,27,1989,2016,False,FL,Orange
-551,Terrance Lewis,17,Black,Murder,Life without parole,20,1999,2019,False,PA,Philadelphia
-552,Yun Hseng Liao,44,Asian,Attempted Murder,Life,13,2003,2016,False,CA,Los Angeles
-553,Frank Lind,44,White,Child Sex Abuse,30 to life,3,2002,2005,False,CA,Fresno
-554,Johnnie Lindsey,28,Black,Sexual Assault,Life,26,1983,2009,True,TX,Dallas
-555,Bruce Lisker,17,White,Murder,16 to Life,24,1985,2009,False,CA,Los Angeles
-556,Devon Little,26,Black,Murder,Life,2,2017,2019,False,MD,Baltimore City
-557,Charles Jason Lively,27,White,Murder,Life,14,2006,2020,False,WV,McDowell
-558,Christopher Livingston,19,Black,Murder,20 to Life,4,1987,1991,False,NY,Kings
-559,Eddie Joe Lloyd,34,Black,Murder,Life,17,1985,2002,True,MI,Wayne
-560,Alton Logan ,28,Black,Murder,Life,26,1982,2008,False,IL,Cook
-561,Roger Logan,35,Black,Murder,25 to life,15,1999,2014,False,NY,Kings
-562,Walter Lomax,20,Black,Murder,Life,46,1968,2014,False,MD,Baltimore City
-563,Kimberly Long,27,White,Murder,15 to life,16,2005,2021,True,CA,Riverside
-564,Ronnie Long,20,Black,Sexual Assault,Life,44,1976,2020,False,NC,Cabarrus
-565,William Lopez,30,Hispanic,Murder,25 to life,24,1990,2014,False,NY,Kings
-566,Dwight Love,22,Black,Murder,Life,19,1982,2001,False,MI,Wayne
-567,Debbie Loveless,31,White,Murder,Life,5,1989,1994,True,TX,Rains
-568,Eddie Lowery,22,White,Sexual Assault,11 to Life,21,1982,2003,True,KS,Riley
-569,Dominic Lucci,22,White,Murder,Life,26,1992,2018,False,GA,Chatham
-570,James Lucien,21,Black,Murder,Life without parole,26,1995,2021,False,MA,Suffolk
-571,Todd Lumpkins,27,Black,Murder,24 to life,2,1987,1989,False,NY,Kings
-572,Eric Lynn,25,Black,Murder,Life,13,1994,2007,False,MD,Montgomery
-573,Rafael Madrigal,25,Hispanic,Attempted Murder,53 to Life,7,2002,2009,False,CA,Los Angeles
-574,Paul Philip Magnan,46,White,Drug Possession or Sale,25 to Life,6,2000,2006,False,CA,Santa Clara
-575,Ronnie Mahan,26,White,Sexual Assault,Life without parole,12,1986,1998,True,AL,Jefferson
-576,Dennis Maher,22,White,Sexual Assault,Life,19,1984,2003,True,MA,Middlesex
-577,Orlando Maisonet,23,Hispanic,Murder,Life without parole,13,1992,2005,False,PA,Philadelphia
-578,Robert Majors,31,Black,Attempted Murder,90 1/2 to life,20,2000,2020,False,NY,Queens
-579,Thomas Malik,18,Black,Murder,25 to Life,26,1996,2022,False,NY,Kings
-580,Jay Cee Manning,28,White,Child Sex Abuse,Life,8,1990,1998,False,NV,Churchill
-581,Kenneth Marsh,28,White,Murder,15 to Life,21,1983,2004,False,CA,San Diego
-582,Ronnie Marshall,28,White,Murder,Life,6,1990,1996,False,TN,Sumner
-583,Kevin Martin,17,Black,Manslaughter,15 to Life,30,1984,2014,True,DC,
-584,Lawrence Martin,38,Don't Know,Weapon Possession or Sale,25 to Life,22,1998,2020,False,CA,Santa Clara
-585,Wayne Martin,35,Black,Murder,Life without parole,6,2010,2016,False,NY,Kings
-586,Angelo Martinez,19,Hispanic,Murder,25 to Life,16,1986,2002,False,NY,Queens
-587,Antonio Martinez,37,Hispanic,Murder,Life,30,1990,2020,False,PA,Philadelphia
-588,Rodrigo Martinez,22,Hispanic,Murder,25 to life,6,2008,2014,False,CA,Orange
-589,Raymond Martorano,53,White,Murder,Life without parole,15,1984,1999,False,PA,Philadelphia
-590,Anthony Massingill,18,Black,Robbery,Life,34,1980,2014,True,TX,Dallas
-591,Timothy Masters,15,White,Murder,Life,9,1999,2008,True,CO,Larimer
-592,Juan Matta Ballesteros,40,Hispanic,Kidnapping,Life without parole,28,1990,2018,False,F-CA,(Central)
-593,Mark Maxson,31,Black,Murder,Life without parole,22,1994,2016,True,IL,Cook
-594,Bobby Joe Maxwell,29,Black,Murder,Life without parole,34,1984,2018,False,CA,Los Angeles
-595,Jose Maysonet,22,Hispanic,Murder,Life without parole,22,1995,2017,False,IL,Cook
-596,Anthony Mazza,25,White,Murder,Life without parole,48,1973,2021,False,MA,Suffolk
-597,Corey McCall,22,Black,Murder,Life,16,2005,2021,False,MI,Berrien
-598,David McCallum,16,Black,Murder,25 to life,28,1986,2014,True,NY,Kings
-599,Anthony McClain,35,Black,Murder,18 to life,11,1995,2006,False,OH,Hamilton
-600,Charles McClaugherty,18,White,Murder,Life,7,2001,2008,False,NM,Bernalillo
-601,Robert McClendon,34,Black,Child Sex Abuse,15 to Life,17,1991,2008,True,OH,Franklin
-602,Claude McCollum,26,Black,Murder,Life,1,2006,2007,False,MI,Ingham
-603,Todd McCord,21,Black,Murder,25 to life,7,1987,1994,False,NY,Queens
-604,Sherman McCoy,20,Black,Murder,Life without parole,3,2016,2019,False,PA,Philadelphia
-605,Terence McCracken,18,White,Murder,Life,12,1983,1995,False,PA,Delaware
-606,Jack McCullough,18,White,Murder,Life,4,2012,2016,False,IL,Dekalb
-607,Emel McDowell,17,Black,Murder,22 to Life,31,1992,2023,False,NY,Kings
-608,"John ""Jack"" McDowell",54,White,Murder,30 to Life,5,2014,2019,False,NM,Sandoval
-609,Vidale McDowell,18,Black,Murder,Life,1,2003,2004,False,MI,Wayne
-610,Toney McEachern,34,Black,Child Sex Abuse,Life,5,1993,1998,False,NC,Robeson
-611,Arvin McGee,25,Black,Sexual Assault,Life,13,1989,2002,True,OK,Tulsa
-612,Curtis McGhee,17,Black,Murder,Life,33,1978,2011,False,IA,Pottawattamie
-613,Thomas McGowan,24,Black,Sexual Assault,Life,23,1985,2008,True,TX,Dallas
-614,Edward McInnis,27,Black,Sexual Assault,Life,27,1988,2015,True,NC,Scotland
-615,Lamonte McIntyre,17,Black,Murder,Life,23,1994,2017,False,KS,Wyandotte
-616,Dean McKee,16,White,Murder,Life,31,1988,2019,True,FL,Hillsborough
-617,Larry McKee,25,Black,Murder,24 to life,21,1997,2018,False,NY,Bronx
-618,Gerald McKenzie,24,Black,Attempted Murder,Life,20,1984,2004,False,MI,Wayne
-619,DeWayne McKinney,19,Black,Murder,Life,19,1981,2000,False,CA,Orange
-620,Clark Jerome McMillan,22,Black,Sexual Assault,Life,22,1980,2002,True,TN,Shelby
-621,Daniel McNair,35,Black,Murder,Life,14,1986,2000,False,SC,Lancaster
-622,Kenneth McPherson,20,Black,Murder,Life,24,1995,2019,False,MD,Baltimore City
-623,Alarico Joe Medina,25,Hispanic,Murder,Life,4,1991,1995,False,CO,Denver
-624,Susan Mellen,42,White,Murder,Life without parole,16,1998,2014,False,CA,Los Angeles
-625,Thomas Merrill,24,White,Murder,Life,4,1991,1995,False,CA,Orange
-626,Terrence Meyers,21,Black,Murder,Life without parole,17,1993,2010,False,LA,Jefferson
-627,Melvin Mikes,19,Black,Murder,25 to Life,7,1985,1992,False,CA,Los Angeles
-628,Marco Milla,19,Hispanic,Murder,Life without parole,13,2002,2015,False,CA,Los Angeles
-629,Billy Wayne Miller,31,Black,Sexual Assault,Life,22,1984,2006,True,TX,Dallas
-630,Gina Miller,25,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-631,Harry Miller,45,Black,Robbery,5 to Life,3,2004,2007,False,UT,Salt Lake
-632,John Miller,42,White,Murder,Life,5,1989,1994,True,TX,Rains
-633,John Miller,21,Black,Murder,Life without parole,21,1998,2019,False,PA,Philadelphia
-634,Maurice Ladon Miller,18,Black,Murder,Life,2,2005,2007,False,OK,Oklahoma
-635,"Jesse Miller, Jr.",17,Black,Murder,Life,5,2009,2014,False,FL,Palm Beach
-636,Adam Miranda,21,Hispanic,Murder,Life,26,1983,2009,False,CA,Los Angeles
-637,Keith Mitchell,18,Black,Murder,36 to life,21,1994,2015,False,DC,
-638,Ruben Montalvo,16,Hispanic,Murder,15 to Life,13,1988,2001,False,NY,Bronx
-639,LaDondrell  Montgomery ,34,Black,Robbery,Life,1,2010,2011,False,TX,Harris
-640,Lorenzo Montoya,14,Hispanic,Murder,Life without parole,14,2000,2014,True,CO,Denver
-641,John Mooney,19,White,Murder,Life,4,2010,2014,False,MD,Baltimore City
-642,Anthony Moore,32,Black,Murder,25 to Life,3,1996,1999,False,NY,New York
-643,Clarence Moore,36,Black,Sexual Assault,Life,19,1987,2006,False,NJ,Atlantic
-644,Curtis Moore,32,Black,Murder,Life,32,1978,2010,True,VA,Greensville
-645,Kenneth Moore,45,White,Murder,15 to Life,9,1995,2004,False,OH,Pike
-646,Salaam Moore,16,Black,Murder,Life without parole,15,2001,2016,False,OK,Oklahoma
-647,Walter Moore,37,White,Murder,Life,8,1988,1996,False,MI,Otsego
-648,Raymond Mora,25,Hispanic,Murder,25 to life,34,1981,2015,False,NY,Kings
-649,Jose Morales,17,Hispanic,Murder,15 to Life,13,1988,2001,False,NY,Bronx
-650,Santiago Ventura Morales,19,Hispanic,Murder,10 to Life,5,1986,1991,False,OR,Clackamas
-651,Nicholas Morfin,17,White,Murder,Life without parole,24,1997,2021,False,IL,Cook
-652,Jerome Morgan,17,Black,Murder,Life without parole,22,1994,2016,False,LA,Orleans
-653,Carlos Morillo,29,Hispanic,Murder,25 to life,18,1993,2011,False,NY,Bronx
-654,Michael Morton,32,White,Murder,Life,24,1987,2011,True,TX,Williamson
-655,Sundhe Moses,19,Black,Murder,24 1/3 to life,21,1997,2018,False,NY,Kings
-656,Freda Susie Mowbray,39,White,Murder,Life,10,1988,1998,False,TX,Cameron
-657,Stanley Mozee,39,Black,Murder,Life,19,2000,2019,True,TX,Dallas
-658,David Munchinski,25,White,Murder,Life,27,1986,2013,False,PA,Fayette
-659,Michelle Murphy,17,Native American,Murder,Life without parole,19,1995,2014,True,OK,Tulsa
-660,Hubert Myers,18,Black,Murder,Life,43,1976,2019,False,FL,Duval
-661,Francisco Nanez,21,Hispanic,Murder,Life without parole,32,1990,2022,False,IL,Cook
-662,Donald Nash,39,White,Murder,Life without parole,11,2009,2020,True,MO,Dent
-663,Lorenzo Nava,36,Hispanic,Drug Possession or Sale,54 to life,3,1997,2000,False,CA,Los Angeles
-664,William Negron,17,Hispanic,Murder,Life without parole,22,1995,2017,False,IL,Cook
-665,Bruce Nelson,24,Black,Murder,Life,9,1982,1991,True,PA,Allegheny
-666,Derrie Nelson,,Black,Murder,42 to Life,36,1986,2022,False,DC,
-667,Leroy Nelson,17,Black,Murder,Life without parole,26,1996,2022,False,LA,Orleans
-668,James Newsome,24,Black,Murder,Life,15,1980,1995,False,IL,Cook
-669,Matthew Ngov,20,Asian,Murder,57 to life,6,2013,2019,False,CA,Los Angeles
-670,Hoc Nguyen,,Asian,Murder,15 to Life,6,1987,1993,False,NY,New York
-671,Glen Nickerson,29,White,Murder,Life without parole,16,1987,2003,True,CA,Santa Clara
-672,Kenneth Nixon,19,Black,Murder,Life without parole,16,2005,2021,False,MI,Wayne
-673,Kelvin Nolen,26,Black,Murder,Life without parole,6,2016,2022,False,MI,Wayne
-674,John Nolley,22,Black,Murder,Life,20,1998,2018,True,TX,Tarrant
-675,Lorenzo Nunez,23,Hispanic,Murder,40 to Life,6,1995,2001,False,CA,Monterey
-676,William Oakes,30,White,Murder,25 to Life,7,1985,1992,False,NY,Jefferson
-677,Christopher Ochoa,22,Hispanic,Murder,Life,13,1989,2002,True,TX,Travis
-678,Frank O'Connell,25,White,Murder,25 to Life,27,1985,2012,False,CA,Los Angeles
-679,Steven Odiase,23,Black,Murder,25 to life,4,2013,2017,False,NY,Bronx
-680,Calvin Ollins,14,Black,Murder,Life without parole,13,1988,2001,True,IL,Cook
-681,Larry Ollins,16,Black,Murder,Life,13,1988,2001,True,IL,Cook
-682,Obina Onyiah,27,Black,Murder,Life without parole,8,2013,2021,False,PA,Philadelphia
-683,Anthony Ortiz,20,Hispanic,Murder,50 to life,18,1993,2011,False,NY,New York
-684,Armando Rodriguez Ortiz,15,Hispanic,Murder,Life,4,2003,2007,False,CA,Fresno
-685,Nelson Ortiz,18,Hispanic,Murder,Life,22,1994,2016,True,PR,Aguadilla
-686,Chaunte Ott,21,Black,Murder,Life,13,1996,2009,True,WI,Milwaukee
-687,Donald Outlaw,16,Black,Murder,Life without parole,16,2004,2020,False,PA,Philadelphia
-688,Hannah Overton,29,White,Murder,Life without parole,8,2007,2015,False,TX,Nueces
-689,James L. Owens,22,White,Murder,Life,20,1988,2008,True,MD,Baltimore City
-690,"Wayne Oxley, Jr.",39,White,Murder,25 to life,6,2006,2012,False,NY,St. Lawrence
-691,Christian Pacheco,18,Hispanic,Murder,25 to life,24,1996,2020,False,NY,Kings
-692,Charles Palmer,43,Black,Murder,Life without parole,16,2000,2016,True,IL,Macon
-693,"Dale Palmer, Sr.",37,White,Child Sex Abuse,Life,3,1994,1997,False,OH,Medina
-694,Michael Pardue,17,White,Murder,Life,24,1973,1997,False,AL,Baldwin
-695,Darrel Parker,24,White,Murder,Life,35,1956,1991,False,NE,Lancaster
-696,Matthew Parker,26,White,Child Sex Abuse,Life,18,1997,2015,False,OK,Tulsa
-697,Michael Parker,35,White,Child Sex Abuse,Life,20,1994,2014,False,NC,Henderson
-698,Deron Parks,41,Black,Child Sex Abuse,Life,9,2010,2019,False,WA,Clark
-699,Delmar Partin,37,White,Murder,Life,25,1994,2019,False,KY,Knox
-700,Marlon Passley,23,Black,Murder,Life,4,1996,2000,False,MA,Suffolk
-701,Deon Patrick,20,Black,Murder,Life without parole,19,1995,2014,False,IL,Cook
-702,Dontia Patterson,17,Black,Murder,Life without parole,9,2009,2018,False,PA,Philadelphia
-703,Laverne Pavlinac,57,White,Murder,10 to Life,4,1991,1995,False,OR,Multnomah
-704,Norberto Peets,26,Hispanic,Attempted Murder,30 to Life,24,1999,2023,True,NY,Bronx
-705,Jose Luis Pena,36,Hispanic,Drug Possession or Sale,Life,8,2003,2011,False,TX,Leon
-706,David Peralta,23,Hispanic,Murder,Life,12,2001,2013,False,GA,DeKalb
-707,Carlos Perez,25,Hispanic,Murder,25 to life,15,1997,2012,False,NY,Bronx
-708,Carlos Perez,25,Hispanic,Murder,25 to life,16,1997,2013,False,NY,Bronx
-709,George Perrot,17,White,Sexual Assault,Life,30,1987,2017,False,MA,Hampden
-710,Dennis Perry,23,White,Murder,Life without parole,18,2003,2021,True,GA,Camden
-711,Jamie Lee Peterson,21,White,Murder,Life without parole,16,1998,2014,True,MI,Kalkaska
-712,Larry Peterson,36,Black,Murder,Life,17,1989,2006,True,NJ,Burlington
-713,Ted Petrossi,40,White,Sexual Assault,5 to life,2,1996,1998,False,UT,Utah
-714,Antoine Pettiford,23,Black,Murder,Life,5,1995,2000,False,MD,Baltimore City
-715,L. Lynn Pettit,27,White,Murder,15 to life,2,1999,2001,False,OH,Vinton
-716,Randall Philen,50,White,Murder,Life,1,2011,2012,False,TX,Brown
-717,Richard Phillips,25,Black,Murder,Life without parole,46,1972,2018,False,MI,Wayne
-718,"Roland Phinney, Jr.",36,White,Murder,Life,18,1990,2008,False,MA,Middlesex
-719,Michael Piaskowski,43,White,Murder,Life,6,1995,2001,False,WI,Brown
-720,Juan Carlos Pichardo,23,Hispanic,Murder,20 to life,6,1994,2000,False,NY,New York
-721,Jonathan Scott Pierpoint,28,White,Child Sex Abuse,Life,18,1992,2010,False,NC,Madison
-722,Charles Pierre,36,Black,Murder,25 to life,12,2003,2015,False,NY,Monroe
-723,Johnny Pinchback,28,Black,Child Sex Abuse,Life,27,1984,2011,True,TX,Dallas
-724,Lisa Pineda,26,Hispanic,Murder,40 to life,4,2005,2009,False,CA,Los Angeles
-725,Marcella Pitts,29,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-726,Ricky Lynn Pitts,31,White,Child Sex Abuse,Life,6,1985,1991,False,CA,Kern
-727,Ronald Pondexter,22,Black,Murder,25 to life,4,1993,1997,False,NY,Kings
-728,"Gilbert  Poole, Jr.",23,White,Murder,Life without parole,32,1989,2021,True,MI,Oakland
-729,Joseph Pope,30,Black,Murder,Life,36,1986,2022,False,MA,Suffolk
-730,Allen Wayne Porter,18,Black,Sexual Assault,Life,19,1991,2010,False,TX,Harris
-731,Michael Porter,26,White,Sexual Assault,Life,14,1988,2002,False,FL,Pasco
-732,Clinton Potts,30,White,Murder,Life without parole,3,2009,2012,False,OK,Muskogee
-733,Benny Powell,26,Black,Murder,Life,17,1975,1992,False,CA,Los Angeles
-734,Elmer Pratt,21,Black,Murder,25 to Life,27,1972,1999,False,CA,Los Angeles
-735,Eric Proctor,18,White,Murder,Life,9,1986,1995,True,OR,Lane
-736,Jeremy Puckett,21,Black,Murder,Life without parole,18,2002,2020,False,CA,Sacramento
-737,Patrick Pursley,28,Black,Murder,Life without parole,25,1994,2019,False,IL,Winnebago
-738,John Purvis,42,White,Murder,Life,8,1985,1993,False,FL,Broward
-739,Ronnie Qualls,20,Black,Murder,Life,27,1993,2020,True,MA,Suffolk
-740,Ruddy Quezada,29,Hispanic,Murder,25 to life,22,1993,2015,False,NY,Kings
-741,"Sergio Radillo, Jr.",24,Hispanic,Attempted Murder,Life,10,1995,2005,False,FL,Miami-Dade
-742,Willie Rainge,20,Black,Murder,Life,18,1978,1996,True,IL,Cook
-743,Jesus Ramirez,48,Hispanic,Murder,Life,10,1998,2008,False,TX,Lamb
-744,David Ranta,35,White,Murder,37 1/2 to Life,22,1991,2013,False,NY,Kings
-745,Richard Raugust,31,White,Murder,Life,18,1998,2016,False,MT,Sanders
-746,Ellen Reasonover,24,Black,Murder,Life,16,1983,1999,False,MO,St. Louis
-747,Derrick Redd,35,Black,Murder,25 to life,7,2011,2018,False,NY,Queens
-748,Cornelius Reed,15,Black,Murder,Life,4,1993,1997,False,WI,Milwaukee
-749,Deshawn Reed ,26,Black,Murder,Life without parole,3,2014,2017,False,CA,Alameda
-750,Kuantau Reeder,20,Black,Murder,Life without parole,26,1995,2021,False,LA,Orleans
-751,Davey Reedy,32,White,Murder,Life,27,1988,2015,False,VA,Roanoke
-752,Marvin Reeves,29,Black,Murder,Life without parole,18,1991,2009,False,IL,Cook
-753,Kash Register,18,Black,Murder,Life without parole,34,1979,2013,False,CA,Los Angeles
-754,Anthony Reid,21,Black,Murder,Life,33,1990,2023,False,PA,Philadelphia
-755,Ronald Reno,32,White,Weapon Possession or Sale,25 to Life,5,1997,2002,False,CA,Fresno
-756,Pamela Sue Reser,29,White,Child Sex Abuse,Life,3,1999,2002,False,OR,Yamhill
-757,Randy Resh,24,White,Murder,20 to Life,17,1990,2007,False,OH,Portage
-758,George Revelle,36,White,Murder,Life without parole,2,1996,1998,False,MO,Christian
-759,William Richards,43,White,Murder,25 to life,19,1997,2016,True,CA,San Bernardino
-760,"James E. Richardson, Jr.",36,White,Murder,Life,10,1989,1999,True,WV,Kanawha
-761,"Harvill Richardson, Sr.",66,White,Murder,Life,6,2011,2017,False,MS,Harrison
-762,Jonathan Rivera,22,Hispanic,Murder,Life,1,2007,2008,False,PR,San Juan
-763,Juan Rivera ,19,Hispanic,Murder,Life,19,1993,2012,True,IL,Lake
-764,Neal Robbins,23,White,Murder,Life,17,1999,2016,False,TX,Montgomery
-765,Horace Roberts,40,Black,Murder,15 to life,19,1999,2018,True,CA,Riverside
-766,Jason Roberts,16,White,Murder,Life,10,1995,2005,False,SC,Laurens
-767,Larry Trent Roberts,35,Black,Murder,Life without parole,12,2007,2019,False,PA,Dauphin
-768,David Robinson,32,Black,Murder,Life without parole,17,2001,2018,False,MO,Scott
-769,Eric Robinson,23,Black,Murder,Life,13,1994,2007,True,CA,Los Angeles
-770,Mario Rocha,16,Hispanic,Murder,35 to Life,10,1998,2008,False,CA,Los Angeles
-771,Xavier Rockette,19,Black,Murder,Life,10,2003,2013,False,WI,Racine
-772,Felipe Rodriguez,22,Hispanic,Murder,25 to life,29,1990,2019,False,NY,Queens
-773,Jeffrey Rodriguez,24,Hispanic,Robbery,25 to Life,4,2003,2007,False,CA,Santa Clara
-774,Wildon Rodriguez,18,Hispanic,Murder,25 to Life,22,1999,2021,False,NY,Kings
-775,Christopher Roesser,25,White,Murder,Life,5,2008,2013,False,GA,Gwinnett
-776,Luis Kevin Rojas,18,Hispanic,Murder,15 to Life,6,1992,1998,False,NY,New York
-777,"Offord Rollins, IV",17,Black,Murder,29 to life,4,1992,1996,False,CA,Kern
-778,Richard Rosario,20,Hispanic,Murder,25 to life,18,1998,2016,False,NY,Bronx
-779,Victor Rosario,24,Hispanic,Murder,Life,34,1983,2017,False,MA,Middlesex
-780,Ronald Ross,44,Black,Attempted Murder,25 to life,7,2006,2013,False,CA,Alameda
-781,Lionel Rubalcava,23,Hispanic,Attempted Murder,31 to Life,16,2003,2019,False,CA,Santa Clara
-782,Donald Ruby,39,White,Murder,Life,6,1987,1993,True,PA,Perry
-783,Julius Ruffin,28,Black,Sexual Assault,Life,21,1982,2003,True,VA,Norfolk City
-784,Larry Ruffin,19,Black,Murder,Life,31,1980,2011,True,MS,Forrest
-785,Nelson Ruiz,20,Hispanic,Murder,Life,22,1994,2016,True,PR,Aguadilla
-786,Jack Sagin,39,White,Murder,Life without parole,33,1986,2019,True,CA,Monterey
-787,Ru-El Sailor,22,Black,Murder,25 to life,15,2003,2018,False,OH,Cuyahoga
-788,Daniel Saldana,22,Hispanic,Attempted Murder,45 to Life,33,1990,2023,False,CA,Los Angeles
-789,MarQuise Salley,22,Black,Murder,Life without parole,9,2010,2019,False,PA,Philadelphia
-790,Aaron Salter,20,Black,Murder,Life without parole,15,2003,2018,False,MI,Wayne
-791,Joseph Salvati,31,White,Murder,Life,33,1968,2001,False,MA,Suffolk
-792,Isauro Sanchez,20,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook
-793,Santos Sanchez,46,Hispanic,Murder,Life,25,1996,2021,False,WI,Milwaukee
-794,Derrick Sanders,21,Black,Murder,21 to life,25,1993,2018,False,WI,Milwaukee
-795,Martin Santillan,23,Hispanic,Murder,Life,25,1998,2023,True,TX,Dallas
-796,Louis Santos,20,Black,Murder,Life,5,1985,1990,False,MA,Suffolk
-797,Omar Saunders,18,Black,Murder,Life without parole,13,1988,2001,True,IL,Cook
-798,Mark Schand,21,Black,Murder,Life without parole,26,1987,2013,False,MA,Hampden
-799,Albert Ian Schweitzer,20,Other,Murder,Life,23,2000,2023,True,HI,Hawaii
-800,Christopher Shun Scott,27,Black,Murder,Life,12,1997,2009,False,TX,Dallas
-801,Kendrick Scott,20,Black,Murder,Life without parole,18,2000,2018,False,MI,Wayne
-802,Malcolm Scott,17,Black,Murder,Life,21,1995,2016,False,OK,Tulsa
-803,Michael Scott,17,White,Murder,Life,7,2002,2009,True,TX,Travis
-804,Samuel Scott,28,Black,Sexual Assault,Life,15,1987,2002,True,GA,Chatham
-805,Frank Sealie,23,Black,Murder,Life without parole,1,2014,2015,False,AL,Jefferson
-806,Thelonious Searcy,24,Black,Murder,Life without parole,17,2005,2022,False,MI,Wayne
-807,Ivan Serrano,17,Hispanic,Murder,Life,17,1988,2005,False,PA,Philadelphia
-808,Shabaka Shakur,23,Black,Murder,20 to life,26,1989,2015,False,NY,Kings
-809,Michael Shannon,41,Black,Murder,Life without parole,7,2011,2018,False,LA,Orleans
-810,Dontae Sharpe,18,Black,Murder,Life,24,1995,2019,False,NC,Pitt
-811,Paul Sheffield,47,White,Child Sex Abuse,5 to life,3,1987,1990,False,UT,Cache
-812,Charles Shepherd,24,Black,Murder,15 to Life,13,1988,2001,False,NY,Kings
-813,Clarence Shipley,20,Black,Murder,Life,26,1992,2018,False,MD,Baltimore City
-814,James Shortt,21,Black,Murder,Life without parole,28,1982,2010,False,CA,Los Angeles
-815,Kurtis DeAngelo Showers,28,Black,Robbery,Life,4,1994,1998,False,MI,Wayne
-816,Kevin Siehl,35,White,Murder,Life without parole,24,1992,2016,False,PA,Cambria
-817,Alberto Sifuentes,22,Hispanic,Murder,Life,10,1998,2008,False,TX,Lamb
-818,Darrell Siggers,20,Black,Murder,Life without parole,34,1984,2018,False,MI,Wayne
-819,Thomas Siller,41,White,Murder,30 to life,13,1998,2011,True,OH,Cuyahoga
-820,Jesus Silva-Santiago,28,Hispanic,Murder,Life without parole,4,2006,2010,False,MA,Plymouth
-821,Eric Simmons,24,Black,Murder,Life,24,1995,2019,False,MD,Baltimore City
-822,Lawrence Simmons,19,Black,Murder,Life,23,1977,2000,False,NJ,Passaic
-823,Tommy Simmons III,35,Black,Murder,Life,5,1998,2003,False,CA,Los Angeles
-824,"Claude Simmons, Jr.",42,Black,Murder,Life,12,1997,2009,False,TX,Dallas
-825,Michael Skakel,15,White,Murder,20 to Life,18,2002,2020,False,CT,Fairfield
-826,Parrish Slade,21,Black,Child Sex Abuse,Life,23,1989,2012,False,NC,Moore
-827,Willie Lee Slater,20,Black,Assault,Life,10,1999,2009,False,FL,Orange
-828,Joseph Sledge,34,Black,Murder,Life,37,1978,2015,True,NC,Bladen
-829,Johnny Small,15,White,Murder,Life,27,1989,2016,False,NC,New Hanover
-830,Billy James Smith,34,Black,Sexual Assault,Life,19,1987,2006,True,TX,Dallas
-831,Demetrius Smith,25,Black,Murder,Life,2,2010,2012,False,MD,Baltimore City
-832,Feronda Smith,30,Black,Murder,Life without parole,7,2011,2018,False,MI,Genesee
-833,John Edward Smith,18,Black,Murder,Life,18,1994,2012,False,CA,Los Angeles
-834,Jon Keith Smith,17,Black,Murder,Life,13,1987,2000,False,MO,Jackson
-835,Kaliegh Smith,31,Black,Murder,Life without parole,11,2010,2021,True,LA,Orleans
-836,Michael Smith,32,Black,Murder,Life without parole,15,1994,2009,False,CA,Los Angeles
-837,Robert Smith,38,Black,Murder,Life without parole,30,1990,2020,False,IL,Cook
-838,Sylvester Smith,32,Black,Child Sex Abuse,Life,20,1984,2004,False,NC,Brunswick
-839,Walter D. Smith,27,Black,Sexual Assault,78 to Life,10,1986,1996,True,OH,Franklin
-840,William Smith,24,White,Murder,Life,18,1978,1996,False,NM,Bernalillo
-841,"Frank Smith, Jr.",20,White,Drug Possession or Sale,15 to life,14,1989,2003,False,NY,Kings
-842,"Larry Smith, Jr.",18,Black,Murder,Life without parole,27,1994,2021,False,MI,Wayne
-843,Harold Grant Snowden,38,White,Child Sex Abuse,50 to Life,12,1986,1998,False,FL,Miami-Dade
-844,Cynthia Sommer,28,White,Murder,Life,1,2007,2008,False,CA,San Diego
-845,Ernest Sonnier,22,Black,Kidnapping,Life,32,1986,2018,True,TX,Harris
-846,Matthew Sopron,22,White,Murder,Life without parole,20,1998,2018,False,IL,Cook
-847,John Sosnovske,39,White,Murder,Life,4,1991,1995,False,OR,Multnomah
-848,Joseph Sousa,26,White,Murder,20 to Life,30,1975,2005,False,DC,
-849,India Spellman,17,Black,Murder,30 to Life,10,2013,2023,False,PA,Philadelphia
-850,Clyde Ray Spencer,37,White,Child Sex Abuse,Life,25,1985,2010,False,WA,Clark
-851,Keyon Sprinkle,17,Black,Murder,Life,18,2002,2020,False,MA,Suffolk
-852,Robert Spurlock,22,White,Murder,Life,6,1990,1996,False,TN,Sumner
-853,Patricia Stallings,24,White,Murder,Life,0,1991,1991,False,MO,Jefferson
-854,Fred Steese,28,White,Murder,Life without parole,22,1995,2017,False,NV,Clark
-855,Frank Sterling,25,White,Murder,25 to Life,18,1992,2010,True,NY,Monroe
-856,Emerson Stevens,32,White,Murder,Life,35,1986,2021,False,VA,Lancaster
-857,Dail Stewart,22,White,Murder,5 to life,8,1984,1992,False,UT,Salt Lake
-858,Edward Stewart,26,Black,Murder,Life,8,2007,2015,False,PA,Philadelphia
-859,Kia Stewart,17,Black,Murder,Life without parole,6,2009,2015,False,LA,Orleans
-860,Zackary Lee Stewart,18,White,Murder,Life without parole,2,2008,2010,True,MO,Greene
-861,"Andrew Stewart, Jr.",16,Black,Murder,Life,35,1984,2019,False,MD,Baltimore City
-862,Mario Stinchcomb,22,Black,Murder,Life without parole,17,2004,2021,False,GA,Fulton
-863,Robert Lee Stinson,20,Black,Murder,Life,24,1985,2009,True,WI,Milwaukee
-864,Willie Stokes,20,Black,Murder,Life without parole,38,1984,2022,False,PA,Philadelphia
-865,John Street,36,White,Murder,Life without parole,3,2006,2009,False,F-MO,(Western)
-866,Kevin Strickland,18,Black,Murder,Life,42,1979,2021,False,MO,Jackson
-867,Willie Stuckey,16,Black,Murder,25 to life,28,1986,2014,True,NY,Kings
-868,Larod Styles ,16,Black,Murder,Life without parole,19,1998,2017,False,IL,Cook
-869,Harold Sullivan,31,White,Murder,Life,4,1986,1990,False,MA,Bristol
-870,Michael Sullivan,25,White,Murder,Life without parole,32,1987,2019,True,MA,Middlesex
-871,Andrew Swainson,22,Black,Murder,Life without parole,31,1989,2020,False,PA,Philadelphia
-872,Christopher Swem,34,White,Murder,24 to Life,4,2018,2022,False,NY,Jefferson
-873,Johnny Tall Bear,34,Native American,Murder,Life without parole,26,1992,2018,True,OK,Oklahoma
-874,Terry Talley,23,Black,Sexual Assault,Life,40,1981,2021,True,GA,Troup
-875,Martin Tankleff,17,White,Murder,50 to Life,18,1990,2008,False,NY,Suffolk
-876,Hattie Tanner,35,Black,Murder,Life without parole,18,2000,2018,False,MI,Calhoun
-877,Christopher Tapp,20,White,Murder,Life,21,1998,2019,True,ID,Bonneville
-878,Andre Taylor,,Black,Attempted Murder,28 to life,8,1990,1998,False,CA,Los Angeles
-879,Andrew Taylor,25,Black,Child Sex Abuse,Life,25,1991,2016,False,FL,Miami-Dade
-880,Daniel Taylor,17,Black,Murder,Life without parole,18,1995,2013,False,IL,Cook
-881,Don Taylor,20,Black,Murder,22 1/2 to Life,15,1989,2004,False,NY,Bronx
-882,Edward Taylor,21,Black,Child Sex Abuse,Life,36,1986,2022,False,FL,Duval
-883,Gregory Taylor,28,White,Murder,Life,17,1993,2010,True,NC,Wake
-884,Rhian Taylor,21,Black,Murder,20 to life,7,2010,2017,False,NY,Queens
-885,John Tennison,17,Black,Murder,25 to Life,13,1990,2003,False,CA,San Francisco
-886,Paul Terry,17,Black,Murder,Life,26,1977,2003,True,IL,Cook
-887,Jerome Thagard,16,Black,Murder,25 to life,4,2010,2014,False,NY,Erie
-888,Adrian Thomas,26,Black,Murder,25 to life,5,2009,2014,False,NY,Rensselaer
-889,Cherice Thomas,18,Black,Murder,25 to Life,3,2009,2012,False,CA,Los Angeles
-890,Marvin Thomas,20,White,Murder,Life,6,1987,1993,False,WV,Wood
-891,Maverick Thomas,31,Black,Murder,Life,1,2005,2006,False,VA,Martinsville City
-892,Rickey Dale Thomas,25,Black,Robbery,Life,1,1992,1993,False,TX,Hopkins
-893,Shaurn Thomas,16,Black,Murder,Life without parole,23,1994,2017,False,PA,Philadelphia
-894,Sheldon Thomas,17,Black,Murder,25 to life,17,2006,2023,False,NY,Kings
-895,Teresa Thomas,29,Black,Murder,18 to life,4,1993,1997,False,OH,Athens
-896,Victor Larue Thomas,26,Black,Sexual Assault,Life,15,1986,2001,True,TX,Ellis
-897,"Clayton ""Mustafa"" Thomas, Jr.",23,Black,Murder,Life without parole,25,1994,2019,False,PA,Philadelphia
-898,Michael Thompson,32,White,Sexual Assault,5 to Life,6,2008,2014,False,UT,Salt Lake
-899,Dwayne Thorpe,25,Black,Murder,Life,10,2009,2019,False,PA,Philadelphia
-900,Derek Tice,27,White,Murder,Life without parole,11,2000,2011,False,VA,Norfolk City
-901,Michael Tillman,20,Black,Murder,Life,24,1986,2010,False,IL,Cook
-902,Glenn Tinney,26,White,Murder,15 to life,23,1992,2015,False,OH,Richland
-903,"George Toca, Jr.",17,Black,Murder,Life without parole,37,1985,2022,False,LA,Orleans
-904,John Tomaino,41,White,Murder,20 to life,3,1996,1999,False,NY,Niagara
-905,Charles Tomlin,26,Black,Murder,25 to life,15,1979,1994,False,CA,Kern
-906,Steven Toney,35,Black,Sexual Assault,Life,13,1983,1996,True,MO,St. Louis
-907,Angel Toro,30,White,Murder,Life,21,1983,2004,False,MA,Suffolk
-908,Alexander Torres,20,Hispanic,Murder,40 to Life,20,2001,2021,False,CA,Los Angeles
-909,Raymond Towler,24,Black,Child Sex Abuse,Life,29,1981,2010,True,OH,Cuyahoga
-910,Parrish Towns,20,Black,Murder,Life without parole,24,1983,2007,False,MI,Wayne
-911,Jerry Townsend,26,Black,Murder,Life,21,1980,2001,True,FL,Broward
-912,Santae Tribble,17,Black,Murder,20 to Life,32,1980,2012,True,DC,
-913,Eddie Triplett,38,Black,Drug Possession or Sale,Life without parole,13,1998,2011,False,LA,Orleans
-914,Jamal Trulove,25,Black,Murder,50 to life,5,2010,2015,False,CA,San Francisco
-915,Conrad Truman,30,White,Murder,16 to life,3,2014,2017,False,UT,Utah
-916,Earl Truvia,17,Black,Murder,Life,27,1976,2003,False,LA,Orleans
-917,Betty Tyson,24,Black,Murder,25 to Life,25,1973,1998,False,NY,Monroe
-918,Zachary Vanderhorst,19,Black,Sexual Assault,Life,47,1974,2021,False,CA,San Francisco
-919,Ignacio Varela,42,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook
-920,Joaquin Varela,22,Hispanic,Murder,Life without parole,9,1982,1991,False,IL,Cook
-921,Michael Vasquez,40,Hispanic,Robbery,20 to life,15,1997,2012,False,NY,New York
-922,William Vasquez,34,Black,Murder,25 to life,34,1981,2015,False,NY,Kings
-923,James Vaughan III,28,Black,Child Sex Abuse,Life without parole,1,2008,2009,False,OH,Cuyahoga
-924,Willie Veasy,26,Black,Murder,Life without parole,26,1993,2019,False,PA,Philadelphia
-925,Damaso Vega,37,Hispanic,Murder,Life,7,1982,1989,False,NJ,Monmouth
-926,Carl Veltmann,62,White,Arson,Life,4,1992,1996,False,F-FL,(Middle)
-927,Christopher Veltmann,35,White,Arson,Life,4,1992,1996,False,F-FL,(Middle)
-928,Amaury Villalobos,30,Hispanic,Murder,25 to life,34,1981,2015,False,NY,Kings
-929,Daniel Villegas,16,Hispanic,Murder,Life,23,1995,2018,False,TX,El Paso
-930,James Walker,30,Black,Murder,20 to Life,19,1971,1990,False,NY,Kings
-931,John  Walker,16,Black,Murder,17 to Life,44,1977,2021,False,NY,Erie
-932,Keith Walker,23,Black,Murder,Life without parole,26,1994,2020,False,IL,Cook
-933,Quedillis Ricardo Walker,34,Hispanic,Murder,26 to Life,12,1991,2003,True,CA,Santa Clara
-934,Patrick Waller,22,Black,Kidnapping,Life,16,1992,2008,True,TX,Dallas
-935,Terry Lee Wanzer,20,White,Sexual Assault,Life,18,1973,1991,False,GA,Clayton
-936,Bernard Ward,28,White,Murder,Life,5,1989,1994,False,MD,Anne Arundel
-937,Ramon Ward,18,Black,Murder,Life without parole,25,1995,2020,False,MI,Wayne
-938,Melonie Ware,30,Black,Murder,Life,4,2005,2009,False,GA,DeKalb
-939,Colin Warner,18,Black,Murder,15 to Life,19,1982,2001,False,NY,Kings
-940,Douglas Warney,34,White,Murder,25 to Life,9,1997,2006,True,NY,Monroe
-941,Kevin Warrior,23,Black,Murder,Life,3,2016,2019,False,OK,Tulsa
-942,Calvin E. Washington,30,Black,Murder,Life,14,1987,2001,True,TX,McLennan
-943,Darryl Washington,24,Black,Robbery,Life,16,1996,2012,False,TX,Dallas
-944,Gary Washington,25,Black,Murder,Life,32,1987,2019,False,MD,Baltimore City
-945,Jabbar Washington,21,Black,Murder,25 to Life,20,1997,2017,False,NY,Kings
-946,Sean Washington,23,Black,Murder,60 to life,24,1996,2020,False,NJ,Camden
-947,Terrance Washington,16,Black,Murder,Life without parole,4,1997,2001,False,FL,Leon
-948,Kenneth Waters,25,White,Murder,Life,18,1983,2001,True,MA,Middlesex
-949,Leo Waters,30,White,Sexual Assault,Life,21,1982,2003,True,NC,Onslow
-950,Cathy Watkins,27,Black,Murder,25 to life,15,1997,2012,False,NY,Bronx
-951,Joyce Watkins,39,Black,Murder,Life,34,1988,2022,False,TN,Davidson
-952,Ledura Watkins,19,Black,Murder,Life without parole,41,1976,2017,False,MI,Wayne
-953,Ransom Watkins,16,Black,Murder,Life,35,1984,2019,False,MD,Baltimore City
-954,James Watson,20,Black,Murder,Life without parole,39,1981,2020,True,MA,Suffolk
-955,Anthony Ways,19,Black,Murder,Life,14,1991,2005,False,NJ,Camden
-956,Jennifer Weathington,19,White,Murder,Life,6,2013,2019,False,GA,Paulding
-957,Mary Weaver,41,White,Murder,Life without parole,3,1994,1997,False,IA,Marshall
-958,Kenneth Webb,30,White,Murder,Life without parole,35,1987,2022,False,MI,Washtenaw
-959,Joseph Webster,19,Black,Murder,Life,14,2006,2020,True,TN,Davidson
-960,Carlos Weeks,20,Black,Murder,27 1/2 to Life,24,1995,2019,False,NY,Kings
-961,Fred Weichel,28,White,Murder,Life without parole,36,1981,2017,False,MA,Norfolk
-962,Keith West,19,Black,Murder,Life,24,1995,2019,False,KY,Jefferson
-963,William Westly,47,Black,Sexual Assault,20 to Life,3,1999,2002,False,NY,Bronx
-964,Derrick Wheatt,17,Black,Murder,18 to life,20,1996,2016,False,OH,Cuyahoga
-965,Jonathan Wheeler-Whichard,16,Black,Murder,25 to Life,12,1997,2009,False,NY,Kings
-966,Mark Whitaker,29,Black,Murder,Life without parole,16,2003,2019,False,PA,Philadelphia
-967,George White,36,White,Murder,Life,5,1987,1992,False,AL,Coffee
-968,John Jerome White,19,Black,Sexual Assault,Life,27,1980,2007,True,GA,Meriwether
-969,Joseph White,22,White,Murder,Life,19,1989,2008,True,NE,Gage
-970,Drew Whitley,32,Black,Murder,Life,17,1989,2006,True,PA,Allegheny
-971,Herbert Whitlock,39,White,Murder,Life,21,1987,2008,False,IL,Edgar
-972,Christopher Wickham,27,White,Sexual Assault,20 to life,22,1997,2019,False,UT,Salt Lake 
-973,David Lee Wiggins,24,White,Child Sex Abuse,Life,23,1989,2012,True,TX,Tarrant
-974,Danny Wilber,24,Native American,Murder,Life,17,2005,2022,False,WI,Milwaukee
-975,Jennifer Wilcox,20,White,Child Sex Abuse,Life,12,1985,1997,False,OH,Montgomery
-976,Charles Wilhite,25,Black,Murder,Life without parole,3,2010,2013,False,MA,Hampden
-977,Antonio Williams ,35,Black,Child Sex Abuse,Life,4,2007,2011,False,AL,Jefferson
-978,Archie Williams,22,Black,Attempted Murder,Life without parole,36,1983,2019,False,LA,East Baton Rouge
-979,Calvin Williams,,Black,Murder,Life,19,1977,1996,False,LA,Orleans
-980,Christopher Williams,29,Black,Murder,Life without parole,29,1992,2021,False,PA,Philadelphia
-981,Clarence Williams,25,Black,Murder,Life,18,2002,2020,False,MA,Suffolk
-982,Cordell Williams,19,Black,Murder,Life without parole,27,1995,2022,False,IL,Cook
-983,Danial Williams,25,White,Murder,Life without parole,17,1999,2016,False,VA,Norfolk City
-984,Derrick Raphel Williams,29,Black,Sexual Assault,Life,18,1993,2011,True,FL,Manatee
-985,Grant Williams,25,Black,Murder,Life,24,1997,2021,False,NY,Richmond
-986,Hayes Williams,19,Black,Murder,Life,29,1968,1997,False,LA,Orleans
-987,Herman Williams,29,White,Murder,Life without parole,28,1994,2022,True,IL,Lake
-988,James Williams,50,White,Murder,Life,7,1982,1989,False,GA,Chatham
-989,James Curtis Williams,25,Black,Sexual Assault,Life,28,1984,2012,True,TX,Dallas
-990,Jimmy Williams,20,Black,Child Sex Abuse,Life,10,1991,2001,False,OH,Summit
-991,Joe Sidney Williams,19,Black,Murder,Life,6,1987,1993,True,TX,McLennan
-992,Michael Williams,31,Black,Murder,Life,14,1997,2011,False,LA,Jefferson
-993,Michael Williams,39,Black,Weapon Possession or Sale,25 to life,4,1996,2000,False,CA,Los Angeles
-994,Michael Anthony Williams,16,Black,Sexual Assault,Life without parole,24,1981,2005,True,LA,Jackson
-995,Randolph Williams,22,Black,Murder,25 to life,8,2008,2016,False,NY,Kings
-996,Richard Williams,18,Black,Murder,Life without parole,17,1998,2015,False,CA,Sacramento
-997,Shawn Williams,19,Black,Murder,25 to life,24,1994,2018,False,NY,Kings
-998,Thomas Wayne Williams,38,Black,Drug Possession or Sale,Life,2,1998,2000,False,TX,Dallas
-999,Calvin Willis,21,Black,Child Sex Abuse,Life without parole,21,1982,2003,True,LA,Caddo
-1000,Cedric Willis,19,Black,Murder,Life,9,1997,2006,True,MS,Hinds
-1001,John Willis,42,Black,Sexual Assault,Life,6,1993,1999,True,IL,Cook
-1002,Patrick Willis,28,Black,Murder,Life without parole,8,2013,2021,False,CA,Alameda
-1003,Troy Willoughby,20,White,Murder,Life,2,2010,2012,False,WY,Sublette
-1004,Andrew Wilson,29,Black,Murder,Life without parole,31,1986,2017,False,CA,Los Angeles
-1005,Jackie Wilson,21,Black,Murder,Life without parole,37,1983,2020,False,IL,Cook
-1006,Johnny Lee Wilson,20,White,Murder,Life without parole,8,1987,1995,False,MO,Lawrence
-1007,Kathryn Dawn Wilson,22,White,Child Sex Abuse,Life,4,1993,1997,False,NC,Chowan
-1008,Sharrif Wilson,15,Black,Murder,9 to Life,20,1994,2014,True,NY,Kings
-1009,Theophalis Wilson,17,Black,Murder,Life without parole,27,1993,2020,False,PA,Philadelphia
-1010,Megan Winfrey,16,White,Murder,Life,5,2008,2013,False,TX,San Jacinto
-1011,Luke Wirkkala,32,White,Murder,Life,7,2014,2021,True,OR,Deschutes
-1012,David Wong,23,Asian,Murder,25 to Life,17,1987,2004,False,NY,Clinton
-1013,Glen Woodall,28,White,Sexual Assault,Life,5,1987,1992,True,WV,Cabell
-1014,James Lee Woodard,26,Black,Murder,Life,27,1981,2008,True,TX,Dallas
-1015,Cathy Woods,26,White,Murder,Life without parole,35,1980,2015,True,NV,Washoe
-1016,Michael Woolfolk,23,Black,Murder,Life without parole,17,2004,2021,False,GA,Fulton
-1017,Stanley Wrice,28,Black,Sexual Assault,Life,30,1983,2013,False,IL,Cook
-1018,Anthony Wright,20,Black,Murder,Life without parole,23,1993,2016,True,PA,Philadelphia
-1019,Cleveland Wright,20,Black,Murder,20 to Life,35,1979,2014,True,DC,
-1020,David Wright,17,Black,Murder,Life without parole,27,1996,2023,False,IL,Cook
-1021,"Isaac Wright, Jr.",28,Black,Drug Possession or Sale,Life,7,1991,1998,False,NJ,Somerset
-1022,John Wurdemann,29,Native American,Attempted Murder,Life,16,2002,2018,False,ID,Canyon
-1023,Anthony Yarbough,18,Black,Murder,75 to life,20,1994,2014,True,NY,Kings
-1024,Kenneth York,38,White,Sexual Assault,Life without parole,16,1994,2010,True,MO,Vernon
-1025,Paul Young,17,Black,Murder,Life without parole,34,1987,2021,False,MI,Wayne
-1026,"Dan Young, Jr.",30,Black,Murder,Life without parole,11,1994,2005,True,IL,Cook
-1027,Evan Zimmerman,53,White,Murder,Life,4,2001,2005,True,WI,Eau Claire
+#,Name,Age,Race,Crime,Sentence,Duration,Convicted,Exonerated,DNA,ST
+0,Joseph Abbitt,31,Black,Child Sex Abuse,Life,14,1995,2009,True,NC
+1,Warith Habib Abdal,43,Black,Sexual Assault,20 to Life,16,1983,1999,True,NY
+2,Christopher Abernathy,17,White,Murder,Life without parole,28,1987,2015,True,IL
+3,Quentin Abney,32,Black,Robbery,20 to Life,6,2006,2012,False,NY
+4,Don Ray Adams,32,Black,Murder,Life,19,1992,2011,False,PA
+5,Reginald Adams,26,Black,Murder,Life without parole,31,1983,2014,False,LA
+6,Sean Adams,21,Black,Murder,Life,14,1999,2013,False,CT
+7,Joel Alcox,22,White,Murder,26 to life,29,1987,2016,False,CA
+8,Robert Aldridge,24,White,Child Sex Abuse,Life,12,1985,1997,False,OH
+9,John Randall Alexander,22,White,Murder,Life,21,1989,2010,False,MS
+10,Malcolm Alexander,19,Black,Sexual Assault,Life without parole,38,1980,2018,True,LA
+11,Dennis Allen,36,Black,Murder,Life,19,2000,2019,True,TX
+12,Donovan Allen,18,White,Murder,Life without parole,13,2002,2015,True,WA
+13,James Allen,34,Black,Murder,Life without parole,34,1987,2021,False,IL
+14,Joseph Allen,39,Black,Child Sex Abuse,Life,28,1994,2022,False,OH
+15,Arthur Almendarez,19,Hispanic,Murder,Life without parole,32,1990,2022,False,IL
+16,Roberto Almodovar,19,Hispanic,Murder,Life without parole,22,1995,2017,False,IL
+17,Quintin Alonzo,21,Hispanic,Murder,Life,16,2003,2019,False,TX
+18,Ramon Alvarez,23,Hispanic,Murder,25 to life,10,2012,2022,False,CA
+19,Peter Ambler,24,White,Murder,Life,2,1987,1989,False,WI
+20,Michael Amick,32,White,Murder,Life,5,2011,2016,False,MO
+21,Marvin Anderson,18,Black,Sexual Assault,Life,20,1982,2002,True,VA
+22,Eddie Andre,41,Black,Murder,25 to Life,6,1988,1994,False,NY
+23,Isaiah Andrews,36,Black,Murder,Life,46,1975,2021,False,OH
+24,James Andrews,21,Black,Murder,Life,23,1985,2008,False,IL
+25,Alexandre Ansari,28,Black,Murder,Life without parole,6,2013,2019,False,MI
+26,Obie Anthony,19,Black,Murder,Life without parole,16,1995,2011,False,CA
+27,Wayne Antusas,17,White,Murder,Life without parole,23,1998,2021,False,IL
+28,Ezequiel Apolo-Albino,55,Hispanic,Child Sex Abuse,6 3/4 to Life,7,2009,2016,False,WA
+29,Victor Arciliares,21,Hispanic,Murder,Life,3,2013,2016,False,RI
+30,LaMonte Armstrong,38,Black,Murder,Life,18,1995,2013,True,NC
+31,Ralph Armstrong,27,White,Murder,Life,28,1981,2009,True,WI
+32,Bladimil Arroyo,21,Hispanic,Murder,20 to Life,17,2002,2019,False,NY
+33,Rogelio Arroyo,25,Hispanic,Murder,Life without parole,9,1982,1991,False,IL
+34,Corey Atchison,19,Black,Murder,Life,30,1991,2021,False,OK
+35,Dennis Atkins,21,Black,Murder,Life,16,2006,2022,False,MI
+36,Timothy Atkins,17,Black,Murder,32 to Life,20,1987,2007,False,CA
+37,Gerald Atlas,25,Black,Attempted Murder,28 to life,8,1990,1998,False,CA
+38,Darryl Austin,22,Black,Murder,18 to life,26,1988,2014,False,NY
+39,Michael Austin,25,Black,Murder,Life,27,1975,2002,False,MD
+40,David Ayers,42,Black,Murder,Life without parole,11,2000,2011,True,OH
+41,Devon Ayers,18,Black,Murder,25 to life,15,1997,2012,False,NY
+42,Devon Ayers,18,Black,Murder,25 to life,16,1997,2013,False,NY
+43,Muhammad Aziz,26,Black,Murder,Life,55,1966,2021,False,NY
+44,Darryl Bailey,17,Black,Murder,Life,6,1994,2000,False,TN
+45,James Bain,19,Black,Child Sex Abuse,Life,35,1974,2009,True,FL
+46,Edward Baker,17,Black,Murder,Life,28,1974,2002,False,PA
+47,Jimmy Lee Baker,22,White,Assault,Life,1,2009,2010,False,OK
+48,Kevin Baker,23,Black,Murder,60 to life,24,1996,2020,False,NJ
+49,Jarvis Ballard,18,Black,Sexual Assault,Life without parole,22,1999,2021,True,LA
+50,Antoine Bankhead,18,Black,Murder,Life,4,2002,2006,False,MO
+51,Bernard Baran,18,White,Child Sex Abuse,Life,24,1985,2009,False,MA
+52,Joshua Bargery,20,White,Murder,Life without parole,7,2015,2022,False,TN
+53,Lamar Barnes,20,Black,Murder,Life,19,2003,2022,False,VA
+54,Steven Barnes,19,White,Murder,25 to Life,20,1989,2009,True,NY
+55,"Donald Barnes, Jr.",32,White,Child Sex Abuse,Life without parole,3,2011,2014,False,FL
+56,Scotty Bartek,24,White,Child Sex Abuse,Life,23,1991,2014,False,FL
+57,Kevin Baruxes,18,White,Sexual Assault,18 to Life,7,1996,2003,False,CA
+58,Luis Batista,32,Hispanic,Robbery,25 to life,24,1994,2018,False,NY
+59,Floyd Batten,20,Black,Murder,20 to life,20,1984,2004,False,NY
+60,Juan Bautista,19,Hispanic,Attempted Murder,40 to Life,10,2011,2021,False,CA
+61,Jacob Beard,34,White,Murder,Life without parole,7,1993,2000,False,WV
+62,Dale Beckett,33,Black,Murder,15 to Life,6,1997,2003,False,OH
+63,George Bell,19,Black,Murder,Life without parole,22,1999,2021,False,NY
+64,Kareem Bellamy,26,Black,Murder,25 to Life,16,1995,2011,False,NY
+65,Ricardo Benitez,54,Hispanic,Robbery,22 to life,5,2010,2015,False,NY
+66,Gary Bennett,36,White,Murder,Life without parole,18,2002,2020,True,SC
+67,Hassan Bennett,23,Black,Murder,Life without parole,11,2008,2019,False,PA
+68,Cheryl Beridon,23,Black,Drug Possession or Sale,Life,24,1979,2003,False,LA
+69,Fernando Bermudez,21,Hispanic,Murder,23 to Life,17,1992,2009,False,NY
+70,DeMarlo Berry,18,Black,Murder,Life,22,1995,2017,False,NV
+71,Gregory Berry,20,White,Murder,Life without parole,16,2004,2020,False,MI
+72,Johnny Berry,16,Black,Murder,Life without parole,24,1995,2019,False,PA
+73,Thomas Bianco,19,White,Murder,25 to Life,7,1986,1993,False,NY
+74,Gene Bibbins,29,Black,Child Sex Abuse,Life,16,1987,2003,True,LA
+75,Dhoruba bin Wahad,26,Black,Attempted Murder,25 to Life,22,1973,1995,False,NY
+76,Phillip Bivens,28,Black,Murder,Life,30,1980,2010,True,MS
+77,James Blackmon,26,Black,Murder,Life,31,1988,2019,False,NC
+78,Bryan Blake,22,White,Murder,25 to life,4,1985,1989,False,NY
+79,Jeffrey Blake,21,Black,Murder,36 to Life,7,1991,1998,False,NY
+80,Floyd Bledsoe,23,White,Murder,Life,15,2000,2015,True,KS
+81,Eddie Bolden,24,Black,Murder,Life without parole,20,1996,2016,False,IL
+82,Rohan Bolt,35,Black,Murder,50 to Life,21,2000,2021,False,NY
+83,Samuel Bonner,20,Black,Murder,Life without parole,36,1983,2019,False,CA
+84,Darrell Booth,28,Black,Murder,15 to Life,6,2011,2017,False,CA
+85,Christopher Boots,19,White,Murder,20 to Life,8,1987,1995,True,OR
+86,James Bowman,18,Black,Murder,Life,15,1986,2001,False,MO
+87,Kevin Bowman,23,Black,Murder,Life,33,1990,2023,False,PA
+88,David Boyce,19,White,Murder,Life,22,1991,2013,True,VA
+89,Darryl Boyd,16,Black,Murder,20 to Life,44,1977,2021,False,NY
+90,"Kenneth Wayne Boyd, Jr.",22,Black,Murder,Life,14,1999,2013,False,TX
+91,Dewey Bozella,16,Black,Murder,20 to Life,26,1983,2009,False,NY
+92,Rodney L. Bragg,31,Black,Drug Possession or Sale,Life,4,1996,2000,False,AR
+93,Adam Braseel,22,White,Murder,Life,14,2007,2021,False,TN
+94,Timothy Bridges,22,White,Sexual Assault,Life,25,1991,2016,True,NC
+95,Gregory Bright,20,Black,Murder,Life,27,1976,2003,False,LA
+96,Jack Ray Broam,29,White,Child Sex Abuse,Life,8,1990,1998,False,NV
+97,Jerry Brock,35,Black,Child Sex Abuse,Life,19,1995,2014,False,WA
+98,Elvis Brooks,19,Black,Murder,Life without parole,45,1977,2022,False,LA
+99,Levon Brooks,26,Black,Murder,Life without parole,16,1992,2008,True,MS
+100,Albert Brown,32,Black,Murder,Life without parole,35,1987,2022,False,MA
+101,Arthur Brown,37,Black,Murder,Life without parole,27,1990,2017,False,IL
+102,Danny Brown,24,Black,Murder,Life,19,1982,2001,True,OH
+103,Debra Brown,35,White,Murder,Life,18,1995,2013,False,UT
+104,Dennis Brown,16,Black,Sexual Assault,Life,20,1985,2005,True,LA
+105,Jacquez Brown,15,Black,Murder,50 to Life,9,2013,2022,False,PA
+106,Joyce Ann Brown,33,Black,Murder,25 to Life,10,1980,1990,False,TX
+107,LeeVester Brown,33,Black,Murder,Life without parole,12,2006,2018,False,MS
+108,Patrick Brown,20,Black,Child Sex Abuse,Life without parole,29,1994,2023,False,LA
+109,Roy Brown,29,White,Murder,25 to Life,15,1992,2007,True,NY
+110,Timothy Brown,14,Black,Murder,Life,10,1993,2003,False,FL
+111,Tony Brown,33,Black,Murder,Life,8,2010,2018,False,FL
+112,"John Brown, Jr.",21,Black,Murder,Life,28,1992,2020,False,AR
+113,Samuel Brownridge,18,Black,Murder,25 to life,25,1995,2020,False,NY
+114,Carl Bruner II,29,Black,Murder,Life without parole,6,2014,2020,False,MI
+115,Sheila Bryan,43,White,Murder,Life,2,1998,2000,False,GA
+116,David Bryant,18,Black,Murder,25 to Life,43,1976,2019,False,NY
+117,Malcolm Bryant,24,Black,Murder,Life,17,1999,2016,True,MD
+118,Calvin Buari,20,Black,Murder,50 to life,23,1995,2018,False,NY
+119,Richard Buchli II,50,White,Murder,Life without parole,10,2002,2012,False,MO
+120,Gyronne Buckley,44,Black,Drug Possession or Sale,Life,11,1999,2010,False,AR
+121,David Bueso,19,Hispanic,Murder,Life without parole,2,2019,2021,False,LA
+122,Michael Bumbury,23,Black,Sexual Assault,12 to Life,3,1999,2002,False,NY
+123,John Bunn,14,Black,Murder,7 to life,26,1992,2018,False,NY
+124,Gerald Burge,29,White,Murder,Life without parole,6,1986,1992,False,LA
+125,Sabein Burgess,24,Black,Murder,Life,19,1995,2014,False,MD
+126,Richard Burkhart,22,White,Murder,Life,15,2002,2017,False,MT
+127,Troy Burner ,17,Black,Murder,30 to life,26,1994,2020,False,DC
+128,Brandon Burnside,27,Black,Murder,Life,4,2011,2015,True,WI
+129,Lazaro Burt,20,Black,Murder,25 to Life,8,1994,2002,False,NY
+130,Danny Burton,19,Black,Murder,Life without parole,32,1987,2019,False,MI
+131,Darryl Burton,22,Black,Murder,Life,23,1985,2008,False,MO
+132,Huwe Burton,16,Black,Murder,15 to Life,28,1991,2019,False,NY
+133,Keith Bush,17,Black,Murder,20 to Life,43,1976,2019,True,NY
+134,Dennis Butler,19,Black,Murder,20 to life,49,1971,2020,False,DC
+135,Robert Butler,34,Black,Sexual Assault,Life,18,1977,1995,False,TN
+136,"A.B. Butler, Jr.",28,Black,Sexual Assault,Life,17,1983,2000,True,TX
+137,Kevin Byrd,23,Black,Sexual Assault,Life,12,1985,1997,True,TX
+138,Donovan Cadogan,29,White,Other Nonviolent Felony,Life without parole,4,2013,2017,False,WI
+139,Eric Caine,19,Black,Murder,Life,22,1989,2011,False,IL
+140,Maurice Caldwell,23,Black,Murder,27 to Life,20,1991,2011,False,CA
+141,Lawrence Callanan,19,White,Murder,Life without parole,24,1996,2020,False,MO
+142,David Camm,36,White,Murder,Life,11,2002,2013,True,IN
+143,Lamont Campbell,17,Black,Murder,Life,7,2016,2023,False,MO
+144,Philip Scott Cannon,32,White,Murder,Life without parole,9,2000,2009,False,OR
+145,Mark Canter,22,White,Accessory to Murder,Life,8,1988,1996,False,MI
+146,Shamel Capers,15,Black,Murder,15 to Life,5,2017,2022,False,NY
+147,Anthony Caravella,15,White,Murder,Life,26,1984,2010,True,FL
+148,Keith Carnes,33,Black,Murder,Life without parole,17,2005,2022,False,MO
+149,Daniel Carnevale,29,White,Murder,Life without parole,13,2007,2020,False,PA
+150,Jose Caro,27,Hispanic,Murder,Life,22,1994,2016,True,PR
+151,De'Marchoe Carpenter,17,Black,Murder,Life,21,1995,2016,False,OK
+152,Weldon Wayne Carr,57,White,Murder,Life,10,1994,2004,False,GA
+153,Franky Carrillo,16,Hispanic,Murder,Life,19,1992,2011,False,CA
+154,Edward Carter,19,Black,Sexual Assault,Life,35,1975,2010,False,MI
+155,Joseph Carter,,Black,Murder,Life,31,1990,2021,False,VA
+156,Raymond Carter,40,Black,Murder,Life,8,1988,1996,False,PA
+157,Mark Carver,39,White,Murder,Life,11,2011,2022,True,NC
+158,Elgerie Cash,45,White,Murder,Life,6,2013,2019,False,GA
+159,Juan Celestino,41,Hispanic,Child Sex Abuse,Life,4,1991,1995,False,OH
+160,Raymond Champagne,23,White,Murder,Life without parole,41,1979,2020,False,MA
+161,Clarence Chance,23,Black,Murder,Life,17,1975,1992,False,CA
+162,Steven Chaney,31,White,Murder,Life,32,1987,2019,True,TX
+163,Anthony Chaparro,48,Hispanic,Sexual Assault,Life,11,2003,2014,True,NJ
+164,Justin Chapman,27,White,Murder,Life,9,2007,2016,False,GA
+165,Vernon Chapman,23,Black,Sexual Assault,Life,14,1980,1994,False,LA
+166,Clyde Charles,26,Black,Sexual Assault,Life,17,1982,1999,True,LA
+167,Louis Charriez,33,Hispanic,Murder,25 to Life,26,1997,2023,False,NY
+168,Charles Chatman,20,Black,Sexual Assault,Life,27,1981,2008,True,TX
+169,Alfred Chestnut,16,Black,Murder,Life,35,1984,2019,False,MD
+170,Frances Choy,17,Asian,Murder,Life without parole,9,2011,2020,False,MA
+171,Kino Christian,29,Black,Murder,Life without parole,13,2009,2022,False,MI
+172,Tom Edwin Chumley,52,White,Murder,Life,4,2005,2009,False,GA
+173,Prakash Churaman,15,Black,Murder,9 to life,4,2018,2022,False,NY
+174,Gary Cifizzari ,23,White,Murder,Life without parole,35,1984,2019,True,MA
+175,Joaquin Ciria,29,Black,Murder,31 to life,31,1991,2022,False,CA
+176,Michael Clancy,22,Hispanic,Murder,25 to Life,10,1999,2009,False,NY
+177,Alphonso Clark,23,Black,Murder,Life without parole,18,2005,2023,False,MI
+178,Carey Clark,37,White,Murder,Life,2,1996,1998,False,NC
+179,Darrell Clark,17,White,Murder,Life,24,1998,2022,False,GA
+180,George Clark,31,Black,Murder,Life without parole,17,2003,2020,False,MI
+181,Jeffrey Clark,21,White,Murder,Life,23,1995,2018,True,KY
+182,Robert Clark,20,Black,Sexual Assault,Life,23,1982,2005,True,GA
+183,Frederick Clay,16,Black,Murder,Life without parole,36,1981,2017,True,MA
+184,"David Clay, Sr.",37,Black,Murder,Life without parole,11,1988,1999,False,MO
+185,Christopher Clugston,21,White,Murder,Life,18,1983,2001,False,FL
+186,Allen Coco,26,Black,Sexual Assault,Life,9,1997,2006,True,LA
+187,Reggie Cole,18,Black,Murder,Life,14,1995,2009,False,CA
+188,Nevest Coleman,25,Black,Murder,Life without parole,20,1997,2017,True,IL
+189,Craig Coley,31,White,Murder,Life without parole,37,1980,2017,True,CA
+190,Rosalynd Collier-Hammond,27,Black,Child Sex Abuse,Life,18,1999,2017,False,OH
+191,Jabbar Collins,20,Black,Murder,34 to Life,15,1995,2010,False,NY
+192,Danny Colon,26,Hispanic,Murder,50 to life,18,1993,2011,False,NY
+193,Robert Carroll Coney,33,Black,Robbery,Life,38,1966,2004,False,TX
+194,Caramad Conley,18,Black,Murder,Life without parole,17,1994,2011,False,CA
+195,Matthew Connor,41,Black,Murder,Life,10,1980,1990,False,PA
+196,Marco Contreras,20,Hispanic,Attempted Murder,Life,20,1997,2017,False,CA
+197,Olin Coones,50,White,Murder,50 to life,11,2009,2020,False,KS
+198,Emmanuelle Cooper,25,Black,Murder,25 to life,27,1993,2020,False,NY
+199,Damon Corner,23,Black,Murder,Life,10,2002,2012,False,FL
+200,George Cortez,30,Black,Murder,Life without parole,4,2012,2016,False,PA
+201,Michael Cosme,19,Black,Murder,25 to life,15,1997,2012,False,NY
+202,Michael Cosme,19,Black,Murder,25 to life,16,1997,2013,False,NY
+203,Marvin Cotton,21,Black,Murder,Life without parole,19,2001,2020,False,MI
+204,Ronald Cotton,22,Black,Sexual Assault,Life,10,1985,1995,True,NC
+205,Troy Coulston,20,Black,Murder,Life without parole,29,1992,2021,False,PA
+206,Uriah Courtney,25,White,Sexual Assault,Life,7,2006,2013,True,CA
+207,Jeffrey Cox,22,White,Murder,Life,10,1991,2001,False,VA
+208,Leonard Craine,37,Black,Child Sex Abuse,Life,12,1990,2002,False,NV
+209,Steven Crawford,14,Black,Murder,Life,28,1974,2002,False,PA
+210,Cory Credell,27,Black,Murder,Life,11,2001,2012,False,SC
+211,Roy Criner,21,White,Sexual Assault,Life,10,1990,2000,True,TX
+212,Timothy Crosby,27,Black,Assault,10 to Life,10,1989,1999,False,NY
+213,Curtis Crosland,23,Black,Murder,Life without parole,33,1988,2021,False,PA
+214,Alan Crotzer,19,Black,Sexual Assault,Life,24,1982,2006,True,FL
+215,Norma Jean Croy,24,Native American,Murder,Life,18,1979,1997,False,CA
+216,Efren Cruz,22,Hispanic,Murder,41 to Life,4,1997,2001,False,CA
+217,Leonard Cure,33,Black,Robbery,Life,16,2004,2020,False,FL
+218,Catina Curley,32,Black,Murder,Life,12,2007,2019,False,LA
+219,Albert Daidone,38,White,Murder,Life without parole,15,1984,1999,False,PA
+220,Dwayne Allen Dail,17,White,Child Sex Abuse,Life,18,1989,2007,True,NC
+221,Michael Damien,27,White,Murder,20 to Life,30,1975,2005,False,DC
+222,Beniah Alton Dandridge,29,White,Murder,Life,19,1996,2015,False,AL
+223,Elmer Daniels,18,Black,Child Sex Abuse,Life,38,1980,2018,False,DE
+224,Richard Danziger,18,White,Sexual Assault,Life,12,1990,2002,True,TX
+225,Andre Davis,19,Black,Murder,Life,31,1981,2012,True,IL
+226,James Davis,21,Black,Murder,18 to life,15,2006,2021,False,NY
+227,Ricky Davis,20,White,Murder,16 to life,15,2005,2020,True,CA
+228,"Glenn Davis, Jr.",18,Black,Murder,Life without parole,17,1993,2010,False,LA
+229,Anthony Daye,30,Black,Drug Possession or Sale,Life,5,2012,2017,False,LA
+230,Frederick Renee Daye,25,Black,Sexual Assault,Life,10,1984,1994,True,CA
+231,Selwyn Days,32,Black,Murder,50 to life,13,2004,2017,True,NY
+232,Derrick Deacon,34,Black,Murder,25 to life,24,1989,2013,False,NY
+233,Angel M. DeAngelo,26,Hispanic,Murder,Life,1,2003,2004,False,
+234,Albert Debelbot,22,Other,Murder,Life,12,2009,2021,False,GA
+235,Ashley Debelbot,23,Black,Murder,Life,12,2009,2021,False,GA
+236,Eric DeBerry,23,Black,Robbery,25 to Life,20,2000,2020,False,NY
+237,Juwan Deering,29,Black,Murder,Life without parole,15,2006,2021,False,MI
+238,George DeJesus,18,Hispanic,Murder,Life,25,1997,2022,True,MI
+239,Melvin DeJesus,21,Hispanic,Murder,Life,25,1997,2022,True,MI
+240,Arturo DeLeon-Reyes,25,Hispanic,Murder,Life without parole,17,2000,2017,False,IL
+241,Larry Delmore,22,Black,Murder,Life without parole,17,1993,2010,False,LA
+242,Cedric Dent,22,Black,Murder,Life without parole,23,1999,2022,False,LA
+243,Jeffrey Deskovic,16,White,Murder,15 to Life,16,1990,2006,True,NY
+244,Robert Dewey,33,White,Murder,Life,16,1996,2012,True,CO
+245,Steven Dewitt,20,Black,Murder,15 to Life,14,1992,2006,False,DC
+246,Luis Diaz,40,Hispanic,Sexual Assault,Life,25,1980,2005,True,FL
+247,"Joseph Dick, Jr.",20,White,Murder,Life without parole,17,1999,2016,False,VA
+248,Grace Dill,50,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+249,"Wayne Dill, Jr.",26,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+250,William Dillon,21,White,Murder,Life,27,1981,2008,True,FL
+251,Douglas Dilosa,35,White,Murder,Life,16,1987,2003,False,LA
+252,Louis DiNicola,29,White,Murder,Life,14,1980,1994,False,PA
+253,Jack Dinning,38,White,Murder,Life,4,1993,1997,False,GA
+254,Anthony DiPippo,18,White,Murder,25 to life,19,1997,2016,True,NY
+255,Bobby Ray Dixon,22,Black,Murder,Life,30,1980,2010,True,MS
+256,Donald Dixon,18,Black,Murder,Life,16,1985,2001,False,MO
+257,Marvell Dixon,18,Black,Murder,20 to Life,24,1998,2022,False,OH
+258,Rafiq Dixon,29,Black,Murder,Life,10,2012,2022,False,PA
+259,Valentino Dixon,21,Black,Murder,38 1/3 to life,26,1992,2018,False,NY
+260,Alfredo Domenech,23,Hispanic,Murder,Life,17,1988,2005,False,PA
+261,Gerard Domond,24,Black,Murder,25 to life,31,1989,2020,False,NY
+262,Jane Dorotik,53,White,Murder,25 to life,21,2001,2022,True,CA
+263,Giovante Douglas,19,Black,Murder,26 years to life,6,2016,2022,False,CA
+264,Gayle Dove,41,White,Child Sex Abuse,Life,4,1986,1990,False,TX
+265,Gabriel Drennen,36,White,Murder,Life,2,2011,2013,False,WY
+266,Shawn Drumgold,23,Black,Murder,Life,14,1989,2003,False,MA
+267,Howard Dudley,34,Black,Child Sex Abuse,Life,24,1992,2016,False,NC
+268,Carl Dukes,19,Black,Murder,39 to life,18,1998,2016,False,NY
+269,Edward Dumbrique,15,Hispanic,Murder,Life without parole,23,1998,2021,False,CA
+270,Calvin Duncan,18,Black,Murder,Life without parole,36,1985,2021,False,LA
+271,Charlie Dunn,43,Black,Murder,Life,34,1988,2022,False,TN
+272,Timothy Durham,28,White,Child Sex Abuse,Life,4,1993,1997,True,OK
+273,John Duval,21,Black,Murder,25 to Life,27,1973,2000,False,NY
+274,Nathan Christopher Dwight,21,Black,Robbery,Life,3,2010,2013,True,GA
+275,Margaret Earle,21,White,Murder,Life,5,2005,2010,False,MA
+276,Ralph Earnest,34,White,Murder,Life,23,1983,2006,False,NM
+277,Joseph Eastridge,28,White,Murder,20 to Life,30,1975,2005,False,DC
+278,Angel Echavarria,27,Hispanic,Murder,Life without parole,19,1996,2015,True,MA
+279,Tyler Edmonds,13,White,Murder,Life,4,2004,2008,False,MS
+280,Dartanion Edwards,19,Black,Murder,Life without parole,13,2009,2022,False,MI
+281,James Edwards,44,Black,Murder,Life without parole,16,1996,2012,True,IL
+282,Joshun Edwards,27,Black,Murder,Life without parole,13,2009,2022,False,MI
+283,Joe Elizondo,49,Hispanic,Child Sex Abuse,Life,13,1984,1997,False,TX
+284,Clarence Elkins,35,White,Murder,55 to Life,6,1999,2005,True,OH
+285,Vincent Ellerbe,17,Black,Murder,25 to Life,26,1996,2022,False,NY
+286,Tyrone Ellington,31,Black,Child Sex Abuse,Life,2,1989,1991,False,OH
+287,Sean Ellis,19,Black,Murder,Life,23,1995,2018,False,MA
+288,Cory Epps,25,Black,Murder,25 to life,19,1998,2017,False,NY
+289,Lonnie Erby,31,Black,Child Sex Abuse,Life,17,1986,2003,True,MO
+290,Robert Escalera,21,Hispanic,Murder,15 to Life,14,1976,1990,False,NY
+291,Eric Esse,33,White,Murder,Life without parole,3,2003,2006,False,IA
+292,Jerry Lee Evans,24,Black,Sexual Assault,Life,22,1987,2009,True,TX
+293,Michael Evans,17,Black,Murder,Life,27,1976,2003,True,IL
+294,Steven Everling,33,White,Child Sex Abuse,Life,4,2008,2012,False,IN
+295,Louis Eze,31,Black,Child Sex Abuse,35 2/3 to life,14,1993,2007,False,NY
+296,James Fagan,36,Black,Child Sex Abuse,Life,10,1988,1998,False,MI
+297,Anthony Faison,21,Black,Murder,20 to Life,13,1988,2001,False,NY
+298,Russell Faria,41,White,Murder,Life without parole,2,2013,2015,False,MO
+299,William Farnbaugh,25,White,Sexual Assault,Life,7,1997,2004,False,FL
+300,David Faulkner,22,White,Murder,Life without parole,21,2001,2022,False,MD
+301,Kenneth Faulkner,39,White,Kidnapping,30 to Life,3,2000,2003,False,CA
+302,David Fauntleroy,22,Black,Murder,Life,23,1986,2009,False,IL
+303,Lance Felder,16,Black,Murder,Life,16,1998,2014,False,PA
+304,Robert Fenenbock,38,White,Murder,25 to Life,26,1994,2020,False,CA
+305,Pablo Fernandez,20,Hispanic,Murder,25 to life,23,1996,2019,False,NY
+306,Raymond Flanks,20,Black,Murder,Life without parole,37,1985,2022,False,LA
+307,Jonathan Fleming,27,Black,Murder,25 to life,24,1990,2014,False,NY
+308,"James Fletcher, Jr.",27,Black,Murder,Life without parole,15,2005,2020,False,IL
+309,Curtis Flowers,21,Black,Murder,Life without parole,6,2004,2010,True,AR
+310,John Floyd,31,White,Murder,Life without parole,36,1982,2018,True,LA
+311,Lewis Fogle,24,White,Murder,Life without parole,33,1982,2015,True,PA
+312,Kenneth Wayne Foley,26,White,Robbery,25 to Life,12,1995,2007,False,CA
+313,Thomas Foley,40,White,Murder,Life,2,2009,2011,False,MI
+314,Walter Forbes,25,Black,Murder,Life without parole,37,1983,2020,False,MI
+315,Colleen Dill Forsythe,26,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+316,Wayne Forsythe,28,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+317,Joel Fowler,17,Black,Murder,25 to life,6,2009,2015,False,NY
+318,Lawrence Fowler,37,Black,Murder,25 to Life,8,1998,2006,False,NY
+319,Robert Foxworth,23,Black,Murder,Life,29,1992,2021,False,MA
+320,Brian Franklin,34,White,Child Sex Abuse,Life,21,1995,2016,False,TX
+321,George Franklin,30,White,Murder,Life,6,1990,1996,True,CA
+322,James Frazier,19,Black,Murder,Life without parole,6,2013,2019,False,PA
+323,Joseph Frey,31,White,Sexual Assault,Life,19,1994,2013,True,WI
+324,Dennis Fritz,22,White,Murder,Life,11,1988,1999,True,OK
+325,Darryl Fulton,26,Black,Murder,Life without parole,20,1997,2017,True,IL
+326,Rayshard  Futrell,17,Black,Murder,Life,1,2009,2010,False,MI
+327,Kunta Gable,17,Black,Murder,Life without parole,26,1996,2022,False,LA
+328,Richard Gagnon,32,White,Murder,Life without parole,7,2008,2015,True,SC
+329,Luis Galicia,21,Hispanic,Child Sex Abuse,15 to Life,3,2008,2011,False,CA
+330,Aaron Galli,22,White,Murder,10 to life,0,1993,1993,False,UT
+331,John Galvan,18,Hispanic,Murder,Life without parole,33,1989,2022,False,IL
+332,Robert Gandy,24,Black,Robbery,Life,30,1990,2020,False,TX
+333,Timothy Gantt,47,Black,Murder,Life without parole,14,1994,2008,False,CA
+334,Arkel Garcia,19,Black,Murder,Life without parole,6,2015,2021,False,PA
+335,Jose Garcia,27,Hispanic,Murder,25 to life,14,1993,2007,False,NY
+336,Roy Lopez Garcia,45,Hispanic,Murder,Life,6,2000,2006,False,CA
+337,Kenneth Gardiner,21,White,Murder,Life,26,1992,2018,False,GA
+338,Jimmie Gardner,20,Black,Sexual Assault,33 to life,26,1990,2016,False,WV
+339,Claude Garrett,35,White,Murder,Life without parole,29,1993,2022,False,TN
+340,"Edward Garry, Jr.",20,Hispanic,Murder,25 to life,21,1997,2018,False,NY
+341,"Merardo Garza, Jr.",37,Hispanic,Child Sex Abuse,25 to Life,13,2008,2021,False,KS
+342,Donald Eugene Gates,30,Black,Murder,20 to Life,27,1982,2009,True,DC
+343,Gary Gathers,17,Black,Murder,36 to life,21,1994,2015,False,DC
+344,Paul Gatling,29,Black,Murder,30 to life,52,1964,2016,False,NY
+345,David Lee Gavitt,26,White,Murder,Life without parole,26,1986,2012,False,MI
+346,Robert Gayol,33,Hispanic,Murder,Life,2,2001,2003,False,IL
+347,Barry Gibbs,38,White,Murder,20 to Life,17,1988,2005,False,NY
+348,James Gibson,23,Black,Murder,Life without parole,28,1991,2019,False,IL
+349,Roland Gibson,20,Black,Murder,Life,25,1968,1993,False,LA
+350,Eugene Gilyard,16,Black,Murder,Life,16,1998,2014,False,PA
+351,Ray Girdler,36,White,Murder,Life,9,1982,1991,False,AZ
+352,David Gladden ,36,Black,Murder,Life,12,1995,2007,False,PA
+353,Eric Glisson,18,Black,Murder,25 to life,15,1997,2012,False,NY
+354,Laurese Glover,16,Black,Murder,15 to life,20,1996,2016,False,OH
+355,Scott Godesky,24,White,Murder,Life without parole,22,1997,2019,False,PA
+356,Antoine Goff,19,Black,Murder,27 to Life,13,1990,2003,False,CA
+357,Thomas Lee Goldstein,30,White,Murder,25 to Life,24,1980,2004,False,CA
+358,Alfonso Gomez,21,Hispanic,Murder,41 to Life,14,1998,2012,False,CA
+359,Shannon Gonser,34,White,Child Sex Abuse,20 to life,4,2006,2010,False,CO
+360,Alfredo Gonzalez,32,Hispanic,Murder,Life without parole,30,1992,2022,False,IL
+361,Ernesto Gonzalez,53,Hispanic,Murder,Life,7,2013,2020,False,NV
+362,Hector Gonzalez,18,Hispanic,Murder,15 to Life,6,1996,2002,True,NY
+363,Donald Wayne Good,23,White,Sexual Assault,Life,20,1984,2004,True,TX
+364,Bruce Dallas Goodman,34,White,Murder,5 to Life,18,1986,2004,True,UT
+365,Christopher Goodwin,20,Black,Murder,Life without parole,10,2013,2023,False,PA
+366,Kendall Gordon,18,Black,Murder,Life without parole,11,2010,2021,True,LA
+367,Arthur Grajeda,19,Hispanic,Murder,32 to life,4,1987,1991,False,CA
+368,Senon Grajeda,31,Hispanic,Murder,45 to life,6,1987,1993,False,CA
+369,Lydell Grant,33,Black,Murder,Life,9,2012,2021,True,TX
+370,Adam Gray,14,White,Murder,Life without parole,21,1996,2017,False,IL
+371,Anthony Gray,23,Black,Murder,Life,8,1991,1999,True,MD
+372,Kevin Lee Green,20,White,Murder,15 to Life,16,1980,1996,True,CA
+373,Willie Earl Green,31,Black,Murder,33 to Life,24,1984,2008,False,CA
+374,Cy Greene,19,Black,Murder,15 to life,21,1985,2006,True,NY
+375,Rashawn Greer,21,Black,Murder,Life,3,1998,2001,False,OK
+376,John Grega,32,White,Murder,Life without parole,18,1995,2013,True,VT
+377,Jed Allen Gressman,22,White,Sexual Assault,5 to Life,3,1993,1996,True,UT
+378,Don Grimes,30,Black,Robbery,Life without parole,9,1987,1996,False,AL
+379,Willie Grimes,41,Black,Sexual Assault,Life,24,1988,2012,False,NC
+380,Lavont Guillory,21,Black,Murder,Life,11,1994,2005,True,CA
+381,Larry Gurley,20,Black,Murder,20 to life,22,1972,1994,False,NY
+382,Michael Haas,38,White,Child Sex Abuse,Life,28,1994,2022,False,VA
+383,Theodis Hagans,22,Black,Attempted Murder,Life,2,1999,2001,False,FL
+384,Kim Hairston,32,Black,Murder,Life,2,1993,1995,False,OH
+385,Warren Hales,25,White,Murder,5 to Life,3,2004,2007,False,UT
+386,James Haley,24,Black,Murder,Life without parole,36,1972,2008,False,MA
+387,Harold Hall,37,Black,Murder,Life,14,1990,2004,False,CA
+388,Byron Halsey,24,Black,Murder,Life,19,1988,2007,True,NJ
+389,Derrick Hamilton,25,Black,Murder,25 to life,23,1992,2015,False,NY
+390,Marlina Hamilton,33,Black,Murder,Life,9,2011,2020,False,GA
+391,Troy Jon Hancock,25,White,Sexual Assault,5 to Life,3,1993,1996,True,UT
+392,Michael Hanline,31,White,Murder,Life without parole,35,1980,2015,True,CA
+393,Garr Keith Hardin,22,White,Murder,Life,23,1995,2018,True,KY
+394,Rosean Hargrave,17,Black,Murder,30 to life,26,1992,2018,False,NY
+395,Skylor Harmon,17,Black,Murder,Life,10,2011,2021,False,MD
+396,Kevin Harrington,20,Black,Murder,Life without parole,17,2003,2020,False,MI
+397,Terry Harrington,17,Black,Murder,Life,25,1978,2003,False,IA
+398,Calvin Harris,40,White,Murder,25 to life,9,2007,2016,False,NY
+399,Jahmir Harris,23,Black,Murder,Life without parole,6,2015,2021,False,PA
+400,Warren Harris,29,Black,Murder,50 to Life,13,1977,1990,False,IL
+401,Clarence Harrison,27,Black,Sexual Assault,Life,17,1987,2004,True,GA
+402,Keith Harward,26,White,Murder,Life,33,1983,2016,True,VA
+403,Michael Hash,15,White,Murder,Life without parole,11,2001,2012,False,VA
+404,Maurice Hastings,29,Black,Murder,Life without parole,34,1988,2022,True,CA
+405,Andre Hatchett,24,Black,Murder,25 to life,24,1992,2016,False,NY
+406,Reginald Hayes,14,Black,Murder,Life without parole,14,1985,1999,False,NV
+407,Travis Hayes,17,Black,Murder,Life,9,1998,2007,True,LA
+408,Andre Haygood,24,Black,Murder,Life,9,2002,2011,False,TX
+409,Robert A. Hays,33,White,Child Sex Abuse,Life,14,1993,2007,False,NV
+410,Chad Heins,18,White,Murder,Life,11,1996,2007,True,FL
+411,Dale Helmig,37,White,Murder,Life without parole,15,1996,2011,False,MO
+412,Darcus Henry,21,Black,Murder,Life,14,1999,2013,False,CT
+413,Darrill Henry,28,Black,Murder,Life without parole,12,2011,2023,True,LA
+414,Angel Hernandez,42,Hispanic,Murder,Life without parole,11,2010,2021,False,MA
+415,Francisco Hernandez,26,Hispanic,Murder,48 to life,3,2002,2005,False,CA
+416,Juan Herrera,21,Hispanic,Murder,80 to life,7,1999,2006,False,CA
+417,Olmedo Hidalgo,24,Hispanic,Murder,25 to Life,13,1992,2005,False,NY
+418,Raymond Highers,20,White,Murder,Life without parole,25,1988,2013,False,MI
+419,Thomas Highers,21,White,Murder,Life without parole,25,1988,2013,False,MI
+420,Harold Hill,16,Black,Murder,Life without parole,11,1994,2005,True,IL
+421,Michael Hill,18,Black,Murder,Life without parole,6,1996,2002,False,MA
+422,Robert Hill,26,Black,Murder,18 to life,26,1988,2014,False,NY
+423,Johnny Hincapie,18,Hispanic,Murder,25 to life,26,1991,2017,False,NY
+424,C'Quan Hinton,17,Black,Murder,Life without parole,13,2009,2022,False,MI
+425,Letha Jean Hockersmith,31,White,Murder,Life,5,1994,1999,False,OK
+426,Jeffrey Holemon,23,White,Sexual Assault,Life,11,1988,1999,True,AL
+427,Chester Hollman III,21,Black,Murder,Life without parole,26,1993,2019,False,PA
+428,Daryl Holloway,24,Black,Sexual Assault,Life,23,1993,2016,True,WI
+429,Edward Honaker,33,White,Sexual Assault,Life,9,1985,1994,True,VA
+430,Kim Hoover-Moore,38,White,Murder,15 to life,18,2003,2021,False,OH
+431,Tony Hopps,24,Black,Robbery,Life,31,1990,2021,False,FL
+432,Jeffrey Scott Hornoff,26,White,Murder,Life,7,1996,2003,False,RI
+433,John Horton,17,Black,Murder,Life without parole,22,1995,2017,False,IL
+434,"David Housler, Jr.",19,White,Murder,Life without parole,17,1997,2014,False,TN
+435,Darrell Houston,23,Black,Murder,33 to Life,18,1992,2010,False,OH
+436,Bernard Howard,18,Black,Murder,Life without parole,25,1995,2020,False,MI
+437,DeAndre Howard,20,Black,Murder,Life,10,2003,2013,False,CA
+438,Kenji Howard,16,Black,Murder,35 to Life,24,1997,2021,False,CA
+439,Donna Sue Hubbard,30,White,Child Sex Abuse,Life,10,1985,1995,False,CA
+440,Jermaine Hudson,20,Black,Robbery,Life,21,2000,2021,False,LA
+441,Elicia Hughes,32,Black,Murder,Life,0,2007,2007,False,MS
+442,Darryl Hunt,19,Black,Murder,Life,19,1985,2004,True,NC
+443,Cartier Hunter,22,Black,Murder,Life,6,2016,2022,False,CA
+444,Darrell Hunter,22,Black,Murder,Life without parole,8,2000,2008,False,CA
+445,Davie Hurt,17,Black,Murder,Life,16,1998,2014,False,WV
+446,Paul Hurt,25,White,Child Sex Abuse,Life,18,2001,2019,False,KY
+447,Devonia Inman,20,Black,Murder,Life,20,2001,2021,True,GA
+448,James Irons,18,Black,Murder,25 to Life,26,1996,2022,False,NY
+449,Khalil Islam,30,Black,Murder,Life,55,1966,2021,False,NY
+450,"Ignacio Ixta, Jr.",20,Hispanic,Attempted Murder,35 to Life,11,2010,2021,False,CA
+451,Charles Jackson,27,Black,Murder,30 to life,28,1991,2019,False,OH
+452,Joseph Jackson,24,Black,Murder,25 to life,21,1997,2018,False,NY
+453,Raymond Jackson,38,Black,Sexual Assault,Life,28,1984,2012,True,TX
+454,Richard Jackson,40,Black,Murder,Life without parole,2,1998,2000,False,PA
+455,Eric Jackson-Knight,21,Black,Murder,25 to Life,14,1980,1994,False,NY
+456,Ronald Jacobsen,29,White,Sexual Assault,Life,31,1990,2021,True,GA
+457,Carlos Jaile,29,Hispanic,Child Sex Abuse,Life,32,1990,2022,True,TX
+458,Henry James,20,Black,Sexual Assault,Life without parole,29,1982,2011,True,LA
+459,Thomas James,22,Black,Murder,25 to Life,31,1991,2022,False,FL
+460,Lesly Jean,22,Black,Sexual Assault,Life,9,1982,1991,True,NC
+461,Jerry Lee Jenkins,25,White,Sexual Assault,Life,26,1987,2013,True,MD
+462,Shaun Jenkins,23,Black,Murder,Life without parole,16,2005,2021,False,MA
+463,Alvena Jennette,21,Black,Murder,18 to life,26,1988,2014,False,NY
+464,Raymond Jennings,25,White,Murder,40 to life,8,2009,2017,False,CA
+465,Arturo Jimenez,18,Hispanic,Murder,30 to life,25,1995,2020,False,CA
+466,Tina Jimerson,23,Black,Murder,Life,28,1992,2020,False,AR
+467,Andrew Johnson,39,Black,Sexual Assault,Life,24,1989,2013,True,WY
+468,Anthony Johnson,27,Black,Murder,Life,24,1986,2010,True,LA
+469,Antrone Johnson,17,Black,Child Sex Abuse,Life,13,1996,2009,False,TX
+470,Charles Johnson,19,Black,Murder,Life without parole,19,1998,2017,False,IL
+471,Eugene Johnson,17,Black,Murder,18 to life,20,1996,2016,False,OH
+472,Gary Johnson,22,Black,Murder,50 to Life,22,1999,2021,False,NY
+473,Jerome Johnson,20,Black,Murder,Life,29,1989,2018,False,MD
+474,Justly Johnson,24,Black,Murder,Life without parole,18,2000,2018,False,MI
+475,Lamar Johnson,20,Black,Murder,Life,12,2005,2017,False,MD
+476,Lamar Johnson,20,Black,Murder,Life without parole,28,1995,2023,False,MO
+477,Larry Johnson,30,Black,Sexual Assault,Life,18,1984,2002,True,MO
+478,Patrick Johnson,22,Black,Murder,15 to Life,10,1983,1993,False,NY
+479,Rickey Johnson,26,Black,Sexual Assault,Life without parole,25,1983,2008,True,LA
+480,Terrell Johnson,18,Black,Murder,Life without parole,17,1995,2012,False,PA
+481,Timothy Johnson,22,Black,Murder,Life,29,1984,2013,False,GA
+482,Zavion Johnson,18,Black,Murder,25 to life,16,2002,2018,False,CA
+483,"Calvin  Johnson, Jr.",25,Black,Sexual Assault,Life,16,1983,1999,True,GA
+484,Clifford Jones,26,Black,Murder,18 to life,35,1981,2016,True,NY
+485,Darrell Jones,18,Black,Murder,Life without parole,33,1986,2019,False,MA
+486,David Allen Jones,32,Black,Murder,36 to Life,9,1995,2004,True,CA
+487,DeShawn Jones,26,Black,Sexual Assault,6 to Life,4,2011,2015,False,CO
+488,Dewey Jones,30,White,Murder,Life,19,1995,2014,True,OH
+489,Elroy Lucky Jones,26,Black,Murder,Life without parole,8,2006,2014,False,MI
+490,Joe C. Jones,23,Black,Sexual Assault,Life,6,1986,1992,True,KS
+491,Lavell Jones,19,Black,Murder,37 1/2 to Life,17,1999,2016,False,NY
+492,Lydia Diane Jones,40,Black,Drug Possession or Sale,Life without parole,6,2000,2006,False,AL
+493,Mark Jones,20,White,Murder,Life,26,1992,2018,False,GA
+494,Melvin Jones,30,Black,Murder,Life without parole,6,1983,1989,False,IL
+495,Milton Jones,23,Black,Murder,Life,46,1976,2022,False,MA
+496,Robert Jones,19,Black,Sexual Assault,Life without parole,21,1996,2017,False,LA
+497,Tyrone Jones,20,Black,Murder,Life,11,1999,2010,False,MD
+498,Wilbert Jones,18,Black,Sexual Assault,Life,45,1973,2018,False,LA
+499,Oliver Jovanovic,30,White,Sexual Assault,15 to Life,3,1998,2001,False,NY
+500,"Bernell Juluke, Jr.",18,Black,Murder,Life without parole,26,1996,2022,False,LA
+501,Barry Kamara,17,Black,Murder,Life,31,1992,2023,False,MA
+502,Paul Kamienski,35,White,Murder,Life,22,1988,2010,False,NJ
+503,Entre Nax Karage,21,Asian,Murder,Life,8,1997,2005,True,TX
+504,Lee Keifer,25,White,Child Sex Abuse,Life,4,1993,1997,False,OK
+505,Anthony Keko,62,White,Murder,Life,5,1993,1998,False,LA
+506,Eric Kelley,28,Black,Murder,Life,22,1996,2018,True,NJ
+507,Donald Kelly,26,White,Murder,Life,3,1990,1993,False,PA
+508,Robert Kelly,40,White,Child Sex Abuse,Life,5,1992,1997,False,NC
+509,Jaythan Kendrick,36,Black,Murder,25 to life,25,1995,2020,True,NY
+510,Edward Khalil,28,Black,Murder,Life,8,2012,2020,False,MI
+511,Ricky Kidd,21,Black,Murder,Life without parole,22,1997,2019,False,MO
+512,Gloria Killian,35,White,Murder,32 to Life,16,1986,2002,False,CA
+513,Martin Kimsey,45,White,Robbery,Life,5,1985,1990,False,TX
+514,Jason Kindle,31,Black,Robbery,70 to Life,3,2000,2003,False,CA
+515,Evin King,37,Black,Murder,15 to life,22,1995,2017,True,OH
+516,John Klene,18,White,Murder,Life without parole,23,1998,2021,False,CA
+517,James Kluppelberg,18,White,Murder,Life,23,1989,2012,False,IL
+518,Isaac Knapper,17,Black,Murder,Life,12,1979,1991,False,LA
+519,"Willie Knighten, Jr.",24,Black,Murder,18 to Life,25,1997,2022,False,OH
+520,Andrew Krivak,17,White,Murder,25 to life,26,1997,2023,True,NY
+521,David Kunze,44,White,Murder,Life without parole,4,1997,2001,False,WA
+522,Richard Kussmaul,21,White,Murder,Life without parole,25,1994,2019,True,TX
+523,Anthony Kyles,27,Black,Murder,Life without parole,25,1997,2022,False,MI
+524,Beth LaBatte,24,White,Murder,Life,9,1997,2006,True,WI
+525,Dwight LaBran,23,Black,Murder,Life,4,1997,2001,False,LA
+526,Larry Lamb,36,Black,Murder,Life,20,1993,2013,False,NC
+527,Vincent James Landano,36,White,Murder,Life,21,1977,1998,False,NJ
+528,Herbert Landry,46,Black,Arson,5 to life,11,2006,2017,False,UT
+529,Milton Lantigua,19,Hispanic,Murder,20 to Life,3,1993,1996,False,NY
+530,Frank LaPena,35,White,Murder,Life,44,1977,2021,False,NV
+531,Richard Lapointe,41,White,Murder,Life without parole,23,1992,2015,True,CT
+532,Ronald Larkins,33,Black,Murder,Life without parole,20,1986,2006,False,OH
+533,Harleme Larry,14,Black,Murder,Life,6,2013,2019,False,FL
+534,Daniel Larsen,30,White,Other Nonviolent Felony,28 to life,15,1999,2014,False,CA
+535,Barry Laughman,24,White,Murder,Life,16,1988,2004,True,PA
+536,Carlos Marcos Lavernia,29,Hispanic,Sexual Assault,Life,15,1985,2000,True,TX
+537,Darrian Mark Lawrence,20,Black,Murder,Life,5,2000,2005,False,FL
+538,Shawn Lawrence ,37,Black,Murder,75 to life,3,2015,2018,False,NY
+539,Samuel Lawson,28,White,Murder,Life,9,2005,2014,False,OR
+540,Steven Lazar,22,White,Murder,Life,13,2010,2023,False,PA
+541,Joe Lea,24,Hispanic,Child Sex Abuse,16 to life,9,2000,2009,False,CA
+542,Raynella Dossett Leath,54,White,Murder,Life,7,2010,2017,False,TN
+543,Ah Lee,20,Asian,Murder,Life,16,1988,2004,False,PA
+544,Han Tak Lee,54,Asian,Murder,Life without parole,25,1990,2015,False,PA
+545,Ralph Lee,30,Black,Murder,Life,22,1996,2018,True,NJ
+546,Virginia LeFever,37,White,Murder,Life,21,1990,2011,False,OH
+547,Anthony Legion,27,Black,Murder,Life without parole,19,2001,2020,False,MI
+548,Anthony Lemons,19,Black,Murder,21 to life,19,1995,2014,False,OH
+549,David Lemus,22,Hispanic,Murder,25 to Life,15,1992,2007,False,NY
+550,Jules Letemps,26,Black,Sexual Assault,Life,27,1989,2016,False,FL
+551,Terrance Lewis,17,Black,Murder,Life without parole,20,1999,2019,False,PA
+552,Yun Hseng Liao,44,Asian,Attempted Murder,Life,13,2003,2016,False,CA
+553,Frank Lind,44,White,Child Sex Abuse,30 to life,3,2002,2005,False,CA
+554,Johnnie Lindsey,28,Black,Sexual Assault,Life,26,1983,2009,True,TX
+555,Bruce Lisker,17,White,Murder,16 to Life,24,1985,2009,False,CA
+556,Devon Little,26,Black,Murder,Life,2,2017,2019,False,MD
+557,Charles Jason Lively,27,White,Murder,Life,14,2006,2020,False,WV
+558,Christopher Livingston,19,Black,Murder,20 to Life,4,1987,1991,False,NY
+559,Eddie Joe Lloyd,34,Black,Murder,Life,17,1985,2002,True,MI
+560,Alton Logan ,28,Black,Murder,Life,26,1982,2008,False,IL
+561,Roger Logan,35,Black,Murder,25 to life,15,1999,2014,False,NY
+562,Walter Lomax,20,Black,Murder,Life,46,1968,2014,False,MD
+563,Kimberly Long,27,White,Murder,15 to life,16,2005,2021,True,CA
+564,Ronnie Long,20,Black,Sexual Assault,Life,44,1976,2020,False,NC
+565,William Lopez,30,Hispanic,Murder,25 to life,24,1990,2014,False,NY
+566,Dwight Love,22,Black,Murder,Life,19,1982,2001,False,MI
+567,Debbie Loveless,31,White,Murder,Life,5,1989,1994,True,TX
+568,Eddie Lowery,22,White,Sexual Assault,11 to Life,21,1982,2003,True,KS
+569,Dominic Lucci,22,White,Murder,Life,26,1992,2018,False,GA
+570,James Lucien,21,Black,Murder,Life without parole,26,1995,2021,False,MA
+571,Todd Lumpkins,27,Black,Murder,24 to life,2,1987,1989,False,NY
+572,Eric Lynn,25,Black,Murder,Life,13,1994,2007,False,MD
+573,Rafael Madrigal,25,Hispanic,Attempted Murder,53 to Life,7,2002,2009,False,CA
+574,Paul Philip Magnan,46,White,Drug Possession or Sale,25 to Life,6,2000,2006,False,CA
+575,Ronnie Mahan,26,White,Sexual Assault,Life without parole,12,1986,1998,True,AL
+576,Dennis Maher,22,White,Sexual Assault,Life,19,1984,2003,True,MA
+577,Orlando Maisonet,23,Hispanic,Murder,Life without parole,13,1992,2005,False,PA
+578,Robert Majors,31,Black,Attempted Murder,90 1/2 to life,20,2000,2020,False,NY
+579,Thomas Malik,18,Black,Murder,25 to Life,26,1996,2022,False,NY
+580,Jay Cee Manning,28,White,Child Sex Abuse,Life,8,1990,1998,False,NV
+581,Kenneth Marsh,28,White,Murder,15 to Life,21,1983,2004,False,CA
+582,Ronnie Marshall,28,White,Murder,Life,6,1990,1996,False,TN
+583,Kevin Martin,17,Black,Manslaughter,15 to Life,30,1984,2014,True,DC
+584,Lawrence Martin,38,Don't Know,Weapon Possession or Sale,25 to Life,22,1998,2020,False,CA
+585,Wayne Martin,35,Black,Murder,Life without parole,6,2010,2016,False,NY
+586,Angelo Martinez,19,Hispanic,Murder,25 to Life,16,1986,2002,False,NY
+587,Antonio Martinez,37,Hispanic,Murder,Life,30,1990,2020,False,PA
+588,Rodrigo Martinez,22,Hispanic,Murder,25 to life,6,2008,2014,False,CA
+589,Raymond Martorano,53,White,Murder,Life without parole,15,1984,1999,False,PA
+590,Anthony Massingill,18,Black,Robbery,Life,34,1980,2014,True,TX
+591,Timothy Masters,15,White,Murder,Life,9,1999,2008,True,CO
+592,Juan Matta Ballesteros,40,Hispanic,Kidnapping,Life without parole,28,1990,2018,False,
+593,Mark Maxson,31,Black,Murder,Life without parole,22,1994,2016,True,IL
+594,Bobby Joe Maxwell,29,Black,Murder,Life without parole,34,1984,2018,False,CA
+595,Jose Maysonet,22,Hispanic,Murder,Life without parole,22,1995,2017,False,IL
+596,Anthony Mazza,25,White,Murder,Life without parole,48,1973,2021,False,MA
+597,Corey McCall,22,Black,Murder,Life,16,2005,2021,False,MI
+598,David McCallum,16,Black,Murder,25 to life,28,1986,2014,True,NY
+599,Anthony McClain,35,Black,Murder,18 to life,11,1995,2006,False,OH
+600,Charles McClaugherty,18,White,Murder,Life,7,2001,2008,False,NM
+601,Robert McClendon,34,Black,Child Sex Abuse,15 to Life,17,1991,2008,True,OH
+602,Claude McCollum,26,Black,Murder,Life,1,2006,2007,False,MI
+603,Todd McCord,21,Black,Murder,25 to life,7,1987,1994,False,NY
+604,Sherman McCoy,20,Black,Murder,Life without parole,3,2016,2019,False,PA
+605,Terence McCracken,18,White,Murder,Life,12,1983,1995,False,PA
+606,Jack McCullough,18,White,Murder,Life,4,2012,2016,False,IL
+607,Emel McDowell,17,Black,Murder,22 to Life,31,1992,2023,False,NY
+608,"John ""Jack"" McDowell",54,White,Murder,30 to Life,5,2014,2019,False,NM
+609,Vidale McDowell,18,Black,Murder,Life,1,2003,2004,False,MI
+610,Toney McEachern,34,Black,Child Sex Abuse,Life,5,1993,1998,False,NC
+611,Arvin McGee,25,Black,Sexual Assault,Life,13,1989,2002,True,OK
+612,Curtis McGhee,17,Black,Murder,Life,33,1978,2011,False,IA
+613,Thomas McGowan,24,Black,Sexual Assault,Life,23,1985,2008,True,TX
+614,Edward McInnis,27,Black,Sexual Assault,Life,27,1988,2015,True,NC
+615,Lamonte McIntyre,17,Black,Murder,Life,23,1994,2017,False,KS
+616,Dean McKee,16,White,Murder,Life,31,1988,2019,True,FL
+617,Larry McKee,25,Black,Murder,24 to life,21,1997,2018,False,NY
+618,Gerald McKenzie,24,Black,Attempted Murder,Life,20,1984,2004,False,MI
+619,DeWayne McKinney,19,Black,Murder,Life,19,1981,2000,False,CA
+620,Clark Jerome McMillan,22,Black,Sexual Assault,Life,22,1980,2002,True,TN
+621,Daniel McNair,35,Black,Murder,Life,14,1986,2000,False,SC
+622,Kenneth McPherson,20,Black,Murder,Life,24,1995,2019,False,MD
+623,Alarico Joe Medina,25,Hispanic,Murder,Life,4,1991,1995,False,CO
+624,Susan Mellen,42,White,Murder,Life without parole,16,1998,2014,False,CA
+625,Thomas Merrill,24,White,Murder,Life,4,1991,1995,False,CA
+626,Terrence Meyers,21,Black,Murder,Life without parole,17,1993,2010,False,LA
+627,Melvin Mikes,19,Black,Murder,25 to Life,7,1985,1992,False,CA
+628,Marco Milla,19,Hispanic,Murder,Life without parole,13,2002,2015,False,CA
+629,Billy Wayne Miller,31,Black,Sexual Assault,Life,22,1984,2006,True,TX
+630,Gina Miller,25,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+631,Harry Miller,45,Black,Robbery,5 to Life,3,2004,2007,False,UT
+632,John Miller,42,White,Murder,Life,5,1989,1994,True,TX
+633,John Miller,21,Black,Murder,Life without parole,21,1998,2019,False,PA
+634,Maurice Ladon Miller,18,Black,Murder,Life,2,2005,2007,False,OK
+635,"Jesse Miller, Jr.",17,Black,Murder,Life,5,2009,2014,False,FL
+636,Adam Miranda,21,Hispanic,Murder,Life,26,1983,2009,False,CA
+637,Keith Mitchell,18,Black,Murder,36 to life,21,1994,2015,False,DC
+638,Ruben Montalvo,16,Hispanic,Murder,15 to Life,13,1988,2001,False,NY
+639,LaDondrell  Montgomery ,34,Black,Robbery,Life,1,2010,2011,False,TX
+640,Lorenzo Montoya,14,Hispanic,Murder,Life without parole,14,2000,2014,True,CO
+641,John Mooney,19,White,Murder,Life,4,2010,2014,False,MD
+642,Anthony Moore,32,Black,Murder,25 to Life,3,1996,1999,False,NY
+643,Clarence Moore,36,Black,Sexual Assault,Life,19,1987,2006,False,NJ
+644,Curtis Moore,32,Black,Murder,Life,32,1978,2010,True,VA
+645,Kenneth Moore,45,White,Murder,15 to Life,9,1995,2004,False,OH
+646,Salaam Moore,16,Black,Murder,Life without parole,15,2001,2016,False,OK
+647,Walter Moore,37,White,Murder,Life,8,1988,1996,False,MI
+648,Raymond Mora,25,Hispanic,Murder,25 to life,34,1981,2015,False,NY
+649,Jose Morales,17,Hispanic,Murder,15 to Life,13,1988,2001,False,NY
+650,Santiago Ventura Morales,19,Hispanic,Murder,10 to Life,5,1986,1991,False,OR
+651,Nicholas Morfin,17,White,Murder,Life without parole,24,1997,2021,False,IL
+652,Jerome Morgan,17,Black,Murder,Life without parole,22,1994,2016,False,LA
+653,Carlos Morillo,29,Hispanic,Murder,25 to life,18,1993,2011,False,NY
+654,Michael Morton,32,White,Murder,Life,24,1987,2011,True,TX
+655,Sundhe Moses,19,Black,Murder,24 1/3 to life,21,1997,2018,False,NY
+656,Freda Susie Mowbray,39,White,Murder,Life,10,1988,1998,False,TX
+657,Stanley Mozee,39,Black,Murder,Life,19,2000,2019,True,TX
+658,David Munchinski,25,White,Murder,Life,27,1986,2013,False,PA
+659,Michelle Murphy,17,Native American,Murder,Life without parole,19,1995,2014,True,OK
+660,Hubert Myers,18,Black,Murder,Life,43,1976,2019,False,FL
+661,Francisco Nanez,21,Hispanic,Murder,Life without parole,32,1990,2022,False,IL
+662,Donald Nash,39,White,Murder,Life without parole,11,2009,2020,True,MO
+663,Lorenzo Nava,36,Hispanic,Drug Possession or Sale,54 to life,3,1997,2000,False,CA
+664,William Negron,17,Hispanic,Murder,Life without parole,22,1995,2017,False,IL
+665,Bruce Nelson,24,Black,Murder,Life,9,1982,1991,True,PA
+666,Derrie Nelson,,Black,Murder,42 to Life,36,1986,2022,False,DC
+667,Leroy Nelson,17,Black,Murder,Life without parole,26,1996,2022,False,LA
+668,James Newsome,24,Black,Murder,Life,15,1980,1995,False,IL
+669,Matthew Ngov,20,Asian,Murder,57 to life,6,2013,2019,False,CA
+670,Hoc Nguyen,,Asian,Murder,15 to Life,6,1987,1993,False,NY
+671,Glen Nickerson,29,White,Murder,Life without parole,16,1987,2003,True,CA
+672,Kenneth Nixon,19,Black,Murder,Life without parole,16,2005,2021,False,MI
+673,Kelvin Nolen,26,Black,Murder,Life without parole,6,2016,2022,False,MI
+674,John Nolley,22,Black,Murder,Life,20,1998,2018,True,TX
+675,Lorenzo Nunez,23,Hispanic,Murder,40 to Life,6,1995,2001,False,CA
+676,William Oakes,30,White,Murder,25 to Life,7,1985,1992,False,NY
+677,Christopher Ochoa,22,Hispanic,Murder,Life,13,1989,2002,True,TX
+678,Frank O'Connell,25,White,Murder,25 to Life,27,1985,2012,False,CA
+679,Steven Odiase,23,Black,Murder,25 to life,4,2013,2017,False,NY
+680,Calvin Ollins,14,Black,Murder,Life without parole,13,1988,2001,True,IL
+681,Larry Ollins,16,Black,Murder,Life,13,1988,2001,True,IL
+682,Obina Onyiah,27,Black,Murder,Life without parole,8,2013,2021,False,PA
+683,Anthony Ortiz,20,Hispanic,Murder,50 to life,18,1993,2011,False,NY
+684,Armando Rodriguez Ortiz,15,Hispanic,Murder,Life,4,2003,2007,False,CA
+685,Nelson Ortiz,18,Hispanic,Murder,Life,22,1994,2016,True,PR
+686,Chaunte Ott,21,Black,Murder,Life,13,1996,2009,True,WI
+687,Donald Outlaw,16,Black,Murder,Life without parole,16,2004,2020,False,PA
+688,Hannah Overton,29,White,Murder,Life without parole,8,2007,2015,False,TX
+689,James L. Owens,22,White,Murder,Life,20,1988,2008,True,MD
+690,"Wayne Oxley, Jr.",39,White,Murder,25 to life,6,2006,2012,False,NY
+691,Christian Pacheco,18,Hispanic,Murder,25 to life,24,1996,2020,False,NY
+692,Charles Palmer,43,Black,Murder,Life without parole,16,2000,2016,True,IL
+693,"Dale Palmer, Sr.",37,White,Child Sex Abuse,Life,3,1994,1997,False,OH
+694,Michael Pardue,17,White,Murder,Life,24,1973,1997,False,AL
+695,Darrel Parker,24,White,Murder,Life,35,1956,1991,False,NE
+696,Matthew Parker,26,White,Child Sex Abuse,Life,18,1997,2015,False,OK
+697,Michael Parker,35,White,Child Sex Abuse,Life,20,1994,2014,False,NC
+698,Deron Parks,41,Black,Child Sex Abuse,Life,9,2010,2019,False,WA
+699,Delmar Partin,37,White,Murder,Life,25,1994,2019,False,KY
+700,Marlon Passley,23,Black,Murder,Life,4,1996,2000,False,MA
+701,Deon Patrick,20,Black,Murder,Life without parole,19,1995,2014,False,IL
+702,Dontia Patterson,17,Black,Murder,Life without parole,9,2009,2018,False,PA
+703,Laverne Pavlinac,57,White,Murder,10 to Life,4,1991,1995,False,OR
+704,Norberto Peets,26,Hispanic,Attempted Murder,30 to Life,24,1999,2023,True,NY
+705,Jose Luis Pena,36,Hispanic,Drug Possession or Sale,Life,8,2003,2011,False,TX
+706,David Peralta,23,Hispanic,Murder,Life,12,2001,2013,False,GA
+707,Carlos Perez,25,Hispanic,Murder,25 to life,15,1997,2012,False,NY
+708,Carlos Perez,25,Hispanic,Murder,25 to life,16,1997,2013,False,NY
+709,George Perrot,17,White,Sexual Assault,Life,30,1987,2017,False,MA
+710,Dennis Perry,23,White,Murder,Life without parole,18,2003,2021,True,GA
+711,Jamie Lee Peterson,21,White,Murder,Life without parole,16,1998,2014,True,MI
+712,Larry Peterson,36,Black,Murder,Life,17,1989,2006,True,NJ
+713,Ted Petrossi,40,White,Sexual Assault,5 to life,2,1996,1998,False,UT
+714,Antoine Pettiford,23,Black,Murder,Life,5,1995,2000,False,MD
+715,L. Lynn Pettit,27,White,Murder,15 to life,2,1999,2001,False,OH
+716,Randall Philen,50,White,Murder,Life,1,2011,2012,False,TX
+717,Richard Phillips,25,Black,Murder,Life without parole,46,1972,2018,False,MI
+718,"Roland Phinney, Jr.",36,White,Murder,Life,18,1990,2008,False,MA
+719,Michael Piaskowski,43,White,Murder,Life,6,1995,2001,False,WI
+720,Juan Carlos Pichardo,23,Hispanic,Murder,20 to life,6,1994,2000,False,NY
+721,Jonathan Scott Pierpoint,28,White,Child Sex Abuse,Life,18,1992,2010,False,NC
+722,Charles Pierre,36,Black,Murder,25 to life,12,2003,2015,False,NY
+723,Johnny Pinchback,28,Black,Child Sex Abuse,Life,27,1984,2011,True,TX
+724,Lisa Pineda,26,Hispanic,Murder,40 to life,4,2005,2009,False,CA
+725,Marcella Pitts,29,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+726,Ricky Lynn Pitts,31,White,Child Sex Abuse,Life,6,1985,1991,False,CA
+727,Ronald Pondexter,22,Black,Murder,25 to life,4,1993,1997,False,NY
+728,"Gilbert  Poole, Jr.",23,White,Murder,Life without parole,32,1989,2021,True,MI
+729,Joseph Pope,30,Black,Murder,Life,36,1986,2022,False,MA
+730,Allen Wayne Porter,18,Black,Sexual Assault,Life,19,1991,2010,False,TX
+731,Michael Porter,26,White,Sexual Assault,Life,14,1988,2002,False,FL
+732,Clinton Potts,30,White,Murder,Life without parole,3,2009,2012,False,OK
+733,Benny Powell,26,Black,Murder,Life,17,1975,1992,False,CA
+734,Elmer Pratt,21,Black,Murder,25 to Life,27,1972,1999,False,CA
+735,Eric Proctor,18,White,Murder,Life,9,1986,1995,True,OR
+736,Jeremy Puckett,21,Black,Murder,Life without parole,18,2002,2020,False,CA
+737,Patrick Pursley,28,Black,Murder,Life without parole,25,1994,2019,False,IL
+738,John Purvis,42,White,Murder,Life,8,1985,1993,False,FL
+739,Ronnie Qualls,20,Black,Murder,Life,27,1993,2020,True,MA
+740,Ruddy Quezada,29,Hispanic,Murder,25 to life,22,1993,2015,False,NY
+741,"Sergio Radillo, Jr.",24,Hispanic,Attempted Murder,Life,10,1995,2005,False,FL
+742,Willie Rainge,20,Black,Murder,Life,18,1978,1996,True,IL
+743,Jesus Ramirez,48,Hispanic,Murder,Life,10,1998,2008,False,TX
+744,David Ranta,35,White,Murder,37 1/2 to Life,22,1991,2013,False,NY
+745,Richard Raugust,31,White,Murder,Life,18,1998,2016,False,MT
+746,Ellen Reasonover,24,Black,Murder,Life,16,1983,1999,False,MO
+747,Derrick Redd,35,Black,Murder,25 to life,7,2011,2018,False,NY
+748,Cornelius Reed,15,Black,Murder,Life,4,1993,1997,False,WI
+749,Deshawn Reed ,26,Black,Murder,Life without parole,3,2014,2017,False,CA
+750,Kuantau Reeder,20,Black,Murder,Life without parole,26,1995,2021,False,LA
+751,Davey Reedy,32,White,Murder,Life,27,1988,2015,False,VA
+752,Marvin Reeves,29,Black,Murder,Life without parole,18,1991,2009,False,IL
+753,Kash Register,18,Black,Murder,Life without parole,34,1979,2013,False,CA
+754,Anthony Reid,21,Black,Murder,Life,33,1990,2023,False,PA
+755,Ronald Reno,32,White,Weapon Possession or Sale,25 to Life,5,1997,2002,False,CA
+756,Pamela Sue Reser,29,White,Child Sex Abuse,Life,3,1999,2002,False,OR
+757,Randy Resh,24,White,Murder,20 to Life,17,1990,2007,False,OH
+758,George Revelle,36,White,Murder,Life without parole,2,1996,1998,False,MO
+759,William Richards,43,White,Murder,25 to life,19,1997,2016,True,CA
+760,"James E. Richardson, Jr.",36,White,Murder,Life,10,1989,1999,True,WV
+761,"Harvill Richardson, Sr.",66,White,Murder,Life,6,2011,2017,False,MS
+762,Jonathan Rivera,22,Hispanic,Murder,Life,1,2007,2008,False,PR
+763,Juan Rivera ,19,Hispanic,Murder,Life,19,1993,2012,True,IL
+764,Neal Robbins,23,White,Murder,Life,17,1999,2016,False,TX
+765,Horace Roberts,40,Black,Murder,15 to life,19,1999,2018,True,CA
+766,Jason Roberts,16,White,Murder,Life,10,1995,2005,False,SC
+767,Larry Trent Roberts,35,Black,Murder,Life without parole,12,2007,2019,False,PA
+768,David Robinson,32,Black,Murder,Life without parole,17,2001,2018,False,MO
+769,Eric Robinson,23,Black,Murder,Life,13,1994,2007,True,CA
+770,Mario Rocha,16,Hispanic,Murder,35 to Life,10,1998,2008,False,CA
+771,Xavier Rockette,19,Black,Murder,Life,10,2003,2013,False,WI
+772,Felipe Rodriguez,22,Hispanic,Murder,25 to life,29,1990,2019,False,NY
+773,Jeffrey Rodriguez,24,Hispanic,Robbery,25 to Life,4,2003,2007,False,CA
+774,Wildon Rodriguez,18,Hispanic,Murder,25 to Life,22,1999,2021,False,NY
+775,Christopher Roesser,25,White,Murder,Life,5,2008,2013,False,GA
+776,Luis Kevin Rojas,18,Hispanic,Murder,15 to Life,6,1992,1998,False,NY
+777,"Offord Rollins, IV",17,Black,Murder,29 to life,4,1992,1996,False,CA
+778,Richard Rosario,20,Hispanic,Murder,25 to life,18,1998,2016,False,NY
+779,Victor Rosario,24,Hispanic,Murder,Life,34,1983,2017,False,MA
+780,Ronald Ross,44,Black,Attempted Murder,25 to life,7,2006,2013,False,CA
+781,Lionel Rubalcava,23,Hispanic,Attempted Murder,31 to Life,16,2003,2019,False,CA
+782,Donald Ruby,39,White,Murder,Life,6,1987,1993,True,PA
+783,Julius Ruffin,28,Black,Sexual Assault,Life,21,1982,2003,True,VA
+784,Larry Ruffin,19,Black,Murder,Life,31,1980,2011,True,MS
+785,Nelson Ruiz,20,Hispanic,Murder,Life,22,1994,2016,True,PR
+786,Jack Sagin,39,White,Murder,Life without parole,33,1986,2019,True,CA
+787,Ru-El Sailor,22,Black,Murder,25 to life,15,2003,2018,False,OH
+788,Daniel Saldana,22,Hispanic,Attempted Murder,45 to Life,33,1990,2023,False,CA
+789,MarQuise Salley,22,Black,Murder,Life without parole,9,2010,2019,False,PA
+790,Aaron Salter,20,Black,Murder,Life without parole,15,2003,2018,False,MI
+791,Joseph Salvati,31,White,Murder,Life,33,1968,2001,False,MA
+792,Isauro Sanchez,20,Hispanic,Murder,Life without parole,9,1982,1991,False,IL
+793,Santos Sanchez,46,Hispanic,Murder,Life,25,1996,2021,False,WI
+794,Derrick Sanders,21,Black,Murder,21 to life,25,1993,2018,False,WI
+795,Martin Santillan,23,Hispanic,Murder,Life,25,1998,2023,True,TX
+796,Louis Santos,20,Black,Murder,Life,5,1985,1990,False,MA
+797,Omar Saunders,18,Black,Murder,Life without parole,13,1988,2001,True,IL
+798,Mark Schand,21,Black,Murder,Life without parole,26,1987,2013,False,MA
+799,Albert Ian Schweitzer,20,Other,Murder,Life,23,2000,2023,True,HI
+800,Christopher Shun Scott,27,Black,Murder,Life,12,1997,2009,False,TX
+801,Kendrick Scott,20,Black,Murder,Life without parole,18,2000,2018,False,MI
+802,Malcolm Scott,17,Black,Murder,Life,21,1995,2016,False,OK
+803,Michael Scott,17,White,Murder,Life,7,2002,2009,True,TX
+804,Samuel Scott,28,Black,Sexual Assault,Life,15,1987,2002,True,GA
+805,Frank Sealie,23,Black,Murder,Life without parole,1,2014,2015,False,AL
+806,Thelonious Searcy,24,Black,Murder,Life without parole,17,2005,2022,False,MI
+807,Ivan Serrano,17,Hispanic,Murder,Life,17,1988,2005,False,PA
+808,Shabaka Shakur,23,Black,Murder,20 to life,26,1989,2015,False,NY
+809,Michael Shannon,41,Black,Murder,Life without parole,7,2011,2018,False,LA
+810,Dontae Sharpe,18,Black,Murder,Life,24,1995,2019,False,NC
+811,Paul Sheffield,47,White,Child Sex Abuse,5 to life,3,1987,1990,False,UT
+812,Charles Shepherd,24,Black,Murder,15 to Life,13,1988,2001,False,NY
+813,Clarence Shipley,20,Black,Murder,Life,26,1992,2018,False,MD
+814,James Shortt,21,Black,Murder,Life without parole,28,1982,2010,False,CA
+815,Kurtis DeAngelo Showers,28,Black,Robbery,Life,4,1994,1998,False,MI
+816,Kevin Siehl,35,White,Murder,Life without parole,24,1992,2016,False,PA
+817,Alberto Sifuentes,22,Hispanic,Murder,Life,10,1998,2008,False,TX
+818,Darrell Siggers,20,Black,Murder,Life without parole,34,1984,2018,False,MI
+819,Thomas Siller,41,White,Murder,30 to life,13,1998,2011,True,OH
+820,Jesus Silva-Santiago,28,Hispanic,Murder,Life without parole,4,2006,2010,False,MA
+821,Eric Simmons,24,Black,Murder,Life,24,1995,2019,False,MD
+822,Lawrence Simmons,19,Black,Murder,Life,23,1977,2000,False,NJ
+823,Tommy Simmons III,35,Black,Murder,Life,5,1998,2003,False,CA
+824,"Claude Simmons, Jr.",42,Black,Murder,Life,12,1997,2009,False,TX
+825,Michael Skakel,15,White,Murder,20 to Life,18,2002,2020,False,CT
+826,Parrish Slade,21,Black,Child Sex Abuse,Life,23,1989,2012,False,NC
+827,Willie Lee Slater,20,Black,Assault,Life,10,1999,2009,False,FL
+828,Joseph Sledge,34,Black,Murder,Life,37,1978,2015,True,NC
+829,Johnny Small,15,White,Murder,Life,27,1989,2016,False,NC
+830,Billy James Smith,34,Black,Sexual Assault,Life,19,1987,2006,True,TX
+831,Demetrius Smith,25,Black,Murder,Life,2,2010,2012,False,MD
+832,Feronda Smith,30,Black,Murder,Life without parole,7,2011,2018,False,MI
+833,John Edward Smith,18,Black,Murder,Life,18,1994,2012,False,CA
+834,Jon Keith Smith,17,Black,Murder,Life,13,1987,2000,False,MO
+835,Kaliegh Smith,31,Black,Murder,Life without parole,11,2010,2021,True,LA
+836,Michael Smith,32,Black,Murder,Life without parole,15,1994,2009,False,CA
+837,Robert Smith,38,Black,Murder,Life without parole,30,1990,2020,False,IL
+838,Sylvester Smith,32,Black,Child Sex Abuse,Life,20,1984,2004,False,NC
+839,Walter D. Smith,27,Black,Sexual Assault,78 to Life,10,1986,1996,True,OH
+840,William Smith,24,White,Murder,Life,18,1978,1996,False,NM
+841,"Frank Smith, Jr.",20,White,Drug Possession or Sale,15 to life,14,1989,2003,False,NY
+842,"Larry Smith, Jr.",18,Black,Murder,Life without parole,27,1994,2021,False,MI
+843,Harold Grant Snowden,38,White,Child Sex Abuse,50 to Life,12,1986,1998,False,FL
+844,Cynthia Sommer,28,White,Murder,Life,1,2007,2008,False,CA
+845,Ernest Sonnier,22,Black,Kidnapping,Life,32,1986,2018,True,TX
+846,Matthew Sopron,22,White,Murder,Life without parole,20,1998,2018,False,IL
+847,John Sosnovske,39,White,Murder,Life,4,1991,1995,False,OR
+848,Joseph Sousa,26,White,Murder,20 to Life,30,1975,2005,False,DC
+849,India Spellman,17,Black,Murder,30 to Life,10,2013,2023,False,PA
+850,Clyde Ray Spencer,37,White,Child Sex Abuse,Life,25,1985,2010,False,WA
+851,Keyon Sprinkle,17,Black,Murder,Life,18,2002,2020,False,MA
+852,Robert Spurlock,22,White,Murder,Life,6,1990,1996,False,TN
+853,Patricia Stallings,24,White,Murder,Life,0,1991,1991,False,MO
+854,Fred Steese,28,White,Murder,Life without parole,22,1995,2017,False,NV
+855,Frank Sterling,25,White,Murder,25 to Life,18,1992,2010,True,NY
+856,Emerson Stevens,32,White,Murder,Life,35,1986,2021,False,VA
+857,Dail Stewart,22,White,Murder,5 to life,8,1984,1992,False,UT
+858,Edward Stewart,26,Black,Murder,Life,8,2007,2015,False,PA
+859,Kia Stewart,17,Black,Murder,Life without parole,6,2009,2015,False,LA
+860,Zackary Lee Stewart,18,White,Murder,Life without parole,2,2008,2010,True,MO
+861,"Andrew Stewart, Jr.",16,Black,Murder,Life,35,1984,2019,False,MD
+862,Mario Stinchcomb,22,Black,Murder,Life without parole,17,2004,2021,False,GA
+863,Robert Lee Stinson,20,Black,Murder,Life,24,1985,2009,True,WI
+864,Willie Stokes,20,Black,Murder,Life without parole,38,1984,2022,False,PA
+865,John Street,36,White,Murder,Life without parole,3,2006,2009,False,
+866,Kevin Strickland,18,Black,Murder,Life,42,1979,2021,False,MO
+867,Willie Stuckey,16,Black,Murder,25 to life,28,1986,2014,True,NY
+868,Larod Styles ,16,Black,Murder,Life without parole,19,1998,2017,False,IL
+869,Harold Sullivan,31,White,Murder,Life,4,1986,1990,False,MA
+870,Michael Sullivan,25,White,Murder,Life without parole,32,1987,2019,True,MA
+871,Andrew Swainson,22,Black,Murder,Life without parole,31,1989,2020,False,PA
+872,Christopher Swem,34,White,Murder,24 to Life,4,2018,2022,False,NY
+873,Johnny Tall Bear,34,Native American,Murder,Life without parole,26,1992,2018,True,OK
+874,Terry Talley,23,Black,Sexual Assault,Life,40,1981,2021,True,GA
+875,Martin Tankleff,17,White,Murder,50 to Life,18,1990,2008,False,NY
+876,Hattie Tanner,35,Black,Murder,Life without parole,18,2000,2018,False,MI
+877,Christopher Tapp,20,White,Murder,Life,21,1998,2019,True,ID
+878,Andre Taylor,,Black,Attempted Murder,28 to life,8,1990,1998,False,CA
+879,Andrew Taylor,25,Black,Child Sex Abuse,Life,25,1991,2016,False,FL
+880,Daniel Taylor,17,Black,Murder,Life without parole,18,1995,2013,False,IL
+881,Don Taylor,20,Black,Murder,22 1/2 to Life,15,1989,2004,False,NY
+882,Edward Taylor,21,Black,Child Sex Abuse,Life,36,1986,2022,False,FL
+883,Gregory Taylor,28,White,Murder,Life,17,1993,2010,True,NC
+884,Rhian Taylor,21,Black,Murder,20 to life,7,2010,2017,False,NY
+885,John Tennison,17,Black,Murder,25 to Life,13,1990,2003,False,CA
+886,Paul Terry,17,Black,Murder,Life,26,1977,2003,True,IL
+887,Jerome Thagard,16,Black,Murder,25 to life,4,2010,2014,False,NY
+888,Adrian Thomas,26,Black,Murder,25 to life,5,2009,2014,False,NY
+889,Cherice Thomas,18,Black,Murder,25 to Life,3,2009,2012,False,CA
+890,Marvin Thomas,20,White,Murder,Life,6,1987,1993,False,WV
+891,Maverick Thomas,31,Black,Murder,Life,1,2005,2006,False,VA
+892,Rickey Dale Thomas,25,Black,Robbery,Life,1,1992,1993,False,TX
+893,Shaurn Thomas,16,Black,Murder,Life without parole,23,1994,2017,False,PA
+894,Sheldon Thomas,17,Black,Murder,25 to life,17,2006,2023,False,NY
+895,Teresa Thomas,29,Black,Murder,18 to life,4,1993,1997,False,OH
+896,Victor Larue Thomas,26,Black,Sexual Assault,Life,15,1986,2001,True,TX
+897,"Clayton ""Mustafa"" Thomas, Jr.",23,Black,Murder,Life without parole,25,1994,2019,False,PA
+898,Michael Thompson,32,White,Sexual Assault,5 to Life,6,2008,2014,False,UT
+899,Dwayne Thorpe,25,Black,Murder,Life,10,2009,2019,False,PA
+900,Derek Tice,27,White,Murder,Life without parole,11,2000,2011,False,VA
+901,Michael Tillman,20,Black,Murder,Life,24,1986,2010,False,IL
+902,Glenn Tinney,26,White,Murder,15 to life,23,1992,2015,False,OH
+903,"George Toca, Jr.",17,Black,Murder,Life without parole,37,1985,2022,False,LA
+904,John Tomaino,41,White,Murder,20 to life,3,1996,1999,False,NY
+905,Charles Tomlin,26,Black,Murder,25 to life,15,1979,1994,False,CA
+906,Steven Toney,35,Black,Sexual Assault,Life,13,1983,1996,True,MO
+907,Angel Toro,30,White,Murder,Life,21,1983,2004,False,MA
+908,Alexander Torres,20,Hispanic,Murder,40 to Life,20,2001,2021,False,CA
+909,Raymond Towler,24,Black,Child Sex Abuse,Life,29,1981,2010,True,OH
+910,Parrish Towns,20,Black,Murder,Life without parole,24,1983,2007,False,MI
+911,Jerry Townsend,26,Black,Murder,Life,21,1980,2001,True,FL
+912,Santae Tribble,17,Black,Murder,20 to Life,32,1980,2012,True,DC
+913,Eddie Triplett,38,Black,Drug Possession or Sale,Life without parole,13,1998,2011,False,LA
+914,Jamal Trulove,25,Black,Murder,50 to life,5,2010,2015,False,CA
+915,Conrad Truman,30,White,Murder,16 to life,3,2014,2017,False,UT
+916,Earl Truvia,17,Black,Murder,Life,27,1976,2003,False,LA
+917,Betty Tyson,24,Black,Murder,25 to Life,25,1973,1998,False,NY
+918,Zachary Vanderhorst,19,Black,Sexual Assault,Life,47,1974,2021,False,CA
+919,Ignacio Varela,42,Hispanic,Murder,Life without parole,9,1982,1991,False,IL
+920,Joaquin Varela,22,Hispanic,Murder,Life without parole,9,1982,1991,False,IL
+921,Michael Vasquez,40,Hispanic,Robbery,20 to life,15,1997,2012,False,NY
+922,William Vasquez,34,Black,Murder,25 to life,34,1981,2015,False,NY
+923,James Vaughan III,28,Black,Child Sex Abuse,Life without parole,1,2008,2009,False,OH
+924,Willie Veasy,26,Black,Murder,Life without parole,26,1993,2019,False,PA
+925,Damaso Vega,37,Hispanic,Murder,Life,7,1982,1989,False,NJ
+926,Carl Veltmann,62,White,Arson,Life,4,1992,1996,False,
+927,Christopher Veltmann,35,White,Arson,Life,4,1992,1996,False,
+928,Amaury Villalobos,30,Hispanic,Murder,25 to life,34,1981,2015,False,NY
+929,Daniel Villegas,16,Hispanic,Murder,Life,23,1995,2018,False,TX
+930,James Walker,30,Black,Murder,20 to Life,19,1971,1990,False,NY
+931,John  Walker,16,Black,Murder,17 to Life,44,1977,2021,False,NY
+932,Keith Walker,23,Black,Murder,Life without parole,26,1994,2020,False,IL
+933,Quedillis Ricardo Walker,34,Hispanic,Murder,26 to Life,12,1991,2003,True,CA
+934,Patrick Waller,22,Black,Kidnapping,Life,16,1992,2008,True,TX
+935,Terry Lee Wanzer,20,White,Sexual Assault,Life,18,1973,1991,False,GA
+936,Bernard Ward,28,White,Murder,Life,5,1989,1994,False,MD
+937,Ramon Ward,18,Black,Murder,Life without parole,25,1995,2020,False,MI
+938,Melonie Ware,30,Black,Murder,Life,4,2005,2009,False,GA
+939,Colin Warner,18,Black,Murder,15 to Life,19,1982,2001,False,NY
+940,Douglas Warney,34,White,Murder,25 to Life,9,1997,2006,True,NY
+941,Kevin Warrior,23,Black,Murder,Life,3,2016,2019,False,OK
+942,Calvin E. Washington,30,Black,Murder,Life,14,1987,2001,True,TX
+943,Darryl Washington,24,Black,Robbery,Life,16,1996,2012,False,TX
+944,Gary Washington,25,Black,Murder,Life,32,1987,2019,False,MD
+945,Jabbar Washington,21,Black,Murder,25 to Life,20,1997,2017,False,NY
+946,Sean Washington,23,Black,Murder,60 to life,24,1996,2020,False,NJ
+947,Terrance Washington,16,Black,Murder,Life without parole,4,1997,2001,False,FL
+948,Kenneth Waters,25,White,Murder,Life,18,1983,2001,True,MA
+949,Leo Waters,30,White,Sexual Assault,Life,21,1982,2003,True,NC
+950,Cathy Watkins,27,Black,Murder,25 to life,15,1997,2012,False,NY
+951,Joyce Watkins,39,Black,Murder,Life,34,1988,2022,False,TN
+952,Ledura Watkins,19,Black,Murder,Life without parole,41,1976,2017,False,MI
+953,Ransom Watkins,16,Black,Murder,Life,35,1984,2019,False,MD
+954,James Watson,20,Black,Murder,Life without parole,39,1981,2020,True,MA
+955,Anthony Ways,19,Black,Murder,Life,14,1991,2005,False,NJ
+956,Jennifer Weathington,19,White,Murder,Life,6,2013,2019,False,GA
+957,Mary Weaver,41,White,Murder,Life without parole,3,1994,1997,False,IA
+958,Kenneth Webb,30,White,Murder,Life without parole,35,1987,2022,False,MI
+959,Joseph Webster,19,Black,Murder,Life,14,2006,2020,True,TN
+960,Carlos Weeks,20,Black,Murder,27 1/2 to Life,24,1995,2019,False,NY
+961,Fred Weichel,28,White,Murder,Life without parole,36,1981,2017,False,MA
+962,Keith West,19,Black,Murder,Life,24,1995,2019,False,KY
+963,William Westly,47,Black,Sexual Assault,20 to Life,3,1999,2002,False,NY
+964,Derrick Wheatt,17,Black,Murder,18 to life,20,1996,2016,False,OH
+965,Jonathan Wheeler-Whichard,16,Black,Murder,25 to Life,12,1997,2009,False,NY
+966,Mark Whitaker,29,Black,Murder,Life without parole,16,2003,2019,False,PA
+967,George White,36,White,Murder,Life,5,1987,1992,False,AL
+968,John Jerome White,19,Black,Sexual Assault,Life,27,1980,2007,True,GA
+969,Joseph White,22,White,Murder,Life,19,1989,2008,True,NE
+970,Drew Whitley,32,Black,Murder,Life,17,1989,2006,True,PA
+971,Herbert Whitlock,39,White,Murder,Life,21,1987,2008,False,IL
+972,Christopher Wickham,27,White,Sexual Assault,20 to life,22,1997,2019,False,UT
+973,David Lee Wiggins,24,White,Child Sex Abuse,Life,23,1989,2012,True,TX
+974,Danny Wilber,24,Native American,Murder,Life,17,2005,2022,False,WI
+975,Jennifer Wilcox,20,White,Child Sex Abuse,Life,12,1985,1997,False,OH
+976,Charles Wilhite,25,Black,Murder,Life without parole,3,2010,2013,False,MA
+977,Antonio Williams ,35,Black,Child Sex Abuse,Life,4,2007,2011,False,AL
+978,Archie Williams,22,Black,Attempted Murder,Life without parole,36,1983,2019,False,LA
+979,Calvin Williams,,Black,Murder,Life,19,1977,1996,False,LA
+980,Christopher Williams,29,Black,Murder,Life without parole,29,1992,2021,False,PA
+981,Clarence Williams,25,Black,Murder,Life,18,2002,2020,False,MA
+982,Cordell Williams,19,Black,Murder,Life without parole,27,1995,2022,False,IL
+983,Danial Williams,25,White,Murder,Life without parole,17,1999,2016,False,VA
+984,Derrick Raphel Williams,29,Black,Sexual Assault,Life,18,1993,2011,True,FL
+985,Grant Williams,25,Black,Murder,Life,24,1997,2021,False,NY
+986,Hayes Williams,19,Black,Murder,Life,29,1968,1997,False,LA
+987,Herman Williams,29,White,Murder,Life without parole,28,1994,2022,True,IL
+988,James Williams,50,White,Murder,Life,7,1982,1989,False,GA
+989,James Curtis Williams,25,Black,Sexual Assault,Life,28,1984,2012,True,TX
+990,Jimmy Williams,20,Black,Child Sex Abuse,Life,10,1991,2001,False,OH
+991,Joe Sidney Williams,19,Black,Murder,Life,6,1987,1993,True,TX
+992,Michael Williams,31,Black,Murder,Life,14,1997,2011,False,LA
+993,Michael Williams,39,Black,Weapon Possession or Sale,25 to life,4,1996,2000,False,CA
+994,Michael Anthony Williams,16,Black,Sexual Assault,Life without parole,24,1981,2005,True,LA
+995,Randolph Williams,22,Black,Murder,25 to life,8,2008,2016,False,NY
+996,Richard Williams,18,Black,Murder,Life without parole,17,1998,2015,False,CA
+997,Shawn Williams,19,Black,Murder,25 to life,24,1994,2018,False,NY
+998,Thomas Wayne Williams,38,Black,Drug Possession or Sale,Life,2,1998,2000,False,TX
+999,Calvin Willis,21,Black,Child Sex Abuse,Life without parole,21,1982,2003,True,LA
+1000,Cedric Willis,19,Black,Murder,Life,9,1997,2006,True,MS
+1001,John Willis,42,Black,Sexual Assault,Life,6,1993,1999,True,IL
+1002,Patrick Willis,28,Black,Murder,Life without parole,8,2013,2021,False,CA
+1003,Troy Willoughby,20,White,Murder,Life,2,2010,2012,False,WY
+1004,Andrew Wilson,29,Black,Murder,Life without parole,31,1986,2017,False,CA
+1005,Jackie Wilson,21,Black,Murder,Life without parole,37,1983,2020,False,IL
+1006,Johnny Lee Wilson,20,White,Murder,Life without parole,8,1987,1995,False,MO
+1007,Kathryn Dawn Wilson,22,White,Child Sex Abuse,Life,4,1993,1997,False,NC
+1008,Sharrif Wilson,15,Black,Murder,9 to Life,20,1994,2014,True,NY
+1009,Theophalis Wilson,17,Black,Murder,Life without parole,27,1993,2020,False,PA
+1010,Megan Winfrey,16,White,Murder,Life,5,2008,2013,False,TX
+1011,Luke Wirkkala,32,White,Murder,Life,7,2014,2021,True,OR
+1012,David Wong,23,Asian,Murder,25 to Life,17,1987,2004,False,NY
+1013,Glen Woodall,28,White,Sexual Assault,Life,5,1987,1992,True,WV
+1014,James Lee Woodard,26,Black,Murder,Life,27,1981,2008,True,TX
+1015,Cathy Woods,26,White,Murder,Life without parole,35,1980,2015,True,NV
+1016,Michael Woolfolk,23,Black,Murder,Life without parole,17,2004,2021,False,GA
+1017,Stanley Wrice,28,Black,Sexual Assault,Life,30,1983,2013,False,IL
+1018,Anthony Wright,20,Black,Murder,Life without parole,23,1993,2016,True,PA
+1019,Cleveland Wright,20,Black,Murder,20 to Life,35,1979,2014,True,DC
+1020,David Wright,17,Black,Murder,Life without parole,27,1996,2023,False,IL
+1021,"Isaac Wright, Jr.",28,Black,Drug Possession or Sale,Life,7,1991,1998,False,NJ
+1022,John Wurdemann,29,Native American,Attempted Murder,Life,16,2002,2018,False,ID
+1023,Anthony Yarbough,18,Black,Murder,75 to life,20,1994,2014,True,NY
+1024,Kenneth York,38,White,Sexual Assault,Life without parole,16,1994,2010,True,MO
+1025,Paul Young,17,Black,Murder,Life without parole,34,1987,2021,False,MI
+1026,"Dan Young, Jr.",30,Black,Murder,Life without parole,11,1994,2005,True,IL
+1027,Evan Zimmerman,53,White,Murder,Life,4,2001,2005,True,WI
