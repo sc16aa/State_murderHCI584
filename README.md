@@ -1,7 +1,9 @@
-# State_murderHCI584
-A visual guide to the people sentenced to die by the US Government who were later found innocent
+# A Visual Guide for Exonerations in the USA
+A visual guide to the people sentenced to life or execution by the United States Government who were later found innocent
 
-
-- Get a table with names, crime, year of death, and when they were found innocent the individual was put to death
-- Put results on the US map of the state they were executed
-- Allow users to sort by state, year, or crime
+Follow these steps to use this application
+- Clone the Repository OR if you'd like to download the files instead,
+  ensure App_Data.ipynb is saved in the same folder as Main_app.py
+- Ensure all libraries are installed
+- Run the application
+- Click the different radio buttons to see different data sets
