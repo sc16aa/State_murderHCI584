@@ -34,7 +34,7 @@ app.layout = html.Div([
                                         page_size=99999,
                                         #virtualization=True,   
                                         style_table={'overflowy': 'auto', 
-                                                     'height':500
+                                                     'height':500,
                                                      }
     )
 ])    
