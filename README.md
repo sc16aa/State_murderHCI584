@@ -7,3 +7,4 @@ Follow these steps to use this application
 - Ensure all libraries are installed
 - Run the application
 - Click the different radio buttons to see different data sets
+![screenshot] https://github.com/sc16aa/State_murderHCI584/blob/main/Screenshot%202023-08-01%20at%2011.32.46%20AM.png
