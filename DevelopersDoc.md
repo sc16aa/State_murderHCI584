@@ -19,3 +19,7 @@ The app code is broken up into about 3 parts <p>
 	 		<li> The second set of radio buttons coordinates to the histogram and links to 'filtered.csv'</ol>
 <li>Defining the two functions to update the graphs is the final part of the code
 </ol>
+<h4> Final Thoughts </h4>
+<p> I don't expect this application to be used in any official capacity.
+However, I would like to keep working on the UI and adding more information for people.
+This information could include a system to look up the user's congressperson or state rep or a link to any states considering abolishing the death penalty. </p>
