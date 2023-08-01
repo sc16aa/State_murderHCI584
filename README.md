@@ -7,4 +7,9 @@ Follow these steps to use this application
 - Ensure all libraries are installed
 - Run the application
 - Click the different radio buttons to see different data sets
-![screenshot] https://github.com/sc16aa/State_murderHCI584/blob/main/Screenshot%202023-08-01%20at%2011.32.46%20AM.png
+
+<img width="1370" alt="Screenshot 2023-08-01 at 11 32 46 AM" src="https://github.com/sc16aa/State_murderHCI584/assets/36209141/ec1520e2-12c8-432b-b559-abbec50454ce">
+
+#FAQ
+- If the graphs are not popping up in your application, try right clicking and opening up an interactive window
+- 
