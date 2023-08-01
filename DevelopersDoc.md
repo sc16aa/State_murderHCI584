@@ -13,7 +13,7 @@ The majority of the project is filtering through the 'filtered.csv.' The choropl
 ###Flow of the Code
 The app code is broken up into about 3 parts
 	1. Calling the libraries necessary and incorporating the necessary csv documents for the graphs
-  2. Setting up the app layout using html
+  	2. Setting up the app layout using html
 			- The first set of radio buttons coordinates to the choropleth map and links to 'StateAggregates.csv'
 	 		- The second set of radio buttons coordinates to the histogram and links to 'filtered.csv'
 	3. Defining the two functions to update the graphs is the final part of the code 
