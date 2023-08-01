@@ -29,7 +29,9 @@ app.layout = html.Div([
     
     dcc.Graph(figure={}, id = 'graph-output'), #getting weird error figure is an array not object
     html.Br(),
-    #need to make radio buttons to filter table_df
+    
+    html.H2('Full List of those Convicted but Later Found Innocent', style = {'text-align':'center'}),
+   
     dash_table.DataTable(data = table_df.to_dict('records'), 
                                         page_size=99999,
                                         #virtualization=True,   
@@ -44,7 +46,8 @@ app.layout = html.Div([
 
 @callback(
     Output(component_id='graph-output', component_property='figure'),
-    Input(component_id='radio-buttons', component_property='value')
+    [Input(component_id='radio-buttons', component_property='value'),
+     Input(component_id="radio-buttons-Table",component_property='children')]
 )
 
 
