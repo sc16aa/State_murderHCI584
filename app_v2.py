@@ -20,7 +20,7 @@ app.layout = html.Div([
     html.H1("Exonerated from Prison: Names and Data", style={'text-align': 'center'}),
     html.Br(),
     
-    dcc.RadioItems(options=['AvgAge', 'AvgDurationYrs', 'DNAprob', 'NumInmates', 'MajRace'], 
+    dcc.RadioItems(options=['AvgAge', 'AvgDurationYrs', 'DNAprob', 'NumInmates', 'MajRace'], value = 'AvgAge',
                    inline=True, 
                    id='radio-buttons',
                    style={'color': 'Black', 'font-size': 20}),
@@ -51,13 +51,16 @@ app.layout = html.Div([
 
 def update_graph(value):   #value to return differnt maps
     fig = px.choropleth(
-    df,
-    locations='ST',
-    locationmode="USA-states",
-    hover_data=["ST", value],
-    color = value,
-    color_continuous_scale=px.colors.cyclical.IceFire,
-    projection="orthographic"),
+        data_frame= df,
+        locations= 'ST',
+        locationmode='USA-states',
+        scope="usa",
+        color = value,
+        hover_data=['ST', value],
+        color_continuous_scale=px.colors.sequential.YlOrRd,
+        template='plotly_dark'
+    )    
+    
     return fig
 
 
