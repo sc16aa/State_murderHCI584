@@ -3,7 +3,7 @@ A visual guide to the people sentenced to life or execution by the United States
 
 Follow these steps to use this application
 - Clone the Repository OR if you'd like to download the files instead,
-  ensure App_Data.ipynb is saved in the same folder as Main_app.py
+  ensure 'filtered.csv' and 'StateAggregates.csv' are saved in the same folder as Main_app.py
 - Ensure all libraries are installed
 - Run the application
 - Click the different radio buttons to see different data sets
@@ -12,4 +12,4 @@ Follow these steps to use this application
 
 #FAQ
 - If the graphs are not popping up in your application, try right clicking and opening up an interactive window
-- 
+
